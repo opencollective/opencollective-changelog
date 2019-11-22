@@ -1,0 +1,18 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "preset-env": {
+          "modules": "auto"
+        },
+        "transform-runtime": {
+          "useESModules": false
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "lodash"
+  ]
+}

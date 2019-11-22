@@ -1,0 +1,13 @@
+{
+  "extends": ["opencollective"],
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "no-console": "warn",
+    "require-await": "warn",
+    "no-constant-condition": ["warn", { "checkLoops": false }]
+  }
+}
