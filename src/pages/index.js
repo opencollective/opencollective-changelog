@@ -63,7 +63,6 @@ export default class Index extends React.Component {
         label.color = "e1663f";
         break;
       case "feature":
-        label.name = "added";
         label.color = "28a745";
     }
     return label;
