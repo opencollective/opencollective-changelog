@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon --exec babel-node -- src/server/index.js",
+    "build": "npm run build:clean && npm run build:server && npm run build:next",
+    "build:clean": "rimraf dist src/.next",
+    "build:server": "babel --copy-files ./src --out-dir ./dist --ignore src/pages/*,src/components/*",
+    "build:next": "next build dist",
     "changelog:update": "babel-node -- src/scripts/update_changelog.js"
   },
   "keywords": [
