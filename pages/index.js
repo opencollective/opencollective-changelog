@@ -1,88 +1,288 @@
-import React from 'react'
-import Head from 'next/head'
-import Nav from '../components/nav'
+import React, { Fragment } from "react";
+import moment from "moment";
+import fetch from "isomorphic-unfetch";
 
-const Home = () => (
-  <div>
-    <Head>
-      <title>Home</title>
-      <link rel="icon" href="/favicon.ico" />
-    </Head>
+import Logo from "../components/Logo";
 
-    <Nav />
+export default class Index extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      changelogs: {}
+    };
+  }
 
-    <div className="hero">
-      <h1 className="title">Welcome to Next.js!</h1>
-      <p className="description">
-        To get started, edit <code>pages/index.js</code> and save to reload.
-      </p>
+  async componentDidMount() {
+    try {
+      const result = await fetch("http://localhost:3000/api/changelogs");
+      if (result.ok) {
+        const changelogs = await result.json();
+        this.setState({
+          changelogs
+        });
+      }
+    } catch (err) {
+      console.error(err);
+    }
+  }
 
-      <div className="row">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Learn more about Next.js in the documentation.</p>
-        </a>
-        <a href="https://nextjs.org/learn" className="card">
-          <h3>Next.js Learn &rarr;</h3>
-          <p>Learn about Next.js by following an interactive tutorial!</p>
-        </a>
-        <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
-          className="card"
-        >
-          <h3>Examples &rarr;</h3>
-          <p>Find other example boilerplates on the Next.js GitHub.</p>
-        </a>
-      </div>
-    </div>
+  getIssueLabel(labels) {
+    return labels.find(label => {
+      if (
+        label.name === "feature" ||
+        label.name === "enhancement" ||
+        label.name === "bug" ||
+        label.name === "test"
+      ) {
+        return label;
+      }
+    });
+  }
 
-    <style jsx>{`
-      .hero {
-        width: 100%;
-        color: #333;
-      }
-      .title {
-        margin: 0;
-        width: 100%;
-        padding-top: 80px;
-        line-height: 1.15;
-        font-size: 48px;
-      }
-      .title,
-      .description {
-        text-align: center;
-      }
-      .row {
-        max-width: 880px;
-        margin: 80px auto 40px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-      }
-      .card {
-        padding: 18px 18px 24px;
-        width: 220px;
-        text-align: left;
-        text-decoration: none;
-        color: #434343;
-        border: 1px solid #9b9b9b;
-      }
-      .card:hover {
-        border-color: #067df7;
-      }
-      .card h3 {
-        margin: 0;
-        color: #067df7;
-        font-size: 18px;
-      }
-      .card p {
-        margin: 0;
-        padding: 12px 0 0;
-        font-size: 13px;
-        color: #333;
-      }
-    `}</style>
-  </div>
-)
+  getDateRange(issues) {
+    const dates = issues.map(issue => {
+      return moment(issue.closed_at, "YYYY-MM-DD");
+    });
 
-export default Home
+    return {
+      from: moment.min(dates),
+      to: moment.max(dates)
+    };
+  }
+
+  getWeeks(changelogs) {
+    return Object.keys(changelogs).reverse();
+  }
+
+  reformatLabel(label = {}) {
+    switch (label.name) {
+      case "bug":
+        label.name = "fixed";
+        label.color = "0066d6";
+        break;
+      case "enhancement":
+        label.name = "improved";
+        label.color = "e1663f";
+        break;
+      case "feature":
+        label.color = "28a745";
+    }
+    return label;
+  }
+
+  renderAssignees(assignees) {
+    if (assignees.length >= 1) {
+      return (
+        <Fragment>
+          Thanks{" "}
+          {assignees.map(assignee => (
+            <a
+              key={assignee.login}
+              href={assignee.html_url}
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              @{assignee.login}
+            </a>
+          ))}
+        </Fragment>
+      );
+    }
+  }
+
+  renderWeekIssues(week) {
+    const { changelogs } = this.state;
+    const issues = changelogs[week];
+    const { from, to } = this.getDateRange(issues);
+
+    return (
+      <Fragment key={week}>
+        <style jsx>
+          {`
+            .changeHeader {
+              display: flex;
+              align-items: baseline;
+            }
+            .weeklabel {
+              padding: 5px;
+              background: #6f41c0;
+              color: #fff;
+              border-radius: 4px;
+            }
+            .dateRange {
+              font-size: 20px;
+              margin-left: 10px;
+            }
+            .issueList {
+              margin-left: 50px;
+            }
+            .issueList li {
+              list-style: none;
+              display: flex;
+              align-items: baseline;
+              font-size: 14px;
+            }
+            .issueLabel {
+              padding: 2px 5px;
+              font-size: 10px;
+              width: 100px;
+              text-transform: uppercase;
+              text-align: center;
+              color: #fff;
+              border-radius: 3px;
+              box-sizing: border-box;
+              margin-right: 11px;
+            }
+          `}
+        </style>
+        <section>
+          <header className="changeHeader">
+            <span className="weeklabel">{`${from.format("Wo")} Week`}</span>
+            <p className="dateRange">
+              {`${from.format("MMMM")} ${from.format("Do")} - ${to.format(
+                "Do"
+              )} ${to.format("YYYY")}`}
+            </p>
+          </header>
+          {issues.map(issue => {
+            let label = this.getIssueLabel(issue.labels);
+            label = this.reformatLabel(label);
+            return (
+              <ul className="issueList" key={issue.id}>
+                <li>
+                  <div
+                    className="issueLabel"
+                    style={{ backgroundColor: `#${label.color}` }}
+                  >
+                    {label.name}
+                  </div>
+                  <div className="title">
+                    {issue.title} -{" "}
+                    <a
+                      href={issue.html_url}
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >{`#${issue.number}`}</a>
+                    . {this.renderAssignees(issue.assignees)}
+                  </div>
+                </li>
+              </ul>
+            );
+          })}
+        </section>
+      </Fragment>
+    );
+  }
+
+  render() {
+    const { changelogs } = this.state;
+    const weeks = this.getWeeks(changelogs);
+
+    return (
+      <Fragment>
+        <style jsx global>
+          {`
+            body {
+              color: #414141;
+            }
+            a,
+            a:visited {
+              color: #4f53f4;
+            }
+            a:hover {
+              text-decoration: underline;
+            }
+          `}
+        </style>
+        <style jsx>
+          {`
+            .header {
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              align-items: center;
+              margin-top: 30px;
+            }
+            .topLinks {
+              display: flex;
+            }
+            .topLinks li {
+              list-style: none;
+              margin: 5px 10px;
+            }
+            .topLinks li a {
+              text-decoration: none;
+              font-size: 14px;
+            }
+            .active {
+              color: #000;
+            }
+            .changelogWrapper {
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              align-items: center;
+              margin: auto;
+            }
+            h1 {
+              color: #000;
+              margin: 0;
+            }
+            .changelogWrapper {
+              margin-top: 20px;
+              margin-bottom: 20px;
+            }
+            .descrpition {
+              padding: 20px;
+              border-bottom: 1px #e1e4e8 solid;
+              margin-bottom: 20px;
+            }
+            .descrpition h1 {
+              font-weight: 500;
+            }
+          `}
+        </style>
+        <div>
+          <div className="header">
+            <Logo />
+            <ul className="topLinks">
+              <li>
+                <a
+                  href="https://github.com/opencollective/opencollective"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Overview
+                </a>
+              </li>
+              <li>
+                <a href="/" className="active">
+                  Release Notes
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://docs.opencollective.com"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Docs
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div className="changelogWrapper">
+            <div>
+              <div className="descrpition">
+                <h1>Release notes for Opencollective</h1>
+              </div>
+              {weeks.map(week => {
+                return this.renderWeekIssues(week);
+              })}
+            </div>
+          </div>
+        </div>
+      </Fragment>
+    );
+  }
+}
