@@ -8,6 +8,11 @@
     "start": "next start",
     "update:changelog": "babel-node -- scripts/index.js"
   },
+  "keywords": [
+    "opencollect"
+  ],
+  "author": "Oluwaseun Omoyajowo",
+  "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^16.35.0",
     "@zeit/next-css": "^1.0.1",
