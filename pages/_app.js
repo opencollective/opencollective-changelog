@@ -11,7 +11,7 @@ class MyApp extends App {
       <Fragment>
         <Head>
           <link rel="icon" href="/favicon.ico" />
-          <title>Release Notes for Opencollective.</title>
+          <title>Release Notes for Open Collective.</title>
         </Head>
         <Component {...pageProps} />
       </Fragment>

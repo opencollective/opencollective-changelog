@@ -274,7 +274,7 @@ export default class Index extends React.Component {
           <div className="changelogWrapper">
             <div>
               <div className="descrpition">
-                <h1>Release notes for Opencollective</h1>
+                <h1>Release notes for Open Collective</h1>
               </div>
               {weeks.map(week => {
                 return this.renderWeekIssues(week);
