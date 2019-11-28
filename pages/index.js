@@ -14,7 +14,7 @@ export default class Index extends React.Component {
 
   async componentDidMount() {
     try {
-      const result = await fetch("http://localhost:3000/api/changelogs");
+      const result = await fetch("/api/changelogs");
       if (result.ok) {
         const changelogs = await result.json();
         this.setState({
