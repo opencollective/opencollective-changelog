@@ -5,7 +5,7 @@ const changelogs2019Path = path.resolve(
   __dirname,
   "../../changelogs/2019.json"
 );
-const configFile = path.resolve(__dirname, "../scripts/config.json");
+const configFile = path.resolve(__dirname, "../config.json");
 
 const logs = editJsonFile(changelogs2019Path);
 const config = editJsonFile(configFile);
@@ -41,4 +41,5 @@ export function saveMultipleLogs(issues) {
 
 export function setLastChangeLogUpdateDate(date) {
   config.set("updatedSince", date);
+  config.save();
 }

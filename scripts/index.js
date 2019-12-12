@@ -40,7 +40,7 @@ async function run() {
 run()
   .then(() => {
     console.log(">>> Completed!");
-    setLastChangeLogUpdateDate(moment().format());
+    setLastChangeLogUpdateDate(moment().format("YYYY-MM-DD"));
     process.exit();
   })
   .catch(err => {
