@@ -30,13 +30,9 @@ This will start your local copy of Changelog. You can access it at `http://local
 
 ## Updating Changelog
 
-To update the changelog in order and see the latest changes:
+Changelog uses a single command to update logs:
 
-- Run `npm run update:changelog`. The changelog will be updated.
-
-- The latest changes will be added to the log file, commit the file.
-
-- Open a PR to merge the changes with `master`.
+- Run `npm run update-and-deploy`
 
 ## Production
 
