@@ -54,7 +54,7 @@ Switch to the Open Collective team account:
 
 - Run `now --prod` to deploy the latest changelog
 
-- If everything is ok, finalize with: `now alias`
+- If everything is ok, finalize with: `now alias opencollective-changelog.now.sh changelog.opencollective.com`
 
 ## License
 
