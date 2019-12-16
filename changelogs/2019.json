@@ -18157,6 +18157,194 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 536105187,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2707",
+      "title": "'Find out more' link is broken.",
+      "number": 2707,
+      "closed_at": "2019-12-12T10:59:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "contraexemplo",
+          "html_url": "https://github.com/contraexemplo"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 533290343,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2687",
+      "title": "BackYourStack: layout broken with Company Banner",
+      "number": 2687,
+      "closed_at": "2019-12-13T12:25:03Z",
+      "labels": [
+        {
+          "name": "backyourstack",
+          "color": "6f15e3"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 523201178,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2639",
+      "title": "paypal payment fails , offers horrific UI output",
+      "number": 2639,
+      "closed_at": "2019-12-10T13:58:51Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 379511138,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1428",
+      "title": "Collective Page → How to get to the expenses page? (EPIC #1928) ",
+      "number": 1428,
+      "closed_at": "2019-12-12T15:03:44Z",
+      "labels": [
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "design → UX",
+          "color": "0061E0"
+        },
+        {
+          "name": "design → community request",
+          "color": "0061E0"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 294506700,
+      "html_url": "https://github.com/opencollective/opencollective/issues/883",
+      "title": "Design Bug → Lack of clarity around how much a user is donating to an OC",
+      "number": 883,
+      "closed_at": "2019-12-12T15:10:32Z",
+      "labels": [
+        {
+          "name": "Bug Fix Fridays",
+          "color": "ed9f8e"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "cuiki",
+          "html_url": "https://github.com/cuiki"
+        }
+      ],
+      "closed_week": 50
+    }
+  ],
+  "week-51": [
+    {
+      "id": 533854535,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2695",
+      "title": "Ability to limit user account",
+      "number": 2695,
+      "closed_at": "2019-12-16T08:21:24Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 51
     }
   ]
 }
