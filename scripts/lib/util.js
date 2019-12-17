@@ -36,3 +36,12 @@ export function getData(issues) {
 
   return groupBy(extractedData, "closed_week");
 }
+
+export function getNumberOfYears(numberOfWeeks) {
+  const numberOfYears = Math.floor(numberOfWeeks / 52);
+  const weeksLeft = numberOfWeeks % 52;
+  if (weeksLeft >= 1) {
+    return numberOfYears + 1;
+  }
+  return numberOfYears;
+}
