@@ -6,12 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "update:changelog": "babel-node -- scripts/index.js"
+    "changelog:commit": "cross-env ./scripts/commit_logs.sh",
+    "changelog:update": "babel-node -- scripts/index.js",
+    "deploy": "now --prod && now alias opencollective-changelog.now.sh changelog.opencollective.com",
+    "update-and-deploy": "npm-run-all changelog:update deploy changelog:commit"
   },
   "keywords": [
     "opencollect"
   ],
-  "author": "Oluwaseun Omoyajowo",
+  "author": "Oluwaseun Omoyajowo <omoyajowo2015@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^16.35.0",
@@ -31,6 +34,7 @@
     "@babel/node": "^7.6.3",
     "babel-eslint": "^10.0.3",
     "babel-plugin-lodash": "^3.3.4",
+    "cross-env": "^6.0.3",
     "eslint": "^6.5.1",
     "eslint-config-opencollective": "^2.0.0",
     "eslint-plugin-babel": "^5.3.0",
@@ -40,6 +44,7 @@
     "file-loader": "^4.2.0",
     "husky": "^3.1.0",
     "lint-staged": "^9.4.3",
+    "npm-run-all": "^4.1.5",
     "prettier": "^1.18.2"
   },
   "husky": {
