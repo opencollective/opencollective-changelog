@@ -1,5 +1,6 @@
 import editJsonFile from "edit-json-file";
 import path from "path";
+import { uniqBy } from "lodash";
 
 const changelogs2019Path = path.resolve(
   __dirname,
@@ -14,7 +15,7 @@ export function saveWeekLogs(week, issues) {
   const weekPath = `week-${week}`;
   const weekIssues = logs.get(weekPath);
   if (weekIssues) {
-    logs.set(weekPath, [...weekIssues, ...issues]);
+    logs.set(weekPath, uniqBy([...weekIssues, ...issues], "id"));
   } else {
     logs.set(weekPath, issues);
   }
