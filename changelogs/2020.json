@@ -1,0 +1,369 @@
+{
+  "week-1": [
+    {
+      "id": 543033607,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2767",
+      "title": "Images too big for expense comments",
+      "number": 2767,
+      "closed_at": "2020-01-03T11:59:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 536715977,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2713",
+      "title": "email and name field missing from organization creation",
+      "number": 2713,
+      "closed_at": "2020-01-03T15:07:40Z",
+      "labels": [
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 521811582,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2626",
+      "title": "Add reject button to Collective application email notification",
+      "number": 2626,
+      "closed_at": "2020-01-03T15:12:24Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "notifications",
+          "color": "a702e2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    },
+    {
+      "id": 455566464,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2117",
+      "title": "Add a `formattedAmount` field for Zapier payloads",
+      "number": 2117,
+      "closed_at": "2020-01-03T13:11:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 409846565,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1732",
+      "title": "Make links in comments clickable",
+      "number": 1732,
+      "closed_at": "2020-01-03T12:03:05Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    }
+  ],
+  "week-2": [
+    {
+      "id": 546789009,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2783",
+      "title": "Contributors can't download PDF receipt",
+      "number": 2783,
+      "closed_at": "2020-01-09T13:38:43Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 546366472,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2781",
+      "title": "Clicking \"Next\" on Discover doesn't scroll you up to the top of the content",
+      "number": 2781,
+      "closed_at": "2020-01-09T08:42:07Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 545413597,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2771",
+      "title": "Several 404 pages on REST API docs",
+      "number": 2771,
+      "closed_at": "2020-01-08T13:00:33Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "contraexemplo",
+          "html_url": "https://github.com/contraexemplo"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 541651747,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2761",
+      "title": "Pending Orders Reminder Crash",
+      "number": 2761,
+      "closed_at": "2020-01-06T08:51:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 539215281,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2739",
+      "title": "Ability to ban users from the platform",
+      "number": 2739,
+      "closed_at": "2020-01-07T12:26:13Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 513292179,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2567",
+      "title": "HostDashboard: Improve error display",
+      "number": 2567,
+      "closed_at": "2020-01-08T13:01:29Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 480611774,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2331",
+      "title": "New collective setting to select plan",
+      "number": 2331,
+      "closed_at": "2020-01-07T09:57:57Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 465806369,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2223",
+      "title": "Conversations - community discussions on Collective pages",
+      "number": 2223,
+      "closed_at": "2020-01-08T13:17:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    }
+  ]
+}
