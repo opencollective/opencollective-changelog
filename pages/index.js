@@ -90,9 +90,9 @@ export default class Index extends React.Component {
     }
   }
 
-  renderWeekIssues(week) {
+  renderWeekIssues(week, year) {
     const { changelogs } = this.state;
-    const issues = changelogs[week];
+    const issues = changelogs[year][week];
     const { from, to } = this.getDateRange(issues);
 
     return (
@@ -176,7 +176,6 @@ export default class Index extends React.Component {
 
   render() {
     const { changelogs } = this.state;
-    const weeks = this.getWeeks(changelogs);
 
     return (
       <Fragment>
@@ -276,9 +275,11 @@ export default class Index extends React.Component {
               <div className="descrpition">
                 <h1>Release notes for Open Collective</h1>
               </div>
-              {weeks.map(week => {
-                return this.renderWeekIssues(week);
-              })}
+              {Object.keys(changelogs).map(year =>
+                this.getWeeks(changelogs[year]).map(week =>
+                  this.renderWeekIssues(week, year)
+                )
+              )}
             </div>
           </div>
         </div>
