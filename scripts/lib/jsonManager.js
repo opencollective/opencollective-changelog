@@ -1,46 +1,50 @@
-import editJsonFile from "edit-json-file";
+import editJsonFile from "edit-json-file"
+import fs from "fs";
 import path from "path";
 import { uniqBy } from "lodash";
 
-const changelogs2019Path = path.resolve(
-  __dirname,
-  "../../changelogs/2019.json"
-);
 const configFile = path.resolve(__dirname, "../config.json");
-
-const logs = editJsonFile(changelogs2019Path);
 const config = editJsonFile(configFile);
 
-export function saveWeekLogs(week, issues) {
+function getLogPath(year) {
+  return path.resolve(__dirname, `../../changelogs/${year}.json`);
+}
+
+function logs(year) {
+  return editJsonFile(getLogPath(year));
+}
+
+export function saveWeekLogs(year, week, issues) {
   const weekPath = `week-${week}`;
-  const weekIssues = logs.get(weekPath);
+  const yearLog = logs(year);
+  const weekIssues = yearLog.get(weekPath);
   if (weekIssues) {
-    logs.set(weekPath, uniqBy([...weekIssues, ...issues], "id"));
+    yearLog.set(weekPath, uniqBy([...weekIssues, ...issues], "id"));
   } else {
-    logs.set(weekPath, issues);
+    yearLog.set(weekPath, issues);
   }
-  logs.save();
+  yearLog.save();
 }
 
-export function getWeekLogs(week) {
-  return logs.get(`week-${week}`);
+export function getWeekLogs(year, week) {
+  return logs(year).get(`week-${week}`);
 }
 
-/**
- *  Curent year is 2019 which is the default
- * @todo enable other years
- */
-export function getYearLogs() {
-  return logs.get();
+export function getYearLogs(year) {
+  return logs(year).get();
 }
 
-export function saveMultipleLogs(issues) {
+export function saveMultipleLogs(year, issues) {
   for (const week in issues) {
-    saveWeekLogs(week, issues[week]);
+    saveWeekLogs(year, week, issues[week]);
   }
 }
 
 export function setLastChangeLogUpdateDate(date) {
   config.set("updatedSince", date);
   config.save();
+}
+
+export function createNewLog(year) {
+  return fs.writeFileSync(getLogPath(year), JSON.stringify({}), "utf-8");
 }
