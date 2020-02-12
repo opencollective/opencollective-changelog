@@ -995,6 +995,280 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 507816349,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2528",
+      "title": "Don't require to connect a Stripe account to become a host",
+      "number": 2528,
+      "closed_at": "2020-02-06T21:02:20Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 502105371,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2495",
+      "title": "Event: ticket is not respecting parameters set when created",
+      "number": 2495,
+      "closed_at": "2020-02-05T11:54:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 6
+    },
+    {
+      "id": 499775297,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2464",
+      "title": "event creation failure still creates a template",
+      "number": 2464,
+      "closed_at": "2020-02-05T11:50:26Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 6
+    },
+    {
+      "id": 400104691,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1640",
+      "title": "Bugs when changing event template",
+      "number": 1640,
+      "closed_at": "2020-02-05T11:49:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 6
+    }
+  ],
+  "week-7": [
+    {
+      "id": 562648379,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2901",
+      "title": "Tab styles missing",
+      "number": 2901,
+      "closed_at": "2020-02-11T11:49:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    },
+    {
+      "id": 562448460,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2899",
+      "title": "Email for admins of the host to approve manual contribution is sent to the contributor",
+      "number": 2899,
+      "closed_at": "2020-02-11T08:34:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    },
+    {
+      "id": 559057304,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2863",
+      "title": "API crash (heap out of memory)",
+      "number": 2863,
+      "closed_at": "2020-02-11T19:48:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 558934110,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2860",
+      "title": "Issue when trying to change the host fee",
+      "number": 2860,
+      "closed_at": "2020-02-12T07:45:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    },
+    {
+      "id": 554796295,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2849",
+      "title": "The parameters from the post-donation redirect doesn't return an UUID primary key for orderId and transactionId",
+      "number": 2849,
+      "closed_at": "2020-02-10T08:26:31Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    },
+    {
+      "id": 550716110,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2822",
+      "title": "Multiple payout methods per collectives",
+      "number": 2822,
+      "closed_at": "2020-02-10T12:50:42Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
     }
   ]
 }
