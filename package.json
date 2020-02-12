@@ -8,7 +8,7 @@
     "start": "next start",
     "changelog:commit": "cross-env ./scripts/commit_logs.sh",
     "changelog:update": "babel-node -- scripts/index.js",
-    "deploy": "now --prod && now alias opencollective-changelog.now.sh changelog.opencollective.com",
+    "deploy": "now --prod",
     "update-and-deploy": "npm-run-all changelog:update deploy changelog:commit"
   },
   "keywords": [
