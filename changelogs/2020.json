@@ -2568,34 +2568,5 @@
       ],
       "closed_week": 12
     }
-  ],
-  "week-37": [
-    {
-      "id": 439884384,
-      "html_url": "https://github.com/opencollective/opencollective/issues/1995",
-      "title": "\"no payment source available\" paypal error",
-      "number": 1995,
-      "closed_at": "2019-09-11T13:18:53Z",
-      "labels": [
-        {
-          "name": "api",
-          "color": "522f99"
-        },
-        {
-          "name": "bug",
-          "color": "fc2929"
-        },
-        {
-          "name": "complexity → unknown",
-          "color": "f99db1"
-        },
-        {
-          "name": "expenses",
-          "color": "43efb0"
-        }
-      ],
-      "assignees": [],
-      "closed_week": 37
-    }
   ]
 }
