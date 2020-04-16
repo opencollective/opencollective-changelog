@@ -9,6 +9,7 @@
     "changelog:commit": "cross-env ./scripts/commit_logs.sh",
     "changelog:update": "babel-node -- scripts/index.js",
     "deploy": "now --prod",
+    "update-and-commit": "npm-run-all changelog:update changelog:commit",
     "update-and-deploy": "npm-run-all changelog:update deploy changelog:commit"
   },
   "keywords": [
