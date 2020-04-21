@@ -20,5 +20,5 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
       - run: npm run build --if-present
-      - run: git config --global user.email "actions@github.com" && git config --global user.name "GitHub Actions"
+      - run: git config --global user.email "ci@opencollective.com" && git config --global user.name "Open Collective CI"
       - run: npm run update-and-commit
