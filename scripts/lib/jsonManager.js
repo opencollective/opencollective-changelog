@@ -1,7 +1,8 @@
-import editJsonFile from "edit-json-file"
+import editJsonFile from "edit-json-file";
 import fs from "fs";
 import path from "path";
-import { uniqBy } from "lodash";
+import moment from "moment";
+import { unionBy } from "lodash";
 
 const configFile = path.resolve(__dirname, "../config.json");
 const config = editJsonFile(configFile);
@@ -19,7 +20,7 @@ export function saveWeekLogs(year, week, issues) {
   const yearLog = logs(year);
   const weekIssues = yearLog.get(weekPath);
   if (weekIssues) {
-    yearLog.set(weekPath, uniqBy([...weekIssues, ...issues], "id"));
+    yearLog.set(weekPath, unionBy([...issues, ...weekIssues], "id"));
   } else {
     yearLog.set(weekPath, issues);
   }
@@ -34,9 +35,9 @@ export function getYearLogs(year) {
   return logs(year).get();
 }
 
-export function saveMultipleLogs(year, issues) {
+export function saveMultipleLogs(issues) {
   for (const week in issues) {
-    saveWeekLogs(year, week, issues[week]);
+    saveWeekLogs(moment(issues[week][0].closed_at).year(), week, issues[week]);
   }
 }
 
