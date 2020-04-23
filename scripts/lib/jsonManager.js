@@ -2,7 +2,7 @@ import editJsonFile from "edit-json-file";
 import fs from "fs";
 import path from "path";
 import moment from "moment";
-import { unionBy } from "lodash";
+import { uniqBy } from "lodash";
 
 const configFile = path.resolve(__dirname, "../config.json");
 const config = editJsonFile(configFile);
@@ -20,7 +20,7 @@ export function saveWeekLogs(year, week, issues) {
   const yearLog = logs(year);
   const weekIssues = yearLog.get(weekPath);
   if (weekIssues) {
-    yearLog.set(weekPath, unionBy([...issues, ...weekIssues], "id"));
+    yearLog.set(weekPath, uniqBy([...weekIssues, ...issues], "id"));
   } else {
     yearLog.set(weekPath, issues);
   }
