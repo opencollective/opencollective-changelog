@@ -4144,43 +4144,5 @@
       ],
       "closed_week": 17
     }
-  ],
-  "week-37": [
-    {
-      "id": 462348982,
-      "html_url": "https://github.com/opencollective/opencollective/issues/2180",
-      "title": "Events form does not let you correct errors",
-      "number": 2180,
-      "closed_at": "2019-09-10T09:06:08Z",
-      "labels": [
-        {
-          "name": "$100",
-          "color": "85bb65"
-        },
-        {
-          "name": "bounty",
-          "color": "85bb65"
-        },
-        {
-          "name": "bug",
-          "color": "fc2929"
-        },
-        {
-          "name": "complexity → simple",
-          "color": "f99db1"
-        },
-        {
-          "name": "frontend",
-          "color": "b6adea"
-        }
-      ],
-      "assignees": [
-        {
-          "login": "sudo-kaizen",
-          "html_url": "https://github.com/sudo-kaizen"
-        }
-      ],
-      "closed_week": 37
-    }
   ]
 }
