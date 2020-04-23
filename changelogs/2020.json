@@ -4103,6 +4103,46 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 564293360,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2907",
+      "title": "Add free text field under Invoices & Receipts setting for hosts",
+      "number": 2907,
+      "closed_at": "2020-04-22T07:51:54Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "vinuch",
+          "html_url": "https://github.com/vinuch"
+        }
+      ],
+      "closed_week": 17
     }
   ],
   "week-37": [
