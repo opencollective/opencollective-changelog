@@ -30,7 +30,7 @@ This will start your local copy of Changelog. You can access it at `http://local
 
 ## Updating Changelog
 
-Changelog uses a single command to update logs:
+Changelog is auto updated everyday at 00.00 a.m UTC. If you want to update the changelog manually use the following command:
 
 - Run `npm run update-and-deploy`
 
