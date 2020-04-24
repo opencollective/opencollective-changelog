@@ -4143,6 +4143,25 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 602459884,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3072",
+      "title": "Currency mismatches when the host connect or reconnect Stripe",
+      "number": 3072,
+      "closed_at": "2020-04-23T11:59:43Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 17
     }
   ],
   "week-37": [
