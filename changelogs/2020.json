@@ -4162,6 +4162,58 @@
       ],
       "assignees": [],
       "closed_week": 17
+    },
+    {
+      "id": 602035621,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3066",
+      "title": "New expense flow: amount input inconsistent behavior",
+      "number": 3066,
+      "closed_at": "2020-04-24T13:56:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 597390233,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3048",
+      "title": "Host dashboard: add attached files to expenses",
+      "number": 3048,
+      "closed_at": "2020-04-24T07:41:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
     }
   ],
   "week-37": [
