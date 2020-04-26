@@ -4214,6 +4214,21 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 601266198,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3064",
+      "title": "How to crash out, why the balance is transfed to opencollective",
+      "number": 3064,
+      "closed_at": "2020-04-25T08:29:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 17
     }
   ],
   "week-37": [
