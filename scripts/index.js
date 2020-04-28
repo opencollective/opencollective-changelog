@@ -34,7 +34,7 @@ async function run() {
   }
   issues = filterIssuesBylabels(issues, labels);
   issues = getData(issues);
-  return saveMultipleLogs(moment().year(), issues);
+  return saveMultipleLogs(issues);
 }
 
 run()

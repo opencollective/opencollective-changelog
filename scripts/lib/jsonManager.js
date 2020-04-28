@@ -1,6 +1,7 @@
-import editJsonFile from "edit-json-file"
+import editJsonFile from "edit-json-file";
 import fs from "fs";
 import path from "path";
+import moment from "moment";
 import { uniqBy } from "lodash";
 
 const configFile = path.resolve(__dirname, "../config.json");
@@ -34,9 +35,9 @@ export function getYearLogs(year) {
   return logs(year).get();
 }
 
-export function saveMultipleLogs(year, issues) {
+export function saveMultipleLogs(issues) {
   for (const week in issues) {
-    saveWeekLogs(year, week, issues[week]);
+    saveWeekLogs(moment(issues[week][0].closed_at).year(), week, issues[week]);
   }
 }
 
