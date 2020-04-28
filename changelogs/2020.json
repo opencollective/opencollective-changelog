@@ -4268,5 +4268,54 @@
       ],
       "closed_week": 37
     }
+  ],
+  "week-18": [
+    {
+      "id": 605619067,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3084",
+      "title": "FAQ layout issue on Safari",
+      "number": 3084,
+      "closed_at": "2020-04-27T12:21:06Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 602457313,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3069",
+      "title": "MemberInvitations should be deleted when Collective is deleted",
+      "number": 3069,
+      "closed_at": "2020-04-27T13:27:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    }
   ]
 }
