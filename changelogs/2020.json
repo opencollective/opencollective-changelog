@@ -3920,21 +3920,6 @@
   ],
   "week-17": [
     {
-      "id": 603577068,
-      "html_url": "https://github.com/opencollective/opencollective/issues/3077",
-      "title": "Repair this!",
-      "number": 3077,
-      "closed_at": "2020-04-21T06:54:39Z",
-      "labels": [
-        {
-          "name": "bug",
-          "color": "fc2929"
-        }
-      ],
-      "assignees": [],
-      "closed_week": 17
-    },
-    {
       "id": 603246595,
       "html_url": "https://github.com/opencollective/opencollective/issues/3075",
       "title": "Sequelize validation errors being displayed as just \"ValidationError\"",
