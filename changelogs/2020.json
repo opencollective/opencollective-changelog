@@ -4278,6 +4278,62 @@
       ],
       "assignees": [],
       "closed_week": 18
+    },
+    {
+      "id": 604526800,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3080",
+      "title": "Changelog entries are not sorted properly",
+      "number": 3080,
+      "closed_at": "2020-04-28T07:38:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "changelog",
+          "color": "1d76db"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 599260669,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3054",
+      "title": "Expense redesign - Pay button set placement",
+      "number": 3054,
+      "closed_at": "2020-04-28T13:30:26Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
     }
   ]
 }
