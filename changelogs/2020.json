@@ -4319,6 +4319,112 @@
         }
       ],
       "closed_week": 18
+    },
+    {
+      "id": 609195719,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3100",
+      "title": "Activate as host fails",
+      "number": 3100,
+      "closed_at": "2020-04-29T20:12:16Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    },
+    {
+      "id": 595922647,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3040",
+      "title": "Rename \"Sub-collectives\" to \"Connected collectives\"",
+      "number": 3040,
+      "closed_at": "2020-04-29T14:22:27Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    },
+    {
+      "id": 521578352,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2625",
+      "title": "CollectivePicker: prefil the form with search input",
+      "number": 2625,
+      "closed_at": "2020-04-29T08:20:35Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 509781885,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2547",
+      "title": "Improve the way update's summaries are generated",
+      "number": 2547,
+      "closed_at": "2020-04-29T08:54:16Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 18
     }
   ]
 }
