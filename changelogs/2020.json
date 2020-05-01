@@ -4425,6 +4425,65 @@
         }
       ],
       "closed_week": 18
+    },
+    {
+      "id": 607584909,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3088",
+      "title": "Expense tags suggestion",
+      "number": 3088,
+      "closed_at": "2020-04-30T16:45:31Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 537011694,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2717",
+      "title": "Event time in SSR is wrongly translated to user timezone",
+      "number": 2717,
+      "closed_at": "2020-04-30T14:27:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
     }
   ]
 }
