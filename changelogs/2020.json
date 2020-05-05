@@ -4485,5 +4485,94 @@
       "assignees": [],
       "closed_week": 18
     }
+  ],
+  "week-19": [
+    {
+      "id": 609096452,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3099",
+      "title": "HeroAvatar: never save images from images service",
+      "number": 3099,
+      "closed_at": "2020-05-04T09:31:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 608996725,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3097",
+      "title": "hostFeePercent=0 stored as NULL in the database",
+      "number": 3097,
+      "closed_at": "2020-05-04T12:09:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 574475135,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2951",
+      "title": "Allow collective admins to delete expense",
+      "number": 2951,
+      "closed_at": "2020-05-04T12:51:20Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    }
   ]
 }
