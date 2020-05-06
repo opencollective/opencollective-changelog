@@ -4573,6 +4573,21 @@
       ],
       "assignees": [],
       "closed_week": 19
+    },
+    {
+      "id": 612540180,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3110",
+      "title": "\"Leave a public message\" is out of place",
+      "number": 3110,
+      "closed_at": "2020-05-05T11:48:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
     }
   ]
 }
