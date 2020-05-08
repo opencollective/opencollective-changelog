@@ -4636,6 +4636,136 @@
         }
       ],
       "closed_week": 19
+    },
+    {
+      "id": 613291486,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3117",
+      "title": "Checking collective funds assumes $1 fee even when \"Marking as Paid\"",
+      "number": 3117,
+      "closed_at": "2020-05-07T13:52:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 613222940,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3115",
+      "title": "contributors.svg doesn't work",
+      "number": 3115,
+      "closed_at": "2020-05-07T08:38:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 577755303,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2969",
+      "title": "Search page crashes with special characters",
+      "number": 2969,
+      "closed_at": "2020-05-07T15:26:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 555285987,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2850",
+      "title": "Image broken in  expense notification email",
+      "number": 2850,
+      "closed_at": "2020-05-07T12:42:32Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 551339225,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2827",
+      "title": "Reduce max image size in updates when shown on collective page",
+      "number": 2827,
+      "closed_at": "2020-05-07T14:56:57Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 19
     }
   ]
 }
