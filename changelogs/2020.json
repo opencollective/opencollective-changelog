@@ -4767,5 +4767,82 @@
       ],
       "closed_week": 19
     }
+  ],
+  "week-20": [
+    {
+      "id": 611574943,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3108",
+      "title": "API Question: How to get all pending expenses for collective?",
+      "number": 3108,
+      "closed_at": "2020-05-11T10:19:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 609704386,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3101",
+      "title": "StyledFilters responsiveness issue",
+      "number": 3101,
+      "closed_at": "2020-05-11T07:56:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 596575109,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3041",
+      "title": "How to add Github contributors to a collective?",
+      "number": 3041,
+      "closed_at": "2020-05-11T12:54:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    }
   ]
 }
