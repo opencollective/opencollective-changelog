@@ -4843,6 +4843,228 @@
       ],
       "assignees": [],
       "closed_week": 20
+    },
+    {
+      "id": 615822735,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3120",
+      "title": "Transferwise Error:  Cannot read property 'transfer' of null",
+      "number": 3120,
+      "closed_at": "2020-05-12T19:53:19Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 609951151,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3102",
+      "title": "TransferWise: Allow paying expense in different currency",
+      "number": 3102,
+      "closed_at": "2020-05-12T20:04:58Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 597280340,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3046",
+      "title": "Expense redesign layout enhancements",
+      "number": 3046,
+      "closed_at": "2020-05-12T08:25:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 501823100,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2487",
+      "title": "Show Collective's host on expense page",
+      "number": 2487,
+      "closed_at": "2020-05-12T10:52:30Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 453467340,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2106",
+      "title": "Expenses flow: allow for custom internal reference",
+      "number": 2106,
+      "closed_at": "2020-05-12T08:29:00Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 428994606,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1897",
+      "title": "Allow multiple attachments in one expense",
+      "number": 1897,
+      "closed_at": "2020-05-12T10:52:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 321410405,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1071",
+      "title": "activity updates in expense comments",
+      "number": 1071,
+      "closed_at": "2020-05-12T10:52:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
