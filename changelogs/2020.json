@@ -5065,6 +5065,229 @@
         }
       ],
       "closed_week": 20
+    },
+    {
+      "id": 617725537,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3139",
+      "title": "CloudFlare blocking requests",
+      "number": 3139,
+      "closed_at": "2020-05-13T20:35:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 571157141,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2931",
+      "title": "Include VAT number in receipts",
+      "number": 2931,
+      "closed_at": "2020-05-13T08:37:02Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 560982606,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2888",
+      "title": "Implement Accept Financial Contributions step 2: Organisation",
+      "number": 2888,
+      "closed_at": "2020-05-13T17:17:38Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 560505781,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2880",
+      "title": "Implement Accept Financial Contributions step 3: Fiscal host",
+      "number": 2880,
+      "closed_at": "2020-05-13T17:16:08Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 560499802,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2879",
+      "title": "Implement Accept Financial Contributions page",
+      "number": 2879,
+      "closed_at": "2020-05-13T17:11:26Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 560496506,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2878",
+      "title": "Implement onboarding modal step 1: Welcome",
+      "number": 2878,
+      "closed_at": "2020-05-13T17:09:58Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 560496456,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2877",
+      "title": "Implement onboarding modal step 3: Collective contact info",
+      "number": 2877,
+      "closed_at": "2020-05-13T17:09:47Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 560486359,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2875",
+      "title": "Implement generalised Collective signup",
+      "number": 2875,
+      "closed_at": "2020-05-13T17:09:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
