@@ -5352,5 +5352,78 @@
       ],
       "closed_week": 20
     }
+  ],
+  "week-21": [
+    {
+      "id": 618587810,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3144",
+      "title": "Expense payout via Bank account does not show up in expense email",
+      "number": 3144,
+      "closed_at": "2020-05-18T17:58:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 582932638,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2986",
+      "title": "BackYourStack Homepage",
+      "number": 2986,
+      "closed_at": "2020-05-18T19:03:34Z",
+      "labels": [
+        {
+          "name": "backyourstack",
+          "color": "6f15e3"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 539175039,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2736",
+      "title": "Misplaced public message popup on order success page",
+      "number": 2736,
+      "closed_at": "2020-05-18T15:07:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    }
   ]
 }
