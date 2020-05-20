@@ -5424,6 +5424,46 @@
       ],
       "assignees": [],
       "closed_week": 21
+    },
+    {
+      "id": 620867036,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3163",
+      "title": "Error while testing Transferwise cron",
+      "number": 3163,
+      "closed_at": "2020-05-19T19:34:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 620805595,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3162",
+      "title": "Can't submit expense with Bank Account to Events",
+      "number": 3162,
+      "closed_at": "2020-05-19T19:16:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 21
     }
   ]
 }
