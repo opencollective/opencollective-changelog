@@ -5465,5 +5465,31 @@
       ],
       "closed_week": 21
     }
+  ],
+  "week-22": [
+    {
+      "id": 624933034,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3170",
+      "title": "Orders page \"Not Found\"",
+      "number": 3170,
+      "closed_at": "2020-05-26T23:22:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 22
+    }
   ]
 }
