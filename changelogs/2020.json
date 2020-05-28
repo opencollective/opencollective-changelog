@@ -5490,6 +5490,82 @@
         }
       ],
       "closed_week": 22
+    },
+    {
+      "id": 622333854,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3166",
+      "title": "Ability to disable PayPal for Payouts",
+      "number": 3166,
+      "closed_at": "2020-05-27T07:12:27Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 620239544,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3158",
+      "title": "Monthly recurring revenue is inaccurate (probably)",
+      "number": 3158,
+      "closed_at": "2020-05-27T09:02:55Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 608478012,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3094",
+      "title": "Show loading state for payout method's data",
+      "number": 3094,
+      "closed_at": "2020-05-27T08:09:01Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 22
     }
   ]
 }
