@@ -5567,5 +5567,34 @@
       ],
       "closed_week": 22
     }
+  ],
+  "week-23": [
+    {
+      "id": 480367259,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2328",
+      "title": "Give people a way to avoid Github verification when creating a new Collective",
+      "number": 2328,
+      "closed_at": "2020-06-01T23:06:07Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    }
   ]
 }
