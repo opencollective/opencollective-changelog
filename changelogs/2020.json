@@ -5595,6 +5595,38 @@
       ],
       "assignees": [],
       "closed_week": 23
+    },
+    {
+      "id": 627205218,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3178",
+      "title": "Copy Pasting a color doesn't work when # is included",
+      "number": 3178,
+      "closed_at": "2020-06-02T08:33:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 23
     }
   ]
 }
