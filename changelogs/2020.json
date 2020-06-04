@@ -5627,6 +5627,68 @@
         }
       ],
       "closed_week": 23
+    },
+    {
+      "id": 630153237,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3192",
+      "title": "Sidebar should automatically shift toward left, when we open a new page",
+      "number": 3192,
+      "closed_at": "2020-06-03T16:46:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    },
+    {
+      "id": 629841628,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3189",
+      "title": "Spacing issue at the bottom of the page(last section)",
+      "number": 3189,
+      "closed_at": "2020-06-03T16:46:41Z",
+      "labels": [
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    },
+    {
+      "id": 627538616,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3179",
+      "title": "Expense flow: opt-out for \"Save this info for future payouts\" not working",
+      "number": 3179,
+      "closed_at": "2020-06-03T13:54:38Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 23
     }
   ]
 }
