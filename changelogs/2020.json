@@ -5689,6 +5689,53 @@
         }
       ],
       "closed_week": 23
+    },
+    {
+      "id": 630853374,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3199",
+      "title": "Renamed org and now it is inaccessible",
+      "number": 3199,
+      "closed_at": "2020-06-04T14:20:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "support",
+          "color": "5319e7"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    },
+    {
+      "id": 501692100,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2485",
+      "title": "link to the main collective from a subcollective",
+      "number": 2485,
+      "closed_at": "2020-06-04T08:32:27Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 23
     }
   ]
 }
