@@ -5736,6 +5736,96 @@
         }
       ],
       "closed_week": 23
+    },
+    {
+      "id": 566302226,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2916",
+      "title": "Re-design comment actions",
+      "number": 2916,
+      "closed_at": "2020-06-05T15:20:53Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 520361089,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2613",
+      "title": "Report YAML format errors in Bot configuration",
+      "number": 2613,
+      "closed_at": "2020-06-05T15:51:34Z",
+      "labels": [
+        {
+          "name": "bot",
+          "color": "75b2d6"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    },
+    {
+      "id": 392613411,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1562",
+      "title": "Gift cards admin: limit to collectives with tags",
+      "number": 1562,
+      "closed_at": "2020-06-05T15:58:15Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
     }
   ]
 }
