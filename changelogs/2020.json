@@ -5827,5 +5827,39 @@
       "assignees": [],
       "closed_week": 23
     }
+  ],
+  "week-24": [
+    {
+      "id": 630618066,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3195",
+      "title": "Unable to edit expense",
+      "number": 3195,
+      "closed_at": "2020-06-08T21:17:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 24
+    }
   ]
 }
