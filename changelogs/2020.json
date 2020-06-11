@@ -5860,6 +5860,167 @@
         }
       ],
       "closed_week": 24
+    },
+    {
+      "id": 635185770,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3222",
+      "title": "Create expense form: notes stripped when going back",
+      "number": 3222,
+      "closed_at": "2020-06-10T08:04:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 634602450,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3218",
+      "title": "PayPal Webhook Endpoint",
+      "number": 3218,
+      "closed_at": "2020-06-10T10:57:36Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 631462864,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3208",
+      "title": "All Cards are not visible in small screen",
+      "number": 3208,
+      "closed_at": "2020-06-10T07:04:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
+    },
+    {
+      "id": 625728054,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3173",
+      "title": "Scheduled Expenses Worker",
+      "number": 3173,
+      "closed_at": "2020-06-10T16:54:34Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 545935727,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2777",
+      "title": "Misalignement of image after saving with react-easy-crop 2.0",
+      "number": 2777,
+      "closed_at": "2020-06-10T14:47:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
+    },
+    {
+      "id": 493876003,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2424",
+      "title": "New collective page: edit sections",
+      "number": 2424,
+      "closed_at": "2020-06-10T08:27:14Z",
+      "labels": [
+        {
+          "name": "collective page v2",
+          "color": "1cf918"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
     }
   ]
 }
