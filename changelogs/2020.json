@@ -6021,6 +6021,70 @@
       ],
       "assignees": [],
       "closed_week": 24
+    },
+    {
+      "id": 637007989,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3232",
+      "title": "Error visiting Collective Page after disabling items on Collective Page.",
+      "number": 3232,
+      "closed_at": "2020-06-11T14:35:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 579309912,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2977",
+      "title": "Collective picker: apply latest design",
+      "number": 2977,
+      "closed_at": "2020-06-11T11:17:42Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 24
     }
   ]
 }
