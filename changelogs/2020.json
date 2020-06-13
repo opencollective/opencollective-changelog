@@ -6085,6 +6085,127 @@
         }
       ],
       "closed_week": 24
+    },
+    {
+      "id": 550272661,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2818",
+      "title": "Zeit deployments previews unresponsive API",
+      "number": 2818,
+      "closed_at": "2020-06-12T15:28:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
+    },
+    {
+      "id": 536842119,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2714",
+      "title": "Monthly platform and collective report: review who'll be notified",
+      "number": 2714,
+      "closed_at": "2020-06-12T15:18:48Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
+    },
+    {
+      "id": 489607999,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2402",
+      "title": "NCP: Contribute cards scambled (Opera, Brave)",
+      "number": 2402,
+      "closed_at": "2020-06-12T15:03:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "collective page v2",
+          "color": "1cf918"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
+    },
+    {
+      "id": 470383080,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2258",
+      "title": "PayPal payout API",
+      "number": 2258,
+      "closed_at": "2020-06-12T17:22:44Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "paypal",
+          "color": "54ff7e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 24
     }
   ]
 }
