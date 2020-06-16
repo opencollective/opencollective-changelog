@@ -6207,5 +6207,226 @@
       ],
       "closed_week": 24
     }
+  ],
+  "week-25": [
+    {
+      "id": 638423068,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3239",
+      "title": "tier changes don't get saved",
+      "number": 3239,
+      "closed_at": "2020-06-15T12:24:38Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 25
+    },
+    {
+      "id": 615942478,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3122",
+      "title": "Improve user menu on mobile",
+      "number": 3122,
+      "closed_at": "2020-06-15T11:42:01Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
+    },
+    {
+      "id": 606629184,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3086",
+      "title": "generateSummaryForHTML missing trailing dots when link tag is truncated",
+      "number": 3086,
+      "closed_at": "2020-06-15T08:35:36Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 25
+    },
+    {
+      "id": 591166652,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3030",
+      "title": "Added funds: more permissive expiry date",
+      "number": 3030,
+      "closed_at": "2020-06-15T07:46:05Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 25
+    },
+    {
+      "id": 578049762,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2973",
+      "title": "Make custom contribution (donation) opt-out",
+      "number": 2973,
+      "closed_at": "2020-06-15T08:13:01Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "jeffin143",
+          "html_url": "https://github.com/jeffin143"
+        }
+      ],
+      "closed_week": 25
+    },
+    {
+      "id": 500479655,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2471",
+      "title": "NCP: Improve behavior for Hero image crop/resize",
+      "number": 2471,
+      "closed_at": "2020-06-15T09:23:32Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 25
+    },
+    {
+      "id": 489611256,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2404",
+      "title": "NCP: Hero background bug on IE11",
+      "number": 2404,
+      "closed_at": "2020-06-15T08:12:20Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "collective page v2",
+          "color": "1cf918"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 25
+    },
+    {
+      "id": 489609546,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2403",
+      "title": "NCP: Broken contribute cards on IE11",
+      "number": 2403,
+      "closed_at": "2020-06-15T08:11:41Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "collective page v2",
+          "color": "1cf918"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 25
+    }
   ]
 }
