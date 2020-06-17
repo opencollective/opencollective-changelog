@@ -6427,6 +6427,34 @@
       ],
       "assignees": [],
       "closed_week": 25
+    },
+    {
+      "id": 639357231,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3248",
+      "title": "Fiscal Host admins should not be listed as Collective admins",
+      "number": 3248,
+      "closed_at": "2020-06-16T11:24:49Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
