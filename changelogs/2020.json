@@ -6455,6 +6455,70 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 620174795,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3156",
+      "title": "Add async validation to PayoutBankInformationForm",
+      "number": 3156,
+      "closed_at": "2020-06-17T19:49:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 25
+    },
+    {
+      "id": 600500057,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3059",
+      "title": "Add reactions on updates, conversations and expenses",
+      "number": 3059,
+      "closed_at": "2020-06-17T15:41:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
