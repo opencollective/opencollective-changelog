@@ -6519,6 +6519,38 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 631416106,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3204",
+      "title": "Expenses list: implement filters",
+      "number": 3204,
+      "closed_at": "2020-06-18T09:02:01Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
