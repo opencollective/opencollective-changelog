@@ -6551,6 +6551,66 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 641763408,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3265",
+      "title": "Empty contribute section on past events",
+      "number": 3265,
+      "closed_at": "2020-06-19T09:50:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
+    },
+    {
+      "id": 639986541,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3252",
+      "title": "Pledged collective caching issue",
+      "number": 3252,
+      "closed_at": "2020-06-19T14:29:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
