@@ -6612,5 +6612,215 @@
       ],
       "closed_week": 25
     }
+  ],
+  "week-26": [
+    {
+      "id": 620166688,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3153",
+      "title": "Subscriptions management: create GraphQL v2 queries/mutations",
+      "number": 3153,
+      "closed_at": "2020-06-22T19:43:18Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 620164662,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3152",
+      "title": "Subscriptions management: create 'pop-up' component",
+      "number": 3152,
+      "closed_at": "2020-06-22T19:45:47Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 620156712,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3150",
+      "title": "Subscriptions management: update standalone subscriptions page with new components",
+      "number": 3150,
+      "closed_at": "2020-06-22T19:40:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 617660425,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3138",
+      "title": "Subscriptions management: create subs card component",
+      "number": 3138,
+      "closed_at": "2020-06-22T19:44:22Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 616505375,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3126",
+      "title": "New expense's page start with loading state (SSR)",
+      "number": 3126,
+      "closed_at": "2020-06-22T15:32:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 572700936,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2940",
+      "title": "Update expiring cards cron and add reminder",
+      "number": 2940,
+      "closed_at": "2020-06-22T19:35:24Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 554199018,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2847",
+      "title": "Remove hello@ emails from \"replyTo\"",
+      "number": 2847,
+      "closed_at": "2020-06-22T09:47:50Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 26
+    }
   ]
 }
