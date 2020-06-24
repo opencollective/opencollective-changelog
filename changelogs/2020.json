@@ -6821,6 +6821,113 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 631348133,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3202",
+      "title": "How it works: Spacing issue between the buttons",
+      "number": 3202,
+      "closed_at": "2020-06-23T15:06:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
+    },
+    {
+      "id": 629183455,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3184",
+      "title": "Wait for expenses to be paid out before creating a CONTRIBUTOR member",
+      "number": 3184,
+      "closed_at": "2020-06-23T14:30:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 628385082,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3181",
+      "title": "Enable JPY for TransferWise payouts",
+      "number": 3181,
+      "closed_at": "2020-06-23T13:11:12Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 610414744,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3103",
+      "title": "Minor Spacing Issue with \"Make a Pledge\" Button",
+      "number": 3103,
+      "closed_at": "2020-06-23T14:46:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
     }
   ]
 }
