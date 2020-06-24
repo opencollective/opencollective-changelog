@@ -10,7 +10,8 @@
     "changelog:update": "babel-node -- scripts/index.js",
     "deploy": "now --prod",
     "update-and-commit": "npm-run-all changelog:update changelog:commit",
-    "update-and-deploy": "npm-run-all changelog:update deploy changelog:commit"
+    "update-and-deploy": "npm-run-all changelog:update deploy changelog:commit",
+    "preinstall": "npx npm-force-resolutions"
   },
   "keywords": [
     "opencollect"
@@ -18,6 +19,10 @@
   "author": "Oluwaseun Omoyajowo <omoyajowo2015@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@bit/opencollective.design-system.components.styled-link": "^2.0.0",
+    "@bit/opencollective.design-system.components.styled-tag": "^2.0.0",
+    "@bit/opencollective.design-system.components.styled-text": "^2.0.0",
+    "@bit/opencollective.design-system.theme": "^2.0.0",
     "@octokit/rest": "^16.35.0",
     "@zeit/next-css": "^1.0.1",
     "debug": "^4.1.1",
@@ -28,7 +33,8 @@
     "moment": "^2.24.0",
     "next": "9.3.2",
     "react": "16.13.1",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "styled-components": "5.1.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
