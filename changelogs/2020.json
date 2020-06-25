@@ -6928,6 +6928,297 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 634315705,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3214",
+      "title": "Expenses list: add search bar",
+      "number": 3214,
+      "closed_at": "2020-06-24T13:05:21Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 630529562,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3194",
+      "title": "Hiring page: Video is not responsive",
+      "number": 3194,
+      "closed_at": "2020-06-24T08:00:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 629997583,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3191",
+      "title": "Support page: Text for email address is not responsive",
+      "number": 3191,
+      "closed_at": "2020-06-24T07:39:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
+    },
+    {
+      "id": 624574345,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3168",
+      "title": "Improvements to the 'download receipts' tool on profile page",
+      "number": 3168,
+      "closed_at": "2020-06-24T11:37:53Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 620159582,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3151",
+      "title": "Subscriptions management: add subscriptions section to Collective page",
+      "number": 3151,
+      "closed_at": "2020-06-24T17:33:30Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 573987657,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2945",
+      "title": "Create Collective Flow: Final project polishing",
+      "number": 2945,
+      "closed_at": "2020-06-24T11:53:57Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 560475071,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2873",
+      "title": "Implement 'Create a Collective' page",
+      "number": 2873,
+      "closed_at": "2020-06-24T12:03:23Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 475981158,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2297",
+      "title": "Include financial contributor contact info in notification",
+      "number": 2297,
+      "closed_at": "2020-06-24T11:33:03Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 394335309,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1581",
+      "title": "Users have trouble finding the cancel subscription option",
+      "number": 1581,
+      "closed_at": "2020-06-24T17:36:44Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "design → needs specs",
+          "color": "0061E0"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "cuiki",
+          "html_url": "https://github.com/cuiki"
+        }
+      ],
+      "closed_week": 26
     }
   ]
 }
