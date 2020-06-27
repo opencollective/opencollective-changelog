@@ -7219,6 +7219,182 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 641663227,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3260",
+      "title": "Events attendees export sometimes missing emails",
+      "number": 3260,
+      "closed_at": "2020-06-26T15:49:57Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "darkmtr",
+          "html_url": "https://github.com/darkmtr"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 638751239,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3240",
+      "title": "Can't post an update when copy pasting from a google doc",
+      "number": 3240,
+      "closed_at": "2020-06-26T09:21:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
+    },
+    {
+      "id": 633037607,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3212",
+      "title": "Change default section order for fiscal host pages",
+      "number": 3212,
+      "closed_at": "2020-06-26T09:15:14Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
+    },
+    {
+      "id": 631439620,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3206",
+      "title": "Might not be receiving emails",
+      "number": 3206,
+      "closed_at": "2020-06-26T09:09:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
+    },
+    {
+      "id": 619836187,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3147",
+      "title": "Allow non-admins to make Events",
+      "number": 3147,
+      "closed_at": "2020-06-26T09:39:16Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
+    },
+    {
+      "id": 617893580,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3142",
+      "title": "Expense notification should include submitter name",
+      "number": 3142,
+      "closed_at": "2020-06-26T12:52:30Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "notifications",
+          "color": "a702e2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 545467409,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2773",
+      "title": "Expense: Show \"Mark as unpaid\" button regardless of the payout method",
+      "number": 2773,
+      "closed_at": "2020-06-26T16:02:14Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 26
     }
   ]
 }
