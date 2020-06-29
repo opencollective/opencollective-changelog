@@ -7396,5 +7396,50 @@
       ],
       "closed_week": 26
     }
+  ],
+  "week-27": [
+    {
+      "id": 645908402,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3277",
+      "title": "Expense went through without required info",
+      "number": 3277,
+      "closed_at": "2020-06-28T22:05:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
+    },
+    {
+      "id": 639220327,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3243",
+      "title": "Clarification of Connected Collectives",
+      "number": 3243,
+      "closed_at": "2020-06-28T22:28:53Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 27
+    }
   ]
 }
