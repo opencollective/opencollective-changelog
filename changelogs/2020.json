@@ -7440,6 +7440,53 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 631558222,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3209",
+      "title": "Design system update: Early June 2020",
+      "number": 3209,
+      "closed_at": "2020-06-29T12:02:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
+    },
+    {
+      "id": 622076252,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3165",
+      "title": "[GitBook] Redirect rules don't work anymore",
+      "number": 3165,
+      "closed_at": "2020-06-29T17:03:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "contraexemplo",
+          "html_url": "https://github.com/contraexemplo"
+        }
+      ],
+      "closed_week": 27
     }
   ]
 }
