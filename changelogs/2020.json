@@ -7487,6 +7487,70 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 631414137,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3203",
+      "title": "Expenses list: add buttons to process expenses",
+      "number": 3203,
+      "closed_at": "2020-06-30T09:54:34Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 617601059,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3137",
+      "title": "[PROJECT] Subscriptions management revamp",
+      "number": 3137,
+      "closed_at": "2020-06-30T10:51:47Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "project",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 27
     }
   ]
 }
