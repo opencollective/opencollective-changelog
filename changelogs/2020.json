@@ -7551,6 +7551,85 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 648559287,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3295",
+      "title": "Not asking for reason when rejecting expense",
+      "number": 3295,
+      "closed_at": "2020-07-01T08:22:53Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 648554695,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3294",
+      "title": "Expense submitted without adddress",
+      "number": 3294,
+      "closed_at": "2020-07-01T08:22:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
+    },
+    {
+      "id": 441663596,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2008",
+      "title": "Enforce minimum amount in Contribution Flow",
+      "number": 2008,
+      "closed_at": "2020-07-01T12:53:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 27
     }
   ]
 }
