@@ -7630,6 +7630,21 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 649366959,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3301",
+      "title": "Expense notification email has wrong amount",
+      "number": 3301,
+      "closed_at": "2020-07-02T07:14:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
     }
   ]
 }
