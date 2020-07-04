@@ -7645,6 +7645,38 @@
       ],
       "assignees": [],
       "closed_week": 27
+    },
+    {
+      "id": 649369138,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3302",
+      "title": "Fiscal host address missing from invoice",
+      "number": 3302,
+      "closed_at": "2020-07-03T08:59:58Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 27
     }
   ]
 }
