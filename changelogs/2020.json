@@ -7678,5 +7678,90 @@
       ],
       "closed_week": 27
     }
+  ],
+  "week-28": [
+    {
+      "id": 648548234,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3292",
+      "title": "Add bank payout form not displaying all fields",
+      "number": 3292,
+      "closed_at": "2020-07-06T19:02:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 590181838,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3020",
+      "title": "Add a settings page to edit payout methods",
+      "number": 3020,
+      "closed_at": "2020-07-06T15:39:38Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 304632319,
+      "html_url": "https://github.com/opencollective/opencollective/issues/960",
+      "title": "Project logos are blurry on HiDPI / Retina screens",
+      "number": 960,
+      "closed_at": "2020-07-06T15:21:51Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "up for grabs",
+          "color": "e278ab"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 28
+    }
   ]
 }
