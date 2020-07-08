@@ -7762,6 +7762,66 @@
       ],
       "assignees": [],
       "closed_week": 28
+    },
+    {
+      "id": 652107390,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3318",
+      "title": "Erroneous recurring contributions are not showing up",
+      "number": 3318,
+      "closed_at": "2020-07-07T15:31:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 635633010,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3225",
+      "title": "Pricing: Contact button is not responsive ",
+      "number": 3225,
+      "closed_at": "2020-07-07T07:23:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "AARYAN-MAHENDRA",
+          "html_url": "https://github.com/AARYAN-MAHENDRA"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
