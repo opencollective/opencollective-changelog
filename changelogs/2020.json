@@ -7822,6 +7822,462 @@
         }
       ],
       "closed_week": 28
+    },
+    {
+      "id": 650619627,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3310",
+      "title": "Issues with pending orders submitted directly to host",
+      "number": 3310,
+      "closed_at": "2020-07-09T14:53:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 636689269,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3228",
+      "title": "Approved Collective still showing \"Collective pending approval\" banner",
+      "number": 3228,
+      "closed_at": "2020-07-09T15:13:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 562681070,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2902",
+      "title": "Fix textures",
+      "number": 2902,
+      "closed_at": "2020-07-09T15:19:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 28
+    },
+    {
+      "id": 551356791,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2829",
+      "title": "Pricing page error: redeclaration of const accordion",
+      "number": 2829,
+      "closed_at": "2020-07-09T15:21:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 28
+    },
+    {
+      "id": 549487091,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2813",
+      "title": "Use the design system for the changelog",
+      "number": 2813,
+      "closed_at": "2020-07-09T14:59:16Z",
+      "labels": [
+        {
+          "name": "changelog",
+          "color": "1d76db"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 547148424,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2784",
+      "title": "Add link to refill paypal balance to error message",
+      "number": 2784,
+      "closed_at": "2020-07-10T07:59:21Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 478747276,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2314",
+      "title": "Fiscal hosts should be able to send updates",
+      "number": 2314,
+      "closed_at": "2020-07-10T07:42:32Z",
+      "labels": [
+        {
+          "name": "$500",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 444303947,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2035",
+      "title": "API: create expense programmatically ",
+      "number": 2035,
+      "closed_at": "2020-07-10T10:08:48Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 28
+    },
+    {
+      "id": 341177663,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1167",
+      "title": "Improvement → The system could automatically create invoices",
+      "number": 1167,
+      "closed_at": "2020-07-10T10:07:51Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "cuiki",
+          "html_url": "https://github.com/cuiki"
+        }
+      ],
+      "closed_week": 28
+    }
+  ],
+  "week-29": [
+    {
+      "id": 648546876,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3291",
+      "title": "System not saving full bank payout info and unable to add it",
+      "number": 3291,
+      "closed_at": "2020-07-13T14:02:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 29
+    },
+    {
+      "id": 648074252,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3290",
+      "title": "[ENHANCEMENT] Recurring contributions with fees on top",
+      "number": 3290,
+      "closed_at": "2020-07-14T15:58:45Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 29
+    },
+    {
+      "id": 647409497,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3285",
+      "title": "Implement changes to TransferWise API",
+      "number": 3285,
+      "closed_at": "2020-07-16T16:59:27Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 29
+    }
+  ],
+  "week-30": [
+    {
+      "id": 658687946,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3345",
+      "title": "Enable Brazilian Real currency",
+      "number": 3345,
+      "closed_at": "2020-07-19T23:12:16Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    },
+    {
+      "id": 658370780,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3344",
+      "title": "Address fields in the Bank Information Form are confusing",
+      "number": 3344,
+      "closed_at": "2020-07-20T12:40:06Z",
+      "labels": [
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 657990980,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3343",
+      "title": "Regression in Tax Form notice",
+      "number": 3343,
+      "closed_at": "2020-07-20T12:43:19Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
