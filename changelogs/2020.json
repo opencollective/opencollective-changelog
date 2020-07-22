@@ -8278,6 +8278,58 @@
         }
       ],
       "closed_week": 30
+    },
+    {
+      "id": 662302468,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3351",
+      "title": "Error when clicking through to conversation thread from email",
+      "number": 3351,
+      "closed_at": "2020-07-21T12:50:10Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 643379608,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3269",
+      "title": "OC Leaderboard Question",
+      "number": 3269,
+      "closed_at": "2020-07-21T13:42:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
