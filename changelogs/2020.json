@@ -8330,6 +8330,34 @@
         }
       ],
       "closed_week": 30
+    },
+    {
+      "id": 664344958,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3359",
+      "title": "Country name appearing in wrong language on receipt",
+      "number": 3359,
+      "closed_at": "2020-07-23T10:27:16Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
