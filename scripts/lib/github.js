@@ -7,11 +7,13 @@ const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const octokitDebug = debug("octokitDebug");
 
 function getOctokit() {
-  if (!GITHUB_TOKEN) {
-    throw new Error("Script requires GITHUB_TOKEN");
+  const options = {};
+
+  if (GITHUB_TOKEN) {
+    options.auth = `token ${GITHUB_TOKEN}`;
   }
 
-  return octokitRest({ auth: `token ${GITHUB_TOKEN}` });
+  return octokitRest(options);
 }
 
 function getData(res) {

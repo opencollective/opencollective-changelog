@@ -1,14 +1,32 @@
 import React, { Fragment } from "react";
 import moment from "moment";
 import fetch from "isomorphic-unfetch";
+import styled from "styled-components";
+import StyledLink from "@bit/opencollective.design-system.components.styled-link";
+import StyledTag from "@bit/opencollective.design-system.components.styled-tag";
 
 import Logo from "../components/Logo";
+import {
+  H1,
+  P,
+} from "@bit/opencollective.design-system.components.styled-text";
+
+const StyledIssueLabel = styled(StyledTag)`
+  padding: 2px 5px;
+  font-size: 10px;
+  width: 100px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 3px;
+  box-sizing: border-box;
+  margin-right: 11px;
+`;
 
 export default class Index extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      changelogs: {}
+      changelogs: {},
     };
   }
 
@@ -18,7 +36,7 @@ export default class Index extends React.Component {
       if (result.ok) {
         const changelogs = await result.json();
         this.setState({
-          changelogs
+          changelogs,
         });
       }
     } catch (err) {
@@ -27,7 +45,7 @@ export default class Index extends React.Component {
   }
 
   getIssueLabel(labels) {
-    return labels.find(label => {
+    return labels.find((label) => {
       if (
         label.name === "feature" ||
         label.name === "enhancement" ||
@@ -40,13 +58,13 @@ export default class Index extends React.Component {
   }
 
   getDateRange(issues) {
-    const dates = issues.map(issue => {
+    const dates = issues.map((issue) => {
       return moment(issue.closed_at, "YYYY-MM-DD");
     });
 
     return {
       from: moment.min(dates),
-      to: moment.max(dates)
+      to: moment.max(dates),
     };
   }
 
@@ -58,14 +76,14 @@ export default class Index extends React.Component {
     switch (label.name) {
       case "bug":
         label.name = "fixed";
-        label.color = "0066d6";
+        label.type = "error";
         break;
       case "enhancement":
         label.name = "improved";
-        label.color = "e1663f";
+        label.type = "info";
         break;
       case "feature":
-        label.color = "28a745";
+        label.type = "success";
     }
     return label;
   }
@@ -75,24 +93,23 @@ export default class Index extends React.Component {
       return (
         <Fragment>
           Thanks{" "}
-          {assignees.map(assignee => (
-            <a
+          {assignees.map((assignee) => (
+            <StyledLink
               key={assignee.login}
               href={assignee.html_url}
-              rel="noopener noreferrer"
-              target="_blank"
+              openInNewTab={true}
             >
               @{assignee.login}
-            </a>
+            </StyledLink>
           ))}
         </Fragment>
       );
     }
   }
 
-  renderWeekIssues(week) {
+  renderWeekIssues(week, year) {
     const { changelogs } = this.state;
-    const issues = changelogs[week];
+    const issues = changelogs[year][week];
     const { from, to } = this.getDateRange(issues);
 
     return (
@@ -101,17 +118,7 @@ export default class Index extends React.Component {
           {`
             .changeHeader {
               display: flex;
-              align-items: baseline;
-            }
-            .weeklabel {
-              padding: 5px;
-              background: #6f41c0;
-              color: #fff;
-              border-radius: 4px;
-            }
-            .dateRange {
-              font-size: 20px;
-              margin-left: 10px;
+              align-items: center;
             }
             .issueList {
               margin-left: 50px;
@@ -122,47 +129,32 @@ export default class Index extends React.Component {
               align-items: baseline;
               font-size: 14px;
             }
-            .issueLabel {
-              padding: 2px 5px;
-              font-size: 10px;
-              width: 100px;
-              text-transform: uppercase;
-              text-align: center;
-              color: #fff;
-              border-radius: 3px;
-              box-sizing: border-box;
-              margin-right: 11px;
-            }
           `}
         </style>
         <section>
           <header className="changeHeader">
-            <span className="weeklabel">{`${from.format("Wo")} Week`}</span>
-            <p className="dateRange">
+            <StyledTag type="dark">{`${from.format("Wo")} Week`}</StyledTag>
+            <P fontSize="20px" marginLeft="10px">
               {`${from.format("MMMM")} ${from.format("Do")} - ${to.format(
                 "Do"
               )} ${to.format("YYYY")}`}
-            </p>
+            </P>
           </header>
-          {issues.map(issue => {
+          {issues.map((issue) => {
             let label = this.getIssueLabel(issue.labels);
             label = this.reformatLabel(label);
             return (
               <ul className="issueList" key={issue.id}>
                 <li>
-                  <div
-                    className="issueLabel"
-                    style={{ backgroundColor: `#${label.color}` }}
-                  >
+                  <StyledIssueLabel type={label.type}>
                     {label.name}
-                  </div>
+                  </StyledIssueLabel>
                   <div className="title">
                     {issue.title} -{" "}
-                    <a
+                    <StyledLink
                       href={issue.html_url}
-                      rel="noopener noreferrer"
-                      target="_blank"
-                    >{`#${issue.number}`}</a>
+                      openInNewTab={true}
+                    >{`#${issue.number}`}</StyledLink>
                     . {this.renderAssignees(issue.assignees)}
                   </div>
                 </li>
@@ -176,24 +168,9 @@ export default class Index extends React.Component {
 
   render() {
     const { changelogs } = this.state;
-    const weeks = this.getWeeks(changelogs);
 
     return (
       <Fragment>
-        <style jsx global>
-          {`
-            body {
-              color: #414141;
-            }
-            a,
-            a:visited {
-              color: #4f53f4;
-            }
-            a:hover {
-              text-decoration: underline;
-            }
-          `}
-        </style>
         <style jsx>
           {`
             .header {
@@ -205,17 +182,17 @@ export default class Index extends React.Component {
             }
             .topLinks {
               display: flex;
+              padding: 0;
             }
             .topLinks li {
               list-style: none;
               margin: 5px 10px;
-            }
-            .topLinks li a {
-              text-decoration: none;
               font-size: 14px;
             }
-            .active {
-              color: #000;
+            .description {
+              padding: 20px;
+              border-bottom: 1px #e1e4e8 solid;
+              margin-bottom: 20px;
             }
             .changelogWrapper {
               display: flex;
@@ -224,22 +201,6 @@ export default class Index extends React.Component {
               align-items: center;
               margin: auto;
             }
-            h1 {
-              color: #000;
-              margin: 0;
-            }
-            .changelogWrapper {
-              margin-top: 20px;
-              margin-bottom: 20px;
-            }
-            .descrpition {
-              padding: 20px;
-              border-bottom: 1px #e1e4e8 solid;
-              margin-bottom: 20px;
-            }
-            .descrpition h1 {
-              font-weight: 500;
-            }
           `}
         </style>
         <div>
@@ -247,38 +208,38 @@ export default class Index extends React.Component {
             <Logo />
             <ul className="topLinks">
               <li>
-                <a
+                <StyledLink
                   href="https://github.com/opencollective/opencollective"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                  openInNewTab={true}
                 >
                   Overview
-                </a>
+                </StyledLink>
               </li>
               <li>
-                <a href="/" className="active">
+                <StyledLink href="/" color="black">
                   Release Notes
-                </a>
+                </StyledLink>
               </li>
               <li>
-                <a
+                <StyledLink
                   href="https://docs.opencollective.com"
-                  rel="noopener noreferrer"
-                  target="_blank"
+                  openInNewTab={true}
                 >
                   Docs
-                </a>
+                </StyledLink>
               </li>
             </ul>
           </div>
           <div className="changelogWrapper">
             <div>
-              <div className="descrpition">
-                <h1>Release notes for Open Collective</h1>
+              <div className="description">
+                <H1 textAlign="center">Release notes for Open Collective</H1>
               </div>
-              {weeks.map(week => {
-                return this.renderWeekIssues(week);
-              })}
+              {Object.keys(changelogs).map((year) =>
+                this.getWeeks(changelogs[year]).map((week) =>
+                  this.renderWeekIssues(week, year)
+                )
+              )}
             </div>
           </div>
         </div>
