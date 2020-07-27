@@ -6,41 +6,53 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "update:changelog": "babel-node -- scripts/index.js"
+    "changelog:commit": "cross-env ./scripts/commit_logs.sh",
+    "changelog:update": "babel-node -- scripts/index.js",
+    "deploy": "now --prod",
+    "update-and-commit": "npm-run-all changelog:update changelog:commit",
+    "update-and-deploy": "npm-run-all changelog:update deploy changelog:commit",
+    "preinstall": "npx npm-force-resolutions"
   },
   "keywords": [
     "opencollect"
   ],
-  "author": "Oluwaseun Omoyajowo",
+  "author": "Oluwaseun Omoyajowo <omoyajowo2015@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@bit/opencollective.design-system.components.styled-link": "^2.0.0",
+    "@bit/opencollective.design-system.components.styled-tag": "^2.0.0",
+    "@bit/opencollective.design-system.components.styled-text": "^2.0.0",
+    "@bit/opencollective.design-system.theme": "^2.0.0",
     "@octokit/rest": "^16.35.0",
     "@zeit/next-css": "^1.0.1",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
-    "edit-json-file": "^1.3.2",
+    "edit-json-file": "^1.4.0",
     "isomorphic-unfetch": "^3.0.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "next": "9.1.4",
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "next": "9.3.2",
+    "react": "16.13.1",
+    "react-dom": "16.12.0",
+    "styled-components": "5.1.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.6.4",
+    "@babel/cli": "^7.10.4",
     "@babel/node": "^7.6.3",
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "^10.1.0",
     "babel-plugin-lodash": "^3.3.4",
+    "cross-env": "^6.0.3",
     "eslint": "^6.5.1",
     "eslint-config-opencollective": "^2.0.0",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-react": "^7.20.3",
     "file-loader": "^4.2.0",
     "husky": "^3.1.0",
     "lint-staged": "^9.4.3",
-    "prettier": "^1.18.2"
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.5"
   },
   "husky": {
     "hooks": {
