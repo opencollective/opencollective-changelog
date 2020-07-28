@@ -8359,5 +8359,77 @@
       ],
       "closed_week": 30
     }
+  ],
+  "week-31": [
+    {
+      "id": 656208199,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3329",
+      "title": "Revamp the leaderboard",
+      "number": 3329,
+      "closed_at": "2020-07-27T22:15:01Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 651622045,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3316",
+      "title": "Currencies FX rate cache is not refreshed often enough",
+      "number": 3316,
+      "closed_at": "2020-07-27T10:38:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 646129867,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3279",
+      "title": "Gift cards admin: review & surface limits",
+      "number": 3279,
+      "closed_at": "2020-07-27T09:39:05Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "jeffin143",
+          "html_url": "https://github.com/jeffin143"
+        }
+      ],
+      "closed_week": 31
+    }
   ]
 }
