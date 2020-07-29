@@ -8430,6 +8430,225 @@
         }
       ],
       "closed_week": 31
+    },
+    {
+      "id": 665303341,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3363",
+      "title": "Transactions from Expenses pointing to wrong beneficiary ",
+      "number": 3363,
+      "closed_at": "2020-07-28T07:29:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 664981433,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3361",
+      "title": "Fees on top: \"Other\" doesn't work with different locales",
+      "number": 3361,
+      "closed_at": "2020-07-28T11:45:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 663896554,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3355",
+      "title": "Host dashboard > Hosted collectives section",
+      "number": 3355,
+      "closed_at": "2020-07-28T07:50:40Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 658800907,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3346",
+      "title": "Design system update: Mid July 2020",
+      "number": 3346,
+      "closed_at": "2020-07-28T07:50:41Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 651857819,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3317",
+      "title": "Host fees added to host budget showing as debit instead of credit",
+      "number": 3317,
+      "closed_at": "2020-07-28T14:37:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "host budget",
+          "color": "052e60"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 650264478,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3307",
+      "title": "Unable to pay expense from host budget",
+      "number": 3307,
+      "closed_at": "2020-07-28T14:13:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 550438743,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2821",
+      "title": "Allow hosts to charge different fees per Collective",
+      "number": 2821,
+      "closed_at": "2020-07-28T07:50:41Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 513785330,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2572",
+      "title": "Update design pattern for forms lists (edit goals/members)",
+      "number": 2572,
+      "closed_at": "2020-07-28T07:55:37Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
     }
   ]
 }
