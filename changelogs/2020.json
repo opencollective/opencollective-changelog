@@ -8649,6 +8649,248 @@
         }
       ],
       "closed_week": 31
+    },
+    {
+      "id": 661217991,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3350",
+      "title": "User left off tax form list in error",
+      "number": 3350,
+      "closed_at": "2020-07-29T21:35:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "tax",
+          "color": "e86d94"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 646551425,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3281",
+      "title": "Allow markdown input for updates",
+      "number": 3281,
+      "closed_at": "2020-07-29T22:20:27Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 619347420,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3146",
+      "title": "Expense update says approved but actually rejected",
+      "number": 3146,
+      "closed_at": "2020-07-29T23:22:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 549804262,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2815",
+      "title": "Turn on the tax form system for other hosts",
+      "number": 2815,
+      "closed_at": "2020-07-29T22:47:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 451722499,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2086",
+      "title": "Date of fiscal host application showing as \"invalid\"",
+      "number": 2086,
+      "closed_at": "2020-07-29T23:11:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 446323818,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2052",
+      "title": "Improve experience of changing tiers",
+      "number": 2052,
+      "closed_at": "2020-07-29T22:34:42Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 402732180,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1665",
+      "title": "Feedback for API v2 second iteration",
+      "number": 1665,
+      "closed_at": "2020-07-29T22:32:32Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 376974846,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1395",
+      "title": "Super slow query to get balance of logged in user's payment methods",
+      "number": 1395,
+      "closed_at": "2020-07-29T23:24:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 334547924,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1140",
+      "title": "Allow multiple hosts to receive PayPal donations",
+      "number": 1140,
+      "closed_at": "2020-07-29T22:29:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "backlog",
+          "color": "444444"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "payment-methods",
+          "color": "dfe226"
+        },
+        {
+          "name": "paypal",
+          "color": "54ff7e"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 318758441,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1034",
+      "title": "Add an explanation why OpenCollective needs write access to GitHub repositories",
+      "number": 1034,
+      "closed_at": "2020-07-29T22:25:23Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "backlog",
+          "color": "444444"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
     }
   ]
 }
