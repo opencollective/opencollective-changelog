@@ -8891,6 +8891,88 @@
       ],
       "assignees": [],
       "closed_week": 31
+    },
+    {
+      "id": 667938449,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3370",
+      "title": "Host fees calculated on top of platform donations",
+      "number": 3370,
+      "closed_at": "2020-07-30T12:19:50Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 640295542,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3253",
+      "title": "Expenses: filter by \"Ready to pay\"",
+      "number": 3253,
+      "closed_at": "2020-07-30T08:17:50Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
+    },
+    {
+      "id": 402755925,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1672",
+      "title": "markdown styling encourages code which is in-accessibile",
+      "number": 1672,
+      "closed_at": "2020-07-30T07:01:42Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
     }
   ]
 }
