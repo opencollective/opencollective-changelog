@@ -8974,5 +8974,85 @@
       "assignees": [],
       "closed_week": 31
     }
+  ],
+  "week-32": [
+    {
+      "id": 664319659,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3358",
+      "title": "Numbers in transactions details don't make sense",
+      "number": 3358,
+      "closed_at": "2020-08-03T22:01:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
+    },
+    {
+      "id": 603326199,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3076",
+      "title": "Make Update information more clearly expandable",
+      "number": 3076,
+      "closed_at": "2020-08-03T13:38:39Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 555939316,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2855",
+      "title": "Load more button does not load more transactions",
+      "number": 2855,
+      "closed_at": "2020-08-03T22:01:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
+    }
   ]
 }
