@@ -9053,6 +9053,34 @@
       ],
       "assignees": [],
       "closed_week": 32
+    },
+    {
+      "id": 669782551,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3378",
+      "title": "Account: add more specific interfaces",
+      "number": 3378,
+      "closed_at": "2020-08-04T08:45:46Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
