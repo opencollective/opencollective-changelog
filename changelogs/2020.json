@@ -9081,6 +9081,34 @@
         }
       ],
       "closed_week": 32
+    },
+    {
+      "id": 673937464,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3394",
+      "title": "Misleading text on custom fee modal",
+      "number": 3394,
+      "closed_at": "2020-08-06T10:01:05Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
