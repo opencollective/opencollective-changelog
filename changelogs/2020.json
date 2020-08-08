@@ -9109,6 +9109,66 @@
         }
       ],
       "closed_week": 32
+    },
+    {
+      "id": 674138627,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3397",
+      "title": "Discover page: \"most popular\" should sort by number of contributors",
+      "number": 3397,
+      "closed_at": "2020-08-07T14:47:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 620313967,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3159",
+      "title": "Donating with Credit Card should be unavailable for Hosts without Stripe",
+      "number": 3159,
+      "closed_at": "2020-08-07T12:43:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
