@@ -9170,5 +9170,58 @@
       ],
       "closed_week": 32
     }
+  ],
+  "week-33": [
+    {
+      "id": 674760354,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3398",
+      "title": "Join Slack is Broken",
+      "number": 3398,
+      "closed_at": "2020-08-10T11:32:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 33
+    },
+    {
+      "id": 653329134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3321",
+      "title": "Homepage design enhancements (July 2020)",
+      "number": 3321,
+      "closed_at": "2020-08-10T10:40:21Z",
+      "labels": [
+        {
+          "name": "$500",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 33
+    }
   ]
 }
