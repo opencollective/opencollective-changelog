@@ -9222,6 +9222,94 @@
         }
       ],
       "closed_week": 33
+    },
+    {
+      "id": 665502404,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3364",
+      "title": "Pay to address disappeared from expense",
+      "number": 3364,
+      "closed_at": "2020-08-11T12:02:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 657294656,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3336",
+      "title": "Contribution flow revamp: step 1 contribution details",
+      "number": 3336,
+      "closed_at": "2020-08-11T09:51:20Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 640307256,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3254",
+      "title": "Bring the new expenses list to the host dashboard",
+      "number": 3254,
+      "closed_at": "2020-08-11T10:00:50Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 33
     }
   ]
 }
