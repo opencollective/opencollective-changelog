@@ -9310,6 +9310,69 @@
         }
       ],
       "closed_week": 33
+    },
+    {
+      "id": 608395557,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3092",
+      "title": "TransferWise: enforce limits while creating the expense",
+      "number": 3092,
+      "closed_at": "2020-08-12T17:37:51Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 408509214,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1723",
+      "title": "Host fees should be automatically added",
+      "number": 1723,
+      "closed_at": "2020-08-12T07:09:52Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "host budget",
+          "color": "052e60"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 33
     }
   ]
 }
