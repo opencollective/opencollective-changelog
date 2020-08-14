@@ -9373,6 +9373,228 @@
       ],
       "assignees": [],
       "closed_week": 33
+    },
+    {
+      "id": 677539183,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3405",
+      "title": "New contribution flow: Step profile layout issues",
+      "number": 3405,
+      "closed_at": "2020-08-13T07:59:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 671674746,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3380",
+      "title": "Tilde used instead of the almost equal to symbol",
+      "number": 3380,
+      "closed_at": "2020-08-13T07:43:39Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 33
+    },
+    {
+      "id": 666721534,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3367",
+      "title": "Footer component update",
+      "number": 3367,
+      "closed_at": "2020-08-13T12:37:10Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 647832587,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3286",
+      "title": "Design system update: Late June 2020",
+      "number": 3286,
+      "closed_at": "2020-08-13T07:47:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 586686173,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3009",
+      "title": "Primary navigation: Update to latest design",
+      "number": 3009,
+      "closed_at": "2020-08-13T12:26:05Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 531121246,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2673",
+      "title": "Show expired gift cards in the contribution flow",
+      "number": 2673,
+      "closed_at": "2020-08-13T12:39:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 507938514,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2529",
+      "title": "Onclick Menu icon in mobile view redirects to footer instead of menu bar elements",
+      "number": 2529,
+      "closed_at": "2020-08-13T12:51:50Z",
+      "labels": [
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 33
     }
   ]
 }
