@@ -9595,6 +9595,62 @@
       ],
       "assignees": [],
       "closed_week": 33
+    },
+    {
+      "id": 676619151,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3400",
+      "title": "Signup broken when Full Name and Org Name are the same",
+      "number": 3400,
+      "closed_at": "2020-08-14T11:25:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 672756879,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3385",
+      "title": "Transactions Page redesign follow-up",
+      "number": 3385,
+      "closed_at": "2020-08-14T20:32:37Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "feedback",
+          "color": "4968d1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 33
     }
   ]
 }
