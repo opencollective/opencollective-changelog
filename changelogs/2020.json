@@ -9652,5 +9652,35 @@
       ],
       "closed_week": 33
     }
+  ],
+  "week-34": [
+    {
+      "id": 552564121,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2836",
+      "title": "[Project] TransferWise Automated Payout",
+      "number": 2836,
+      "closed_at": "2020-08-17T09:35:40Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "integrations",
+          "color": "282589"
+        },
+        {
+          "name": "project",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 34
+    }
   ]
 }
