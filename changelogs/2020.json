@@ -9681,6 +9681,110 @@
         }
       ],
       "closed_week": 34
+    },
+    {
+      "id": 677344038,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3404",
+      "title": "Collective not appearing in search",
+      "number": 3404,
+      "closed_at": "2020-08-18T08:07:13Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 551504269,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2832",
+      "title": "Collective's \"Edit\" menu categories",
+      "number": 2832,
+      "closed_at": "2020-08-18T12:54:54Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 505478888,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2519",
+      "title": "expenses page makes duplicate queries for every single expense",
+      "number": 2519,
+      "closed_at": "2020-08-18T08:56:54Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 493901906,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2427",
+      "title": "Contribution flow: fetch payment methods dynamically",
+      "number": 2427,
+      "closed_at": "2020-08-18T07:59:07Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
     }
   ]
 }
