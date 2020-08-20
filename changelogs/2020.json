@@ -9785,6 +9785,61 @@
       ],
       "assignees": [],
       "closed_week": 34
+    },
+    {
+      "id": 665728949,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3365",
+      "title": "Expense losing $0.02 after submitting",
+      "number": 3365,
+      "closed_at": "2020-08-19T12:58:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 612677589,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3112",
+      "title": "Add a new \"ACCOUNTANT\" member type",
+      "number": 3112,
+      "closed_at": "2020-08-19T12:59:10Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 34
     }
   ]
 }
