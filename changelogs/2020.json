@@ -9840,6 +9840,29 @@
         }
       ],
       "closed_week": 34
+    },
+    {
+      "id": 680972496,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3412",
+      "title": "\"Minimum amount\" should not be displayed for FIXED tiers",
+      "number": 3412,
+      "closed_at": "2020-08-20T07:25:30Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
     }
   ]
 }
