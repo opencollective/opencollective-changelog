@@ -9863,6 +9863,293 @@
       ],
       "assignees": [],
       "closed_week": 34
+    },
+    {
+      "id": 678059149,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3406",
+      "title": "Host fee missing and fiscal host showing on host page",
+      "number": 3406,
+      "closed_at": "2020-08-21T14:51:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 561954154,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2892",
+      "title": "Fix \"What can you do on Open Collective\" and \"Join us\" elements to the center of the page.",
+      "number": 2892,
+      "closed_at": "2020-08-21T15:09:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 560698227,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2885",
+      "title": "Expenses show after clicking 'load more' but then disappear",
+      "number": 2885,
+      "closed_at": "2020-08-21T15:10:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 560674471,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2884",
+      "title": "Load more button not appearing even though there are more expenses to load",
+      "number": 2884,
+      "closed_at": "2020-08-21T15:10:51Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 560670420,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2883",
+      "title": "Some paid expenses not disappearing from \"ready to pay\" queue or changing state",
+      "number": 2883,
+      "closed_at": "2020-08-21T15:11:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 500876999,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2476",
+      "title": "Monthly platform report: need to add OC Europe and remove /ben",
+      "number": 2476,
+      "closed_at": "2020-08-21T15:14:30Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "xdamman",
+          "html_url": "https://github.com/xdamman"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 489721108,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2406",
+      "title": "Can't update payment method, save button disabled",
+      "number": 2406,
+      "closed_at": "2020-08-21T15:14:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 471429738,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2266",
+      "title": "Option to use Organizations and Collectives as payee for expenses",
+      "number": 2266,
+      "closed_at": "2020-08-21T14:51:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 401943124,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1652",
+      "title": "Application date printing error message instead of an actual date",
+      "number": 1652,
+      "closed_at": "2020-08-21T15:18:20Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 383662659,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1467",
+      "title": "Collective \"collective\" payment method sometimes not created",
+      "number": 1467,
+      "closed_at": "2020-08-21T15:22:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 376417987,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1392",
+      "title": "A donation has a red arrow, as if it is an expense",
+      "number": 1392,
+      "closed_at": "2020-08-21T15:23:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hackathon",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "need steps",
+          "color": "3662b5"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
     }
   ]
 }
