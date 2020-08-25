@@ -10151,5 +10151,117 @@
       "assignees": [],
       "closed_week": 34
     }
+  ],
+  "week-35": [
+    {
+      "id": 684375697,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3425",
+      "title": "Events: create ticket redirects to /tiers",
+      "number": 3425,
+      "closed_at": "2020-08-24T10:41:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 657438846,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3338",
+      "title": "Contribution flow revamp: step 3 payment",
+      "number": 3338,
+      "closed_at": "2020-08-24T11:47:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
+    },
+    {
+      "id": 657423308,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3337",
+      "title": "Contribution flow revamp: step 2 user details",
+      "number": 3337,
+      "closed_at": "2020-08-24T11:47:31Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
+    },
+    {
+      "id": 657293216,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3335",
+      "title": "Contribution flow revamp: upgrade to GraphQL v2",
+      "number": 3335,
+      "closed_at": "2020-08-24T12:37:08Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 35
+    }
   ]
 }
