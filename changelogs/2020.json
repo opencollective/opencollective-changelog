@@ -10262,6 +10262,191 @@
         }
       ],
       "closed_week": 35
+    },
+    {
+      "id": 684914312,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3430",
+      "title": "Misleading amount displayed in Tweet after order is created",
+      "number": 3430,
+      "closed_at": "2020-08-25T10:57:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 684567486,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3428",
+      "title": "Avatar does not show in donation card",
+      "number": 3428,
+      "closed_at": "2020-08-25T14:46:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
+    },
+    {
+      "id": 682595837,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3416",
+      "title": "Show events in menu",
+      "number": 3416,
+      "closed_at": "2020-08-25T07:50:58Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 666401947,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3366",
+      "title": "Footer icons lack text/accessible name",
+      "number": 3366,
+      "closed_at": "2020-08-25T07:17:40Z",
+      "labels": [
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
+    },
+    {
+      "id": 663950677,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3356",
+      "title": "Collective slugs ending in - can't receive manual transfers or send emails",
+      "number": 3356,
+      "closed_at": "2020-08-25T14:12:20Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 647996408,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3287",
+      "title": "Add a \"Pending invitations\" link in user menu",
+      "number": 3287,
+      "closed_at": "2020-08-25T07:06:52Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "rista404",
+          "html_url": "https://github.com/rista404"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 632945589,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3210",
+      "title": "Organization avatars not updating site-wide after being changed.",
+      "number": 3210,
+      "closed_at": "2020-08-25T08:59:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
     }
   ]
 }
