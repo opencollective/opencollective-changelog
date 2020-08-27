@@ -10447,6 +10447,34 @@
       ],
       "assignees": [],
       "closed_week": 35
+    },
+    {
+      "id": 620169522,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3154",
+      "title": " Subscriptions management: add new components to Style Guide",
+      "number": 3154,
+      "closed_at": "2020-08-26T13:34:02Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 35
     }
   ]
 }
