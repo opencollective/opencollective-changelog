@@ -10475,6 +10475,53 @@
         }
       ],
       "closed_week": 35
+    },
+    {
+      "id": 679858356,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3408",
+      "title": "Set up a new Fiscal Host without having to create a Collective",
+      "number": 3408,
+      "closed_at": "2020-08-27T22:59:37Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
+    },
+    {
+      "id": 657490784,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3339",
+      "title": "Contribution flow revamp: step 4 success/CTAs",
+      "number": 3339,
+      "closed_at": "2020-08-27T13:37:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 35
     }
   ]
 }
