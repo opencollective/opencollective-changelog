@@ -10522,6 +10522,94 @@
         }
       ],
       "closed_week": 35
+    },
+    {
+      "id": 676740962,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3401",
+      "title": "Contribution flow revamp: Warn if changing interval/amount on a fixed tier",
+      "number": 3401,
+      "closed_at": "2020-08-28T13:06:04Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 575219529,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2953",
+      "title": "Validation error message if Tier description is too long",
+      "number": 2953,
+      "closed_at": "2020-08-28T08:28:44Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 516144769,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2584",
+      "title": "Better handle StripeConnectionError",
+      "number": 2584,
+      "closed_at": "2020-08-28T12:38:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 35
     }
   ]
 }
