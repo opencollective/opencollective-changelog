@@ -10611,5 +10611,86 @@
       ],
       "closed_week": 35
     }
+  ],
+  "week-36": [
+    {
+      "id": 689161962,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3444",
+      "title": "Content Spoofing",
+      "number": 3444,
+      "closed_at": "2020-08-31T12:42:38Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 36
+    },
+    {
+      "id": 684074162,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3423",
+      "title": "Event page should say 'event' not 'collective'",
+      "number": 3423,
+      "closed_at": "2020-08-31T11:32:54Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 639753764,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3251",
+      "title": "Report PayPal Payouts transactional errors",
+      "number": 3251,
+      "closed_at": "2020-08-31T21:16:05Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "paypal",
+          "color": "54ff7e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 36
+    }
   ]
 }
