@@ -10691,6 +10691,25 @@
         }
       ],
       "closed_week": 36
+    },
+    {
+      "id": 672887172,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3387",
+      "title": "Stripe Payment error in subscription job",
+      "number": 3387,
+      "closed_at": "2020-09-04T12:31:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 36
     }
   ]
 }
