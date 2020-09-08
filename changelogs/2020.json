@@ -10711,5 +10711,42 @@
       "assignees": [],
       "closed_week": 36
     }
+  ],
+  "week-37": [
+    {
+      "id": 441552844,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2006",
+      "title": "Ability for admins to cancel/reject financial contributions ",
+      "number": 2006,
+      "closed_at": "2020-09-07T11:06:45Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        },
+        {
+          "name": "moderation",
+          "color": "ff7663"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 37
+    }
   ]
 }
