@@ -10747,6 +10747,38 @@
       ],
       "assignees": [],
       "closed_week": 37
+    },
+    {
+      "id": 695788800,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3470",
+      "title": "Remove annual budget text above goals progress bar",
+      "number": 3470,
+      "closed_at": "2020-09-08T13:03:25Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 37
     }
   ]
 }
