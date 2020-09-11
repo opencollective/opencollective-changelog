@@ -10839,6 +10839,38 @@
         }
       ],
       "closed_week": 37
+    },
+    {
+      "id": 575498996,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2957",
+      "title": "Unique token column for ConnectedAccounts",
+      "number": 2957,
+      "closed_at": "2020-09-10T18:29:32Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 37
     }
   ]
 }
