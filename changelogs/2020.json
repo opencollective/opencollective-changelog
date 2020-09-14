@@ -10872,5 +10872,22 @@
       ],
       "closed_week": 37
     }
+  ],
+  "week-38": [
+    {
+      "id": 700565772,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3491",
+      "title": "Unable to join collectives",
+      "number": 3491,
+      "closed_at": "2020-09-13T22:46:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 38
+    }
   ]
 }
