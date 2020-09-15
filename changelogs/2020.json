@@ -10888,6 +10888,34 @@
       ],
       "assignees": [],
       "closed_week": 38
+    },
+    {
+      "id": 700671576,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3492",
+      "title": "Facebook pulling through logo instead of cover image and failing",
+      "number": 3492,
+      "closed_at": "2020-09-14T09:24:28Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 38
     }
   ]
 }
