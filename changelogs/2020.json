@@ -10916,6 +10916,148 @@
         }
       ],
       "closed_week": 38
+    },
+    {
+      "id": 695589049,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3469",
+      "title": "Incognito recurring contributions should be listed on the transactions page",
+      "number": 3469,
+      "closed_at": "2020-09-15T08:42:08Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 38
+    },
+    {
+      "id": 693491252,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3457",
+      "title": "Redirect to 404 after changing URL slug in profile",
+      "number": 3457,
+      "closed_at": "2020-09-15T08:18:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 38
+    },
+    {
+      "id": 657282048,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3333",
+      "title": "Contribution flow revamp: create new/update components",
+      "number": 3333,
+      "closed_at": "2020-09-15T14:13:21Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 38
+    },
+    {
+      "id": 402720612,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1664",
+      "title": "Ensure API staging can run with NODE_ENV=production",
+      "number": 1664,
+      "closed_at": "2020-09-15T08:43:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "hackathon",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 38
+    },
+    {
+      "id": 397739012,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1621",
+      "title": "Remove \"Graphql error\" from error messages",
+      "number": 1621,
+      "closed_at": "2020-09-15T08:43:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 38
     }
   ]
 }
