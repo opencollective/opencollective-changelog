@@ -11058,6 +11058,33 @@
         }
       ],
       "closed_week": 38
+    },
+    {
+      "id": 348433538,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1217",
+      "title": "Better support for other expense _payout_ methods (besides Paypal, like IBAN/SEPA)",
+      "number": 1217,
+      "closed_at": "2020-09-16T12:54:26Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "backlog",
+          "color": "444444"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 38
     }
   ]
 }
