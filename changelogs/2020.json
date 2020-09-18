@@ -11085,6 +11085,34 @@
       ],
       "assignees": [],
       "closed_week": 38
+    },
+    {
+      "id": 701942346,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3496",
+      "title": "Let admins pay expenses if tax form hasn't been received",
+      "number": 3496,
+      "closed_at": "2020-09-17T10:01:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 38
     }
   ]
 }
