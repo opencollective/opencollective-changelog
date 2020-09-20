@@ -11113,6 +11113,33 @@
         }
       ],
       "closed_week": 38
+    },
+    {
+      "id": 590422080,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3026",
+      "title": "opencollective.com is blocked in Ukraine",
+      "number": 3026,
+      "closed_at": "2020-09-19T21:43:28Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 38
     }
   ]
 }
