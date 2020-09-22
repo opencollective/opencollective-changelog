@@ -11141,5 +11141,86 @@
       "assignees": [],
       "closed_week": 38
     }
+  ],
+  "week-39": [
+    {
+      "id": 705597419,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3533",
+      "title": "Download Receipts not working",
+      "number": 3533,
+      "closed_at": "2020-09-21T14:15:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 699308803,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3486",
+      "title": "Include incognito contributions in bundled PDF receipts",
+      "number": 3486,
+      "closed_at": "2020-09-21T12:43:30Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 641664102,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3261",
+      "title": "Include EVENTS in top nav bar",
+      "number": 3261,
+      "closed_at": "2020-09-21T23:11:38Z",
+      "labels": [
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 39
+    }
   ]
 }
