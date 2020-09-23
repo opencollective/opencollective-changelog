@@ -11221,6 +11221,26 @@
       ],
       "assignees": [],
       "closed_week": 39
+    },
+    {
+      "id": 705688853,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3534",
+      "title": "Payouts with TransferWise Plan limits bug",
+      "number": 3534,
+      "closed_at": "2020-09-22T16:16:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 39
     }
   ]
 }
