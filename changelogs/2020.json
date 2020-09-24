@@ -11241,6 +11241,34 @@
         }
       ],
       "closed_week": 39
+    },
+    {
+      "id": 705261286,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3530",
+      "title": "Maximum quantity not being enforced",
+      "number": 3530,
+      "closed_at": "2020-09-23T12:43:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
     }
   ]
 }
