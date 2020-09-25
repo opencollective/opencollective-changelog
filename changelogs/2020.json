@@ -5826,6 +5826,29 @@
       ],
       "assignees": [],
       "closed_week": 23
+    },
+    {
+      "id": 602322887,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3067",
+      "title": "reduce the barrier of donating",
+      "number": 3067,
+      "closed_at": "2020-06-05T06:38:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
     }
   ],
   "week-24": [
