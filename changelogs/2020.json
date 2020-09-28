@@ -11293,5 +11293,39 @@
       ],
       "closed_week": 39
     }
+  ],
+  "week-40": [
+    {
+      "id": 591935845,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3033",
+      "title": "Design for 'Create Organization on the Fly' instance",
+      "number": 3033,
+      "closed_at": "2020-09-27T15:55:18Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 40
+    }
   ]
 }
