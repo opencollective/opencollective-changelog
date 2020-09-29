@@ -11326,6 +11326,29 @@
         }
       ],
       "closed_week": 40
+    },
+    {
+      "id": 683611974,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3420",
+      "title": "Login screen hidden below the fold on the expense page",
+      "number": 3420,
+      "closed_at": "2020-09-28T14:44:51Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 40
     }
   ]
 }
