@@ -11349,6 +11349,34 @@
       ],
       "assignees": [],
       "closed_week": 40
+    },
+    {
+      "id": 712415373,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3554",
+      "title": "Markup showing in conversation email update",
+      "number": 3554,
+      "closed_at": "2020-10-01T13:04:33Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 40
     }
   ]
 }
