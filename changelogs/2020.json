@@ -11377,6 +11377,38 @@
         }
       ],
       "closed_week": 40
+    },
+    {
+      "id": 702528284,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3502",
+      "title": "Paying expenses randomly creates duplicate transactions",
+      "number": 3502,
+      "closed_at": "2020-10-02T09:20:00Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 40
     }
   ]
 }
