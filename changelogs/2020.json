@@ -11410,5 +11410,43 @@
       ],
       "closed_week": 40
     }
+  ],
+  "week-41": [
+    {
+      "id": 662721340,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3352",
+      "title": "Monthly data export: automatically upload to drive",
+      "number": 3352,
+      "closed_at": "2020-10-05T07:25:01Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 41
+    }
   ]
 }
