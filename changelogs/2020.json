@@ -11447,6 +11447,34 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 657289430,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3334",
+      "title": "Contribution flow revamp: clean up/delete old components and flow",
+      "number": 3334,
+      "closed_at": "2020-10-06T14:10:55Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
