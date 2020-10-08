@@ -11475,6 +11475,190 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 712006429,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3549",
+      "title": "Expense flow: first step (payee info) is not validated",
+      "number": 3549,
+      "closed_at": "2020-10-07T15:53:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 699259203,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3485",
+      "title": "\"Reject\" button for Collective admins on Transactions",
+      "number": 3485,
+      "closed_at": "2020-10-07T11:31:45Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "moderation",
+          "color": "ff7663"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 699257004,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3484",
+      "title": "API work for 'Reject contribution' feature",
+      "number": 3484,
+      "closed_at": "2020-10-07T11:31:55Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "moderation",
+          "color": "ff7663"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 694988173,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3463",
+      "title": "Ability for Collective admins to cancel/reject financial contributions",
+      "number": 3463,
+      "closed_at": "2020-10-07T11:32:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "moderation",
+          "color": "ff7663"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        },
+        {
+          "name": "needs specs",
+          "color": "efaba2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 439877758,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1993",
+      "title": "Refunds by Collective admins",
+      "number": 1993,
+      "closed_at": "2020-10-07T11:35:27Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hackathon",
+          "color": "f9d0c4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
