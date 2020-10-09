@@ -11659,6 +11659,81 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 699673074,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3488",
+      "title": "Bug in the API",
+      "number": 3488,
+      "closed_at": "2020-10-08T15:03:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 41
+    },
+    {
+      "id": 586127200,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3005",
+      "title": "Accepting Collective admin invitation does not immediately show up",
+      "number": 3005,
+      "closed_at": "2020-10-08T14:49:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 442131897,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2010",
+      "title": "Contribution flow: Contribute As step is not centered on large screens",
+      "number": 2010,
+      "closed_at": "2020-10-08T14:37:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
