@@ -11734,6 +11734,70 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 704171425,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3514",
+      "title": "Add button to remove avatar on the collective page",
+      "number": 3514,
+      "closed_at": "2020-10-09T12:29:24Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "jeffin143",
+          "html_url": "https://github.com/jeffin143"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 687206501,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3436",
+      "title": "Contribution flow revamp: Success page enhancements",
+      "number": 3436,
+      "closed_at": "2020-10-09T08:47:17Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
