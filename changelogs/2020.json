@@ -11799,5 +11799,134 @@
       ],
       "closed_week": 41
     }
+  ],
+  "week-42": [
+    {
+      "id": 708488992,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3543",
+      "title": "Incorrect language in transaction details",
+      "number": 3543,
+      "closed_at": "2020-10-12T09:40:43Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 705255474,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3527",
+      "title": "Showing wrong amount in pending contribution",
+      "number": 3527,
+      "closed_at": "2020-10-12T09:51:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 651481535,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3315",
+      "title": "Recurring contributions: multiple popup conflicts",
+      "number": 3315,
+      "closed_at": "2020-10-12T08:38:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 617529995,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3134",
+      "title": "Sentry AFC success page error",
+      "number": 3134,
+      "closed_at": "2020-10-12T09:30:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
+    },
+    {
+      "id": 560507618,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2881",
+      "title": "Implement Accept Financial Contributions step 1: Myself",
+      "number": 2881,
+      "closed_at": "2020-10-12T09:30:36Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 42
+    }
   ]
 }
