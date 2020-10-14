@@ -11927,6 +11927,122 @@
         }
       ],
       "closed_week": 42
+    },
+    {
+      "id": 719692995,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3594",
+      "title": "text cut off in search box",
+      "number": 3594,
+      "closed_at": "2020-10-13T14:02:25Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 539511698,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2744",
+      "title": "Contribution FAQ doesn't appear on mobile",
+      "number": 2744,
+      "closed_at": "2020-10-13T09:24:33Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "raulgrafico",
+          "html_url": "https://github.com/raulgrafico"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 390825247,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1540",
+      "title": "Verify paypal pre-approval is connecting to correct account",
+      "number": 1540,
+      "closed_at": "2020-10-13T14:25:10Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 42
     }
   ]
 }
