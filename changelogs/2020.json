@@ -12043,6 +12043,70 @@
         }
       ],
       "closed_week": 42
+    },
+    {
+      "id": 720824633,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3600",
+      "title": "Show currency of payment processor fee box",
+      "number": 3600,
+      "closed_at": "2020-10-15T08:48:20Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 635000707,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3221",
+      "title": "Fixes to manual payout confirmation screen",
+      "number": 3221,
+      "closed_at": "2020-10-15T08:48:20Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 42
     }
   ]
 }
