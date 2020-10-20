@@ -12108,5 +12108,59 @@
       ],
       "closed_week": 42
     }
+  ],
+  "week-43": [
+    {
+      "id": 723592153,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3611",
+      "title": "Empty \"READY TO PAY\" expenses filter will throw an error.",
+      "number": 3611,
+      "closed_at": "2020-10-19T12:28:39Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 721333557,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3602",
+      "title": "Host dashboard: Error when combining Ready to pay + Open Collective payout type filters",
+      "number": 3602,
+      "closed_at": "2020-10-19T13:59:02Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 43
+    }
   ]
 }
