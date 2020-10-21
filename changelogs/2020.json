@@ -12161,6 +12161,66 @@
         }
       ],
       "closed_week": 43
+    },
+    {
+      "id": 721247291,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3601",
+      "title": "Reject contribution: adapt description if transaction cannot be refunded",
+      "number": 3601,
+      "closed_at": "2020-10-20T14:54:11Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 559573730,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2867",
+      "title": "Include receipt PDF in \"thank you\" email",
+      "number": 2867,
+      "closed_at": "2020-10-20T17:54:00Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "emails",
+          "color": "f4d7b5"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 43
     }
   ]
 }
