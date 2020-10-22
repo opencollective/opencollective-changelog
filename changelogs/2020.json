@@ -12221,6 +12221,69 @@
         }
       ],
       "closed_week": 43
+    },
+    {
+      "id": 719098267,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3589",
+      "title": "\"Amount contributed\" overly emphasised on non-sponsor profiles",
+      "number": 3589,
+      "closed_at": "2020-10-21T10:31:07Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 515973878,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2583",
+      "title": "HostDashboard: Add loading state for expense refetch",
+      "number": 2583,
+      "closed_at": "2020-10-21T07:14:07Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 43
     }
   ]
 }
