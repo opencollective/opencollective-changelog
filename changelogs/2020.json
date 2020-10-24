@@ -12284,6 +12284,34 @@
       ],
       "assignees": [],
       "closed_week": 43
+    },
+    {
+      "id": 684574918,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3429",
+      "title": "Strong Customer Authentication (3d Secure) not supported in Recurring Contributions",
+      "number": 3429,
+      "closed_at": "2020-10-23T12:22:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "recurring contributions",
+          "color": "e07bcc"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 43
     }
   ]
 }
