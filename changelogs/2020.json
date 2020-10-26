@@ -12313,5 +12313,22 @@
       ],
       "closed_week": 43
     }
+  ],
+  "week-44": [
+    {
+      "id": 728771336,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3622",
+      "title": "Can't sign in to my account on a second machine.",
+      "number": 3622,
+      "closed_at": "2020-10-25T11:30:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    }
   ]
 }
