@@ -12329,6 +12329,136 @@
       ],
       "assignees": [],
       "closed_week": 44
+    },
+    {
+      "id": 720048800,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3596",
+      "title": "Display contribution policy in contribution flow",
+      "number": 3596,
+      "closed_at": "2020-10-26T12:41:08Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 718480514,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3587",
+      "title": "Support email address missing from tax form message.",
+      "number": 3587,
+      "closed_at": "2020-10-26T12:40:51Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    },
+    {
+      "id": 716961586,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3576",
+      "title": "Problems with reactivating collective in order to process addition of funds and a transfer",
+      "number": 3576,
+      "closed_at": "2020-10-26T10:49:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    },
+    {
+      "id": 629180849,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3183",
+      "title": "Collective's host is showing up in various places while not approved yet",
+      "number": 3183,
+      "closed_at": "2020-10-26T11:58:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 539593382,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2745",
+      "title": "Improve tooltips positioning",
+      "number": 2745,
+      "closed_at": "2020-10-26T09:14:01Z",
+      "labels": [
+        {
+          "name": "$150",
+          "color": "0e8a16"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "jeffin143",
+          "html_url": "https://github.com/jeffin143"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
