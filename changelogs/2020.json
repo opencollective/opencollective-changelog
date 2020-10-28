@@ -12459,6 +12459,26 @@
         }
       ],
       "closed_week": 44
+    },
+    {
+      "id": 702349880,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3499",
+      "title": "Blank button in host fees transaction",
+      "number": 3499,
+      "closed_at": "2020-10-27T22:39:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
