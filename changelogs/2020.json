@@ -12479,6 +12479,34 @@
         }
       ],
       "closed_week": 44
+    },
+    {
+      "id": 713058823,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3559",
+      "title": "Highlight misfilled fields during contribution flow",
+      "number": 3559,
+      "closed_at": "2020-10-28T10:57:39Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
