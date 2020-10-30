@@ -12507,6 +12507,34 @@
         }
       ],
       "closed_week": 44
+    },
+    {
+      "id": 732050399,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3645",
+      "title": "Editing an expense puts the logged in user as payee",
+      "number": 3645,
+      "closed_at": "2020-10-29T16:53:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
