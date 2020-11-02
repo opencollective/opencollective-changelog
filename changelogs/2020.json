@@ -12536,5 +12536,42 @@
       ],
       "closed_week": 44
     }
+  ],
+  "week-45": [
+    {
+      "id": 358416041,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1284",
+      "title": "Support invoices from vendors",
+      "number": 1284,
+      "closed_at": "2020-11-01T21:32:28Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 45
+    }
   ]
 }
