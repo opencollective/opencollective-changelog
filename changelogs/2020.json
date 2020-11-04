@@ -12572,6 +12572,34 @@
       ],
       "assignees": [],
       "closed_week": 45
+    },
+    {
+      "id": 733263817,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3651",
+      "title": "Include PDFs in recurring contribution's \"thank you\" emails",
+      "number": 3651,
+      "closed_at": "2020-11-03T12:37:09Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 45
     }
   ]
 }
