@@ -12600,6 +12600,38 @@
         }
       ],
       "closed_week": 45
+    },
+    {
+      "id": 731368307,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3636",
+      "title": "Collective Navigation v2: move \"Events\" into its own section",
+      "number": 3636,
+      "closed_at": "2020-11-05T09:24:02Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 45
     }
   ]
 }
