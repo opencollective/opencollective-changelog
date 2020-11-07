@@ -12632,6 +12632,46 @@
         }
       ],
       "closed_week": 45
+    },
+    {
+      "id": 730468036,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3633",
+      "title": "Include consolidated receipt PDF in monthly User/Organization reports",
+      "number": 3633,
+      "closed_at": "2020-11-06T16:59:01Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 45
     }
   ]
 }
