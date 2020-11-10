@@ -12673,5 +12673,67 @@
       ],
       "closed_week": 45
     }
+  ],
+  "week-46": [
+    {
+      "id": 735411658,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3660",
+      "title": "Pending Transferwise expenses transactions crash",
+      "number": 3660,
+      "closed_at": "2020-11-09T14:47:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 46
+    },
+    {
+      "id": 575512487,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2958",
+      "title": "Enforce delay between Accepting expense and being able to automatically pay for it",
+      "number": 2958,
+      "closed_at": "2020-11-09T11:28:27Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 46
+    }
   ]
 }
