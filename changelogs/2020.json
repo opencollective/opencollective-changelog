@@ -12735,5 +12735,55 @@
       ],
       "closed_week": 46
     }
+  ],
+  "week-47": [
+    {
+      "id": 741126587,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3674",
+      "title": "Variable names showing in expense summary",
+      "number": 3674,
+      "closed_at": "2020-11-16T14:02:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 721341532,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3603",
+      "title": "Expense form: blocked from error on another step",
+      "number": 3603,
+      "closed_at": "2020-11-16T06:59:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "gutofoletto",
+          "html_url": "https://github.com/gutofoletto"
+        }
+      ],
+      "closed_week": 47
+    }
   ]
 }
