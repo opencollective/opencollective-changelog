@@ -12784,6 +12784,66 @@
         }
       ],
       "closed_week": 47
+    },
+    {
+      "id": 736171619,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3663",
+      "title": "Invisible checkbox on apply to host modal ",
+      "number": 3663,
+      "closed_at": "2020-11-17T08:07:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 673883798,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3391",
+      "title": "Improve local tax feature",
+      "number": 3391,
+      "closed_at": "2020-11-17T08:04:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 47
     }
   ]
 }
