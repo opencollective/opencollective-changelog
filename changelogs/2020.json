@@ -12844,6 +12844,61 @@
         }
       ],
       "closed_week": 47
+    },
+    {
+      "id": 736171584,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3662",
+      "title": "User menu: wrap email address",
+      "number": 3662,
+      "closed_at": "2020-11-18T13:54:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 47
+    },
+    {
+      "id": 614587763,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3119",
+      "title": "PayPal error: \"Cannot read property 'error' of undefined\"",
+      "number": 3119,
+      "closed_at": "2020-11-18T17:22:37Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 47
     }
   ]
 }
