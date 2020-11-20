@@ -12899,6 +12899,70 @@
         }
       ],
       "closed_week": 47
+    },
+    {
+      "id": 732980471,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3649",
+      "title": "Radio-button behaviour when you set a custom host fee",
+      "number": 3649,
+      "closed_at": "2020-11-19T10:57:56Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 549087377,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2807",
+      "title": "GraphQL query to fetch collective's features",
+      "number": 2807,
+      "closed_at": "2020-11-19T13:45:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 47
     }
   ]
 }
