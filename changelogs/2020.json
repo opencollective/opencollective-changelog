@@ -12964,5 +12964,307 @@
       ],
       "closed_week": 47
     }
+  ],
+  "week-48": [
+    {
+      "id": 731366819,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3635",
+      "title": "Collective Navigation v2: move \"Goals\" and \"Top Financial Contributors\" into \"Budget\" section",
+      "number": 3635,
+      "closed_at": "2020-11-24T09:41:22Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 731358897,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3634",
+      "title": "Collective Navigation v2: create new \"Connect\" section",
+      "number": 3634,
+      "closed_at": "2020-11-24T09:41:32Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 689040427,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3443",
+      "title": "Contribution flow: guest contributions",
+      "number": 3443,
+      "closed_at": "2020-11-24T09:09:57Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 644577896,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3274",
+      "title": "2FA feature spec",
+      "number": 3274,
+      "closed_at": "2020-11-24T09:45:30Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 639277623,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3247",
+      "title": "Search not finding a Collective that exists",
+      "number": 3247,
+      "closed_at": "2020-11-24T11:22:02Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 637374641,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3233",
+      "title": "Include events in search results",
+      "number": 3233,
+      "closed_at": "2020-11-24T11:18:46Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 560496401,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2876",
+      "title": "Implement onboarding modal step 2: Add people to your journey",
+      "number": 2876,
+      "closed_at": "2020-11-24T14:33:26Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 519584382,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2605",
+      "title": "Add type filter to search results",
+      "number": 2605,
+      "closed_at": "2020-11-24T11:24:01Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "discovery",
+          "color": "71fc88"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 411501637,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1746",
+      "title": "Add 2FA two factor authentication for login",
+      "number": 1746,
+      "closed_at": "2020-11-24T09:46:28Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    }
   ]
 }
