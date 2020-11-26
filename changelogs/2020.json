@@ -13265,6 +13265,69 @@
       ],
       "assignees": [],
       "closed_week": 48
+    },
+    {
+      "id": 746481067,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3696",
+      "title": "New navbar actions menu is not accessible",
+      "number": 3696,
+      "closed_at": "2020-11-25T17:41:20Z",
+      "labels": [
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 533095679,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2681",
+      "title": "Toggle \"new related collectives\" in thank-you email to donors",
+      "number": 2681,
+      "closed_at": "2020-11-25T11:14:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "notifications",
+          "color": "a702e2"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
     }
   ]
 }
