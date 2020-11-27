@@ -13328,6 +13328,112 @@
       ],
       "assignees": [],
       "closed_week": 48
+    },
+    {
+      "id": 751346781,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3736",
+      "title": "Fixed Versions for Dependencies",
+      "number": 3736,
+      "closed_at": "2020-11-26T08:08:29Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 720820710,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3599",
+      "title": "Paypal error message persists after switching to manual",
+      "number": 3599,
+      "closed_at": "2020-11-26T11:42:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 696207120,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3473",
+      "title": "Remove 'hibernating at the north pole'",
+      "number": 3473,
+      "closed_at": "2020-11-26T11:53:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 548116353,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2794",
+      "title": "`tier` missing from Contributor that switched from one-time donation to recurring",
+      "number": 2794,
+      "closed_at": "2020-11-26T09:28:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
     }
   ]
 }
