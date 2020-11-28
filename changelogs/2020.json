@@ -13434,6 +13434,109 @@
       ],
       "assignees": [],
       "closed_week": 48
+    },
+    {
+      "id": 751919061,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3739",
+      "title": "Whitelist opencollective.com subdomains",
+      "number": 3739,
+      "closed_at": "2020-11-27T13:21:42Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 750950652,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3727",
+      "title": "Platform avatars design update",
+      "number": 3727,
+      "closed_at": "2020-11-27T11:58:50Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 750618974,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3725",
+      "title": "New collective navigation: no more tickets section",
+      "number": 3725,
+      "closed_at": "2020-11-27T12:32:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 750257621,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3723",
+      "title": "503 error when querying API",
+      "number": 3723,
+      "closed_at": "2020-11-27T09:58:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
     }
   ]
 }
