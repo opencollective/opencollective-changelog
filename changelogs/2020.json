@@ -13538,5 +13538,315 @@
       "assignees": [],
       "closed_week": 48
     }
+  ],
+  "week-49": [
+    {
+      "id": 751558373,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3738",
+      "title": "New collective navigation: empty collective page sections/empty collective page",
+      "number": 3738,
+      "closed_at": "2020-11-30T15:38:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 751523585,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3737",
+      "title": "New collective navigation: empty contributions section",
+      "number": 3737,
+      "closed_at": "2020-11-30T10:49:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 750612771,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3724",
+      "title": "New collective navigation: empty events section",
+      "number": 3724,
+      "closed_at": "2020-11-30T10:49:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 733164648,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3650",
+      "title": "Automatically invoice hosts pending platform tips and fees",
+      "number": 3650,
+      "closed_at": "2020-11-30T12:55:59Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "workers",
+          "color": "e1ed07"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 668576344,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3374",
+      "title": "Request For Grant",
+      "number": 3374,
+      "closed_at": "2020-11-30T15:56:13Z",
+      "labels": [
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 655011344,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3323",
+      "title": "Can’t submit an invoice sent by a vendor",
+      "number": 3323,
+      "closed_at": "2020-11-30T15:54:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 649380000,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3303",
+      "title": "Allow platform admins to remove themselves as admins",
+      "number": 3303,
+      "closed_at": "2020-11-30T15:00:08Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 645911673,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3278",
+      "title": "Access 'create new organization' process when submitting an expense",
+      "number": 3278,
+      "closed_at": "2020-11-30T15:54:51Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 617892521,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3141",
+      "title": "Request to be removed as admin",
+      "number": 3141,
+      "closed_at": "2020-11-30T14:42:15Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 460807407,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2158",
+      "title": "Make a request for funds / apply for grants",
+      "number": 2158,
+      "closed_at": "2020-11-30T15:57:55Z",
+      "labels": [
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 49
+    }
   ]
 }
