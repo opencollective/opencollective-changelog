@@ -13847,6 +13847,113 @@
         }
       ],
       "closed_week": 49
+    },
+    {
+      "id": 754219780,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3750",
+      "title": "PDF receipts should not be included for gift cards",
+      "number": 3750,
+      "closed_at": "2020-12-01T10:29:51Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 753907261,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3748",
+      "title": "Repeating icons on nav bar",
+      "number": 3748,
+      "closed_at": "2020-12-01T13:17:45Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 49
+    },
+    {
+      "id": 751134895,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3732",
+      "title": "Updates and Conversations showing even though they are disabled",
+      "number": 3732,
+      "closed_at": "2020-12-01T16:55:31Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 734407437,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3656",
+      "title": "Magic links don't work with Outlook \"safe links\" (ATP)",
+      "number": 3656,
+      "closed_at": "2020-12-01T15:04:42Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
     }
   ]
 }
