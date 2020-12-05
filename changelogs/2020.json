@@ -14133,6 +14133,154 @@
       ],
       "assignees": [],
       "closed_week": 49
+    },
+    {
+      "id": 756624946,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3760",
+      "title": "Tax form not required for transfer to Collective in same host",
+      "number": 3760,
+      "closed_at": "2020-12-04T10:01:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 754255685,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3751",
+      "title": "Edit collective page sections: update for new data structure",
+      "number": 3751,
+      "closed_at": "2020-12-04T10:32:34Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 731418448,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3640",
+      "title": "Collective Navigation v2: create new Collective page navbar actions menu",
+      "number": 3640,
+      "closed_at": "2020-12-04T10:32:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 731392508,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3639",
+      "title": "Collective Navigation v2: create new Collective page navbar",
+      "number": 3639,
+      "closed_at": "2020-12-04T15:59:05Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 712279435,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3551",
+      "title": "Total amount contributed number incorrect",
+      "number": 3551,
+      "closed_at": "2020-12-04T09:36:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
     }
   ]
 }
