@@ -14282,5 +14282,34 @@
       ],
       "closed_week": 49
     }
+  ],
+  "week-50": [
+    {
+      "id": 639222414,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3244",
+      "title": "Fiscal host admin unable to add Collective to their own host",
+      "number": 3244,
+      "closed_at": "2020-12-06T19:55:52Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    }
   ]
 }
