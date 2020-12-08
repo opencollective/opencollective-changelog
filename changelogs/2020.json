@@ -14310,6 +14310,90 @@
       ],
       "assignees": [],
       "closed_week": 50
+    },
+    {
+      "id": 753039483,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3742",
+      "title": "Unable to submit expense with my organization as payee",
+      "number": 3742,
+      "closed_at": "2020-12-07T23:41:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 747566973,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3701",
+      "title": "Add keyboard shortcuts to modals",
+      "number": 3701,
+      "closed_at": "2020-12-07T09:14:09Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "vickywane",
+          "html_url": "https://github.com/vickywane"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 688652218,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3442",
+      "title": "Correct Updates info for Hosts",
+      "number": 3442,
+      "closed_at": "2020-12-07T08:47:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
