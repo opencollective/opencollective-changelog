@@ -14394,6 +14394,66 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 755190901,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3754",
+      "title": "Collective Navigation v2: update About section",
+      "number": 3754,
+      "closed_at": "2020-12-08T12:27:50Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 751265369,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3735",
+      "title": "Double height button in transaction details",
+      "number": 3735,
+      "closed_at": "2020-12-08T14:27:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
