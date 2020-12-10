@@ -14454,6 +14454,203 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 753621156,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3744",
+      "title": "Implement new collective page sections data structure",
+      "number": 3744,
+      "closed_at": "2020-12-09T15:58:09Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 744671018,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3688",
+      "title": "Search with Algolia: pagination is not working properly",
+      "number": 3688,
+      "closed_at": "2020-12-09T21:08:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 732806452,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3648",
+      "title": "Transaction missing from data export",
+      "number": 3648,
+      "closed_at": "2020-12-09T16:48:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 725001980,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3616",
+      "title": "Add Funds form incorrectly adding fees",
+      "number": 3616,
+      "closed_at": "2020-12-09T21:03:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 718082506,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3584",
+      "title": "Host dashboard: Add Host itself to \"Hosted Collectives\"",
+      "number": 3584,
+      "closed_at": "2020-12-09T21:03:30Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 705212838,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3526",
+      "title": "Changes to profile page sections don't immediately update",
+      "number": 3526,
+      "closed_at": "2020-12-09T16:12:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 696312395,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3474",
+      "title": "Can't load Sustain 2020 event page",
+      "number": 3474,
+      "closed_at": "2020-12-09T16:10:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 690073986,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3449",
+      "title": "No error when Gift Card source Payment Method is deleted",
+      "number": 3449,
+      "closed_at": "2020-12-09T16:32:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 680567298,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3410",
+      "title": "Unable to pay via Transferwise even though funds are available",
+      "number": 3410,
+      "closed_at": "2020-12-09T16:03:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
