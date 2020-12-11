@@ -14651,6 +14651,121 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 731422033,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3641",
+      "title": "Collective Navigation v2: create new Collective page navbar sections menus",
+      "number": 3641,
+      "closed_at": "2020-12-10T17:54:53Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 724576966,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3615",
+      "title": "Host dashboard > orders: show amount without platform tip",
+      "number": 3615,
+      "closed_at": "2020-12-10T11:09:43Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 705956124,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3535",
+      "title": "Host not appearing in search results.",
+      "number": 3535,
+      "closed_at": "2020-12-10T08:15:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 704384471,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3520",
+      "title": "Host dashboard: Implement new design for \"Financial contributions\" tab",
+      "number": 3520,
+      "closed_at": "2020-12-10T09:30:43Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
     }
   ]
 }
