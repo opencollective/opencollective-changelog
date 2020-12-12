@@ -14766,6 +14766,94 @@
       ],
       "assignees": [],
       "closed_week": 50
+    },
+    {
+      "id": 758708110,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3771",
+      "title": "Collective Navigation v2: navbar v2 actions menu renders all CTAs",
+      "number": 3771,
+      "closed_at": "2020-12-11T12:16:14Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 758577363,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3770",
+      "title": "Remove 2FA displayed after Removing / Adding 2FA configuration",
+      "number": 3770,
+      "closed_at": "2020-12-11T13:07:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 758573303,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3769",
+      "title": "Modal not closing when setting up / removing 2FA",
+      "number": 3769,
+      "closed_at": "2020-12-11T13:07:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
