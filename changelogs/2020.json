@@ -7700,6 +7700,42 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 615957526,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3123",
+      "title": "userTaxFormRequiredBeforePayment should use a GraphQL loader",
+      "number": 3123,
+      "closed_at": "2020-07-02T06:51:59Z",
+      "labels": [
+        {
+          "name": "$500",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 27
     }
   ],
   "week-28": [
@@ -14854,6 +14890,31 @@
         }
       ],
       "closed_week": 50
+    }
+  ],
+  "week-51": [
+    {
+      "id": 612586125,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3111",
+      "title": "Broken links on documentation for manual reporting",
+      "number": 3111,
+      "closed_at": "2020-12-14T15:17:06Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
     }
   ]
 }
