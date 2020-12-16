@@ -14915,6 +14915,122 @@
       ],
       "assignees": [],
       "closed_week": 51
+    },
+    {
+      "id": 757214147,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3763",
+      "title": "Collective Navigation v2: navbar v2 actions menu displaying properly on mobile",
+      "number": 3763,
+      "closed_at": "2020-12-15T12:03:20Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 751260309,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3733",
+      "title": "CTA link in thank you email broken if you disable default tier",
+      "number": 3733,
+      "closed_at": "2020-12-15T12:02:19Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 750063630,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3719",
+      "title": "Remove \"goal\" language from standalone tier",
+      "number": 3719,
+      "closed_at": "2020-12-15T13:39:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 749650491,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3715",
+      "title": "Rich Host applications",
+      "number": 3715,
+      "closed_at": "2020-12-15T10:18:55Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 51
     }
   ]
 }
