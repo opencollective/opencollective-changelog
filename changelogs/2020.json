@@ -15031,6 +15031,93 @@
         }
       ],
       "closed_week": 51
+    },
+    {
+      "id": 753814895,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3746",
+      "title": "Expense form saved details mismatch",
+      "number": 3746,
+      "closed_at": "2020-12-16T20:51:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
+    },
+    {
+      "id": 739804956,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3670",
+      "title": "Collective Navigation v2: section updates",
+      "number": 3670,
+      "closed_at": "2020-12-16T17:43:38Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 638323017,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3238",
+      "title": "Improve the process of applying to a fiscal host",
+      "number": 3238,
+      "closed_at": "2020-12-16T14:59:44Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 51
     }
   ]
 }
