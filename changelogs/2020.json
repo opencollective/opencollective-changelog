@@ -15118,6 +15118,34 @@
         }
       ],
       "closed_week": 51
+    },
+    {
+      "id": 732585832,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3646",
+      "title": "Date format on transactions overview make the dates ambiguous",
+      "number": 3646,
+      "closed_at": "2020-12-17T17:39:36Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "RahulBansal123",
+          "html_url": "https://github.com/RahulBansal123"
+        }
+      ],
+      "closed_week": 51
     }
   ]
 }
