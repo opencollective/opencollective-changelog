@@ -15146,6 +15146,93 @@
         }
       ],
       "closed_week": 51
+    },
+    {
+      "id": 750112760,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3721",
+      "title": "Expense policy showing up twice",
+      "number": 3721,
+      "closed_at": "2020-12-18T10:42:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 749563713,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3710",
+      "title": "Pages from \"frontend.opencollective.com\" being indexed",
+      "number": 3710,
+      "closed_at": "2020-12-18T14:31:46Z",
+      "labels": [
+        {
+          "name": "SEO",
+          "color": "f265d3"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
+    },
+    {
+      "id": 748415481,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3704",
+      "title": "Next.js 404 Page Missing",
+      "number": 3704,
+      "closed_at": "2020-12-17T07:38:09Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 51
     }
   ]
 }
