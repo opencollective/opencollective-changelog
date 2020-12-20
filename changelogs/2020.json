@@ -15233,6 +15233,60 @@
         }
       ],
       "closed_week": 51
+    },
+    {
+      "id": 748229472,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3702",
+      "title": "Value too long for type character varying error on Update preview",
+      "number": 3702,
+      "closed_at": "2020-12-19T10:17:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
+    },
+    {
+      "id": 745761308,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3693",
+      "title": "Pledges page crash when pledgers delete their accounts",
+      "number": 3693,
+      "closed_at": "2020-12-19T10:18:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
     }
   ]
 }
