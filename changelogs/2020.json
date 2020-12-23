@@ -15288,5 +15288,65 @@
       "assignees": [],
       "closed_week": 51
     }
+  ],
+  "week-52": [
+    {
+      "id": 771613893,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3784",
+      "title": "Open Collective Bot Sent an \"Thank You For Contributing\" When a User Was Not Contributing",
+      "number": 3784,
+      "closed_at": "2020-12-22T12:28:38Z",
+      "labels": [
+        {
+          "name": "bot",
+          "color": "75b2d6"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    },
+    {
+      "id": 630657534,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3196",
+      "title": "Privacy policy: Text is not responsive",
+      "number": 3196,
+      "closed_at": "2020-12-22T08:28:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    }
   ]
 }
