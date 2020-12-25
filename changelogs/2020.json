@@ -15347,6 +15347,397 @@
       ],
       "assignees": [],
       "closed_week": 52
+    },
+    {
+      "id": 720375521,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3597",
+      "title": "TypeError: Cannot read property 'connectedAccountId' of undefined",
+      "number": 3597,
+      "closed_at": "2020-12-24T08:11:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    },
+    {
+      "id": 716625811,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3573",
+      "title": "Content security policy is preventing avatar change",
+      "number": 3573,
+      "closed_at": "2020-12-24T12:41:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 712654967,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3556",
+      "title": "Cannot return null for non-nullable field Event.isApproved",
+      "number": 3556,
+      "closed_at": "2020-12-24T12:42:21Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 702348201,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3498",
+      "title": "Email preview showing wrong expense receipt image",
+      "number": 3498,
+      "closed_at": "2020-12-24T12:42:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "emails",
+          "color": "f4d7b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 694820809,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3459",
+      "title": "Don't automatically capitalize tier titles",
+      "number": 3459,
+      "closed_at": "2020-12-24T14:21:49Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 692373007,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3456",
+      "title": "Surprising color conversion after luminance adjustment",
+      "number": 3456,
+      "closed_at": "2020-12-24T14:38:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 690758942,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3450",
+      "title": "\"Undefined\" expenses in User Report",
+      "number": 3450,
+      "closed_at": "2020-12-24T14:06:31Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "notifications",
+          "color": "a702e2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    },
+    {
+      "id": 684380481,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3427",
+      "title": "Events: can't edit core contributors",
+      "number": 3427,
+      "closed_at": "2020-12-24T13:00:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 672301841,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3384",
+      "title": "Rounding 0.1$ to 0$ in collective front page",
+      "number": 3384,
+      "closed_at": "2020-12-24T13:00:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 671975151,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3383",
+      "title": "Color picker: always show the raw color",
+      "number": 3383,
+      "closed_at": "2020-12-24T14:38:42Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 584281820,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2997",
+      "title": "Implement Sentry on the API",
+      "number": 2997,
+      "closed_at": "2020-12-24T12:59:31Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 538946415,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2735",
+      "title": "Missing email when exporting participants as CSV (SSR)",
+      "number": 2735,
+      "closed_at": "2020-12-24T11:33:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    },
+    {
+      "id": 505305976,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2516",
+      "title": "Deleted events show up in Contributions",
+      "number": 2516,
+      "closed_at": "2020-12-24T11:35:23Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    },
+    {
+      "id": 502535417,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2498",
+      "title": "Text color is not working in WYSIWYG editor in standalone tiers",
+      "number": 2498,
+      "closed_at": "2020-12-24T09:07:27Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
     }
   ]
 }
