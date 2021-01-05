@@ -1,0 +1,60 @@
+{
+  "week-2": [
+    {
+      "id": 755904344,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3759",
+      "title": "Contribution flow feedback and updates",
+      "number": 3759,
+      "closed_at": "2021-01-04T10:58:22Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 750061707,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3718",
+      "title": "Force standalone page toggle not sticking",
+      "number": 3718,
+      "closed_at": "2021-01-04T08:17:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    }
+  ]
+}
