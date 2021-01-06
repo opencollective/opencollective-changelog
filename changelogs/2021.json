@@ -55,6 +55,29 @@
         }
       ],
       "closed_week": 2
+    },
+    {
+      "id": 777579654,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3800",
+      "title": "Search: don't show filters if nothing is searched yet ",
+      "number": 3800,
+      "closed_at": "2021-01-05T10:29:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
