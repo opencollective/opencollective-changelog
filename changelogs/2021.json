@@ -78,6 +78,107 @@
       ],
       "assignees": [],
       "closed_week": 2
+    },
+    {
+      "id": 780794993,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3809",
+      "title": "Widget for backers (excluding organizations) does not seem to work embedded on website",
+      "number": 3809,
+      "closed_at": "2021-01-06T19:51:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 778851644,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3806",
+      "title": "Search: wording for \"not found\" results",
+      "number": 3806,
+      "closed_at": "2021-01-06T09:00:42Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 720769492,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3598",
+      "title": "Charged amount not matching contribution amount",
+      "number": 3598,
+      "closed_at": "2021-01-06T13:26:18Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 703043790,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3507",
+      "title": "Wrong validation for github repo in new collective flow",
+      "number": 3507,
+      "closed_at": "2021-01-06T10:08:46Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
