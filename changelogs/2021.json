@@ -179,6 +179,88 @@
       ],
       "assignees": [],
       "closed_week": 2
+    },
+    {
+      "id": 781184747,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3812",
+      "title": "Allow events for hosts with a budget",
+      "number": 3812,
+      "closed_at": "2021-01-07T09:58:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 780865188,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3810",
+      "title": "Transaction not being created due to float Amount",
+      "number": 3810,
+      "closed_at": "2021-01-07T21:28:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 647052080,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3283",
+      "title": "Decouple Events and Connected Collectives from \"more ways to contribute\"",
+      "number": 3283,
+      "closed_at": "2021-01-07T15:45:46Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "design → community request",
+          "color": "0061E0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
