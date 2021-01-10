@@ -261,6 +261,29 @@
       ],
       "assignees": [],
       "closed_week": 2
+    },
+    {
+      "id": 782563264,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3817",
+      "title": "API: I can query the graphql and possible rest api endpoints without providing an api key",
+      "number": 3817,
+      "closed_at": "2021-01-09T14:42:05Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
