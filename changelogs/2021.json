@@ -285,5 +285,35 @@
       "assignees": [],
       "closed_week": 2
     }
+  ],
+  "week-3": [
+    {
+      "id": 779006494,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3807",
+      "title": "Allow self-hosted collectives to submit expenses to any collective",
+      "number": 3807,
+      "closed_at": "2021-01-11T16:20:49Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 3
+    }
   ]
 }
