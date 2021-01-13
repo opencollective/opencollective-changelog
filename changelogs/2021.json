@@ -314,6 +314,53 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 784386348,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3827",
+      "title": "Contribute Grid can't scroll left",
+      "number": 3827,
+      "closed_at": "2021-01-12T17:07:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    },
+    {
+      "id": 783876281,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3824",
+      "title": "Unable to archive or unhost Collective due to \"Validation is on twitterHandle failed\"",
+      "number": 3824,
+      "closed_at": "2021-01-12T08:04:43Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
