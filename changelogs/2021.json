@@ -361,6 +361,48 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 784622076,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3829",
+      "title": "After deactivating host, deactivate host button still active",
+      "number": 3829,
+      "closed_at": "2021-01-13T10:03:38Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    },
+    {
+      "id": 783493515,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3822",
+      "title": "Collective horizontal cards list (tiers, projects, events, etc) scroll bounce ",
+      "number": 3822,
+      "closed_at": "2021-01-13T10:19:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "help wanted",
+          "color": "159818"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
     }
   ]
 }
