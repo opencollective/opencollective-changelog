@@ -403,6 +403,97 @@
       ],
       "assignees": [],
       "closed_week": 3
+    },
+    {
+      "id": 785476488,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3837",
+      "title": "Unable to add funds to self-hosted Collective",
+      "number": 3837,
+      "closed_at": "2021-01-14T12:01:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 785475318,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3836",
+      "title": "Unable to see budget section or confirm pending bank transfer on self-hosted Collective",
+      "number": 3836,
+      "closed_at": "2021-01-14T21:10:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    },
+    {
+      "id": 778047216,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3804",
+      "title": "Contributors query returning duplicates",
+      "number": 3804,
+      "closed_at": "2021-01-14T21:59:20Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 774816388,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3794",
+      "title": "Removed as admin but still seem to be admin",
+      "number": 3794,
+      "closed_at": "2021-01-14T09:29:22Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
