@@ -495,5 +495,162 @@
       ],
       "closed_week": 3
     }
+  ],
+  "week-4": [
+    {
+      "id": 774819524,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3797",
+      "title": "Invited expense loses details when editing",
+      "number": 3797,
+      "closed_at": "2021-01-19T16:39:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 732719838,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3647",
+      "title": "Editing expense form - grant application ",
+      "number": 3647,
+      "closed_at": "2021-01-19T14:47:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 657732779,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3342",
+      "title": "admin can turn off events",
+      "number": 3342,
+      "closed_at": "2021-01-19T13:47:16Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 4
+    },
+    {
+      "id": 635337621,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3224",
+      "title": "Add transaction details on expense page",
+      "number": 3224,
+      "closed_at": "2021-01-19T21:07:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 597975902,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3053",
+      "title": "Post comments on updates",
+      "number": 3053,
+      "closed_at": "2021-01-19T08:32:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 4
+    }
   ]
 }
