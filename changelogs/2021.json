@@ -651,6 +651,76 @@
         }
       ],
       "closed_week": 4
+    },
+    {
+      "id": 789869220,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3868",
+      "title": "Update marked as incognito when it's not",
+      "number": 3868,
+      "closed_at": "2021-01-20T11:23:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 788544300,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3861",
+      "title": "Total contributed amount not adding up",
+      "number": 3861,
+      "closed_at": "2021-01-20T09:55:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 4
+    },
+    {
+      "id": 786002512,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3845",
+      "title": "Wrong email when creating a collective",
+      "number": 3845,
+      "closed_at": "2021-01-20T09:13:33Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 4
     }
   ]
 }
