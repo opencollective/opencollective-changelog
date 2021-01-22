@@ -721,6 +721,97 @@
       ],
       "assignees": [],
       "closed_week": 4
+    },
+    {
+      "id": 790362972,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3874",
+      "title": "Error when paging through expenses",
+      "number": 3874,
+      "closed_at": "2021-01-21T09:38:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 4
+    },
+    {
+      "id": 784457880,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3828",
+      "title": "Language selection menu shold be updated",
+      "number": 3828,
+      "closed_at": "2021-01-21T10:39:46Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 723615992,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3613",
+      "title": "Display the total amount of filtered expenses in the Dashboard",
+      "number": 3613,
+      "closed_at": "2021-01-21T17:27:17Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "leonardohofling",
+          "html_url": "https://github.com/leonardohofling"
+        }
+      ],
+      "closed_week": 4
     }
   ]
 }
