@@ -1012,5 +1012,185 @@
       ],
       "closed_week": 4
     }
+  ],
+  "week-5": [
+    {
+      "id": 792918653,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3907",
+      "title": "Payment receipts dates are incorrect",
+      "number": 3907,
+      "closed_at": "2021-01-25T12:13:16Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 792915901,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3905",
+      "title": "Team section missing",
+      "number": 3905,
+      "closed_at": "2021-01-25T12:12:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 792408379,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3899",
+      "title": "Do not display end date on event card if it's the same as the start date",
+      "number": 3899,
+      "closed_at": "2021-01-25T13:33:53Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 695383991,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3468",
+      "title": "\"Create an Organization\" Form update",
+      "number": 3468,
+      "closed_at": "2021-01-25T11:04:39Z",
+      "labels": [
+        {
+          "name": "$500",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 669305614,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3376",
+      "title": "Pay expense to a Collective budget (in the same host)",
+      "number": 3376,
+      "closed_at": "2021-01-25T22:52:02Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    },
+    {
+      "id": 553451303,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2838",
+      "title": "Rich text editor: add support for text alignment",
+      "number": 2838,
+      "closed_at": "2021-01-25T14:57:10Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    }
   ]
 }
