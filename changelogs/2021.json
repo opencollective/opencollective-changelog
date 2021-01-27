@@ -1191,6 +1191,137 @@
       ],
       "assignees": [],
       "closed_week": 5
+    },
+    {
+      "id": 793632178,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3909",
+      "title": "Fix Card Size in Banner",
+      "number": 3909,
+      "closed_at": "2021-01-26T13:21:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 773932697,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3790",
+      "title": "Buttons to donate are inaccessible with screen reader",
+      "number": 3790,
+      "closed_at": "2021-01-26T13:20:50Z",
+      "labels": [
+        {
+          "name": "$300",
+          "color": "85bb65"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 706295587,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3536",
+      "title": "HTML content: replace all external links by redirects",
+      "number": 3536,
+      "closed_at": "2021-01-26T13:57:18Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "HADES-01",
+          "html_url": "https://github.com/HADES-01"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 619325533,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3145",
+      "title": "Expense form: Validate addresses",
+      "number": 3145,
+      "closed_at": "2021-01-26T11:57:03Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
     }
   ]
 }
