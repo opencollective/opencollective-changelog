@@ -1322,6 +1322,280 @@
       ],
       "assignees": [],
       "closed_week": 5
+    },
+    {
+      "id": 794568308,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3915",
+      "title": "Top Sponsors in single column",
+      "number": 3915,
+      "closed_at": "2021-01-27T15:08:20Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 792415289,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3900",
+      "title": "Unclear action links in Update admin view",
+      "number": 3900,
+      "closed_at": "2021-01-27T15:22:38Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 786391263,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3851",
+      "title": "Refresh after adding funds",
+      "number": 3851,
+      "closed_at": "2021-01-27T14:47:33Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 774187653,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3792",
+      "title": "Host showing up as hosting itself",
+      "number": 3792,
+      "closed_at": "2021-01-27T09:09:29Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    },
+    {
+      "id": 757218276,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3764",
+      "title": "Collective Navigation v2: navbar v2 actions menu vs single CTA button",
+      "number": 3764,
+      "closed_at": "2021-01-27T19:03:17Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 749757467,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3716",
+      "title": "Steps component bubbles aliasing",
+      "number": 3716,
+      "closed_at": "2021-01-27T10:07:49Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "leonardohofling",
+          "html_url": "https://github.com/leonardohofling"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 727200844,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3620",
+      "title": "GQLV2: Add updates",
+      "number": 3620,
+      "closed_at": "2021-01-27T10:01:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    },
+    {
+      "id": 648651743,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3297",
+      "title": "Contribution policy set by Host admin",
+      "number": 3297,
+      "closed_at": "2021-01-27T10:08:01Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "segfult",
+          "html_url": "https://github.com/segfult"
+        }
+      ],
+      "closed_week": 5
     }
   ]
 }
