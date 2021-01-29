@@ -1596,6 +1596,149 @@
         }
       ],
       "closed_week": 5
+    },
+    {
+      "id": 796063596,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3925",
+      "title": "KoreNBeatZ",
+      "number": 3925,
+      "closed_at": "2021-01-28T14:54:04Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    },
+    {
+      "id": 795735810,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3922",
+      "title": "Event showed up in pending host applications",
+      "number": 3922,
+      "closed_at": "2021-01-28T12:19:13Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 791053111,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3879",
+      "title": "Updates: change cursor to pointer for delete/edit actions buttons",
+      "number": 3879,
+      "closed_at": "2021-01-28T12:06:14Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 789585950,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3866",
+      "title": "Remove host fee box from add funds modal for self-hosted Collectives",
+      "number": 3866,
+      "closed_at": "2021-01-28T08:09:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 771813101,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3785",
+      "title": "Download and delete expense buttons not visible on mobile",
+      "number": 3785,
+      "closed_at": "2021-01-28T11:01:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 5
     }
   ]
 }
