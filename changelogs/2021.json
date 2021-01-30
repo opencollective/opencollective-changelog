@@ -1739,6 +1739,41 @@
         }
       ],
       "closed_week": 5
+    },
+    {
+      "id": 619887079,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3148",
+      "title": "Unable to set correct currency for host and its Collective",
+      "number": 3148,
+      "closed_at": "2021-01-29T08:59:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
     }
   ]
 }
