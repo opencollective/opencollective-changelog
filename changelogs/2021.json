@@ -1775,5 +1775,203 @@
       "assignees": [],
       "closed_week": 5
     }
+  ],
+  "week-6": [
+    {
+      "id": 797361517,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3932",
+      "title": "Changes to team members not showing on page",
+      "number": 3932,
+      "closed_at": "2021-02-04T11:44:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 796982578,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3930",
+      "title": "Empty \"Contributions\" category on collective page",
+      "number": 3930,
+      "closed_at": "2021-02-04T15:13:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 796902236,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3929",
+      "title": "Styling issues in \"Join The Movement\" section at /how-it works",
+      "number": 3929,
+      "closed_at": "2021-02-04T09:52:11Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 796420878,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3928",
+      "title": "Odd line break in expense summary title",
+      "number": 3928,
+      "closed_at": "2021-02-04T11:25:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 795913978,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3923",
+      "title": "Contribute Section should not be displayed for inactive Events and Projects",
+      "number": 3923,
+      "closed_at": "2021-02-04T15:13:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 784075486,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3826",
+      "title": "Navbar > Actions: Menu not closing on outside click",
+      "number": 3826,
+      "closed_at": "2021-02-04T10:33:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "help wanted",
+          "color": "159818"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 755197722,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3755",
+      "title": "Collective Navigation v2: remove edit collective 'Updates' and 'Conversations' pages",
+      "number": 3755,
+      "closed_at": "2021-02-04T09:27:33Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 6
+    }
   ]
 }
