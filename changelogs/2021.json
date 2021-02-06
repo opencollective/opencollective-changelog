@@ -1972,6 +1972,38 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 672832346,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3386",
+      "title": "Enable alternative transfer methods in the PayoutBankInformationForm",
+      "number": 3386,
+      "closed_at": "2021-02-05T21:00:58Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "up for grabs",
+          "color": "e278ab"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 6
     }
   ]
 }
