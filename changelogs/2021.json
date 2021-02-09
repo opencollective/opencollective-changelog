@@ -2005,5 +2005,54 @@
       ],
       "closed_week": 6
     }
+  ],
+  "week-7": [
+    {
+      "id": 803032934,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3948",
+      "title": "unmatched sponsor logo returned",
+      "number": 3948,
+      "closed_at": "2021-02-08T17:05:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    },
+    {
+      "id": 802060568,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3944",
+      "title": "Update default sections",
+      "number": 3944,
+      "closed_at": "2021-02-08T10:59:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    }
   ]
 }
