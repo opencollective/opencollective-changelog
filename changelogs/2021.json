@@ -2053,6 +2053,89 @@
         }
       ],
       "closed_week": 7
+    },
+    {
+      "id": 804351049,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3959",
+      "title": "Tax not included in total",
+      "number": 3959,
+      "closed_at": "2021-02-09T09:31:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 804109740,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3957",
+      "title": "Guest user cannot pay for event ticket",
+      "number": 3957,
+      "closed_at": "2021-02-09T08:52:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 734076991,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3655",
+      "title": "Display total contributed on Funds",
+      "number": 3655,
+      "closed_at": "2021-02-09T20:52:16Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs specs",
+          "color": "efaba2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
     }
   ]
 }
