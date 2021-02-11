@@ -2136,6 +2136,96 @@
       ],
       "assignees": [],
       "closed_week": 7
+    },
+    {
+      "id": 799842016,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3937",
+      "title": "Host reports not received",
+      "number": 3937,
+      "closed_at": "2021-02-10T08:33:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    },
+    {
+      "id": 790095677,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3871",
+      "title": "Accept financial contributions without verifying the emails",
+      "number": 3871,
+      "closed_at": "2021-02-10T18:40:27Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 787602424,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3859",
+      "title": "Display the budget section as soon as there is an expense",
+      "number": 3859,
+      "closed_at": "2021-02-10T19:08:29Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
     }
   ]
 }
