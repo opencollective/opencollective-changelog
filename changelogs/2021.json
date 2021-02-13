@@ -2226,6 +2226,78 @@
       ],
       "assignees": [],
       "closed_week": 7
+    },
+    {
+      "id": 806829420,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3969",
+      "title": "Read more on tier jumps to top of screen",
+      "number": 3969,
+      "closed_at": "2021-02-12T08:39:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 604090958,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3078",
+      "title": "Followup on StyledInputTags accessibility",
+      "number": 3078,
+      "closed_at": "2021-02-12T14:58:10Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "brymut",
+          "html_url": "https://github.com/brymut"
+        }
+      ],
+      "closed_week": 7
     }
   ]
 }
