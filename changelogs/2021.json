@@ -2299,5 +2299,62 @@
       ],
       "closed_week": 7
     }
+  ],
+  "week-8": [
+    {
+      "id": 808648315,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3978",
+      "title": "Transactions with deleted order",
+      "number": 3978,
+      "closed_at": "2021-02-15T16:13:57Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 8
+    },
+    {
+      "id": 586037481,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3003",
+      "title": "Embed contribution flow",
+      "number": 3003,
+      "closed_at": "2021-02-15T09:40:29Z",
+      "labels": [
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    }
   ]
 }
