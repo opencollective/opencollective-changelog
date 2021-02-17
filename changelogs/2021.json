@@ -2355,6 +2355,97 @@
         }
       ],
       "closed_week": 8
+    },
+    {
+      "id": 791039792,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3878",
+      "title": "Add settings in the Actions menu",
+      "number": 3878,
+      "closed_at": "2021-02-16T13:42:52Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 743439743,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3683",
+      "title": "Custom OCF apply flow",
+      "number": 3683,
+      "closed_at": "2021-02-16T15:29:38Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 698604151,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3482",
+      "title": "Buttons move as page loads",
+      "number": 3482,
+      "closed_at": "2021-02-16T13:42:52Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 8
     }
   ]
 }
