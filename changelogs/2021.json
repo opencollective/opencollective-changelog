@@ -2446,6 +2446,62 @@
       ],
       "assignees": [],
       "closed_week": 8
+    },
+    {
+      "id": 810946419,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3993",
+      "title": "`USER` collectives with no entry in the `Users` table",
+      "number": 3993,
+      "closed_at": "2021-02-18T10:16:52Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 808058797,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3974",
+      "title": "Public message overflows off card in collective \"About\" section",
+      "number": 3974,
+      "closed_at": "2021-02-18T13:20:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
     }
   ]
 }
