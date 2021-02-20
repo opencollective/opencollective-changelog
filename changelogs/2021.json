@@ -2502,6 +2502,94 @@
         }
       ],
       "closed_week": 8
+    },
+    {
+      "id": 811512147,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3997",
+      "title": "Contribution not showing on contributor page",
+      "number": 3997,
+      "closed_at": "2021-02-19T09:11:13Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "cache",
+          "color": "F5BFC2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 811428326,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3996",
+      "title": "After removing team member, they still show in team section",
+      "number": 3996,
+      "closed_at": "2021-02-19T09:11:13Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "cache",
+          "color": "F5BFC2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 810702739,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3991",
+      "title": "Change tax form collection interval to 3 years by the submission month",
+      "number": 3991,
+      "closed_at": "2021-02-19T08:22:09Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
     }
   ]
 }
