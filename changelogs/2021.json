@@ -2591,5 +2591,71 @@
       ],
       "closed_week": 8
     }
+  ],
+  "week-9": [
+    {
+      "id": 757107419,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3762",
+      "title": "TransferWise: Implement OAauth Integration",
+      "number": 3762,
+      "closed_at": "2021-02-22T21:09:19Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "integrations",
+          "color": "282589"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 730027413,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3630",
+      "title": "Invoice expense with invalid address",
+      "number": 3630,
+      "closed_at": "2021-02-22T19:43:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 9
+    }
   ]
 }
