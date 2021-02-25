@@ -2656,6 +2656,176 @@
         }
       ],
       "closed_week": 9
+    },
+    {
+      "id": 814031929,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4005",
+      "title": "Payment Method: Network Error",
+      "number": 4005,
+      "closed_at": "2021-02-23T13:04:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 812989561,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4001",
+      "title": "Ghost Collective preventing host deactivation",
+      "number": 4001,
+      "closed_at": "2021-02-23T13:38:41Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
+    },
+    {
+      "id": 812984954,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4000",
+      "title": "Zero balance not working",
+      "number": 4000,
+      "closed_at": "2021-02-23T13:40:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
+    },
+    {
+      "id": 811188370,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3994",
+      "title": "Github flow: strange FAQ poisitoning",
+      "number": 3994,
+      "closed_at": "2021-02-23T08:18:45Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 800597148,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3939",
+      "title": "Put application answers into notification to fiscal hosting admin",
+      "number": 3939,
+      "closed_at": "2021-02-24T13:47:34Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 794727414,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3916",
+      "title": "Include message to communicate expense submitters that money will take some time to arrive",
+      "number": 3916,
+      "closed_at": "2021-02-23T08:09:16Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "emails",
+          "color": "f4d7b5"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 791702232,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3888",
+      "title": "Tier card design update",
+      "number": 3888,
+      "closed_at": "2021-02-23T08:31:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 9
     }
   ]
 }
