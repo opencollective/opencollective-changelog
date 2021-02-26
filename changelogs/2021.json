@@ -2826,6 +2826,34 @@
         }
       ],
       "closed_week": 9
+    },
+    {
+      "id": 808775913,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3980",
+      "title": "Accessibility Standard Enforcement with eslint-plugin-jsx-a11y Plugin",
+      "number": 3980,
+      "closed_at": "2021-02-25T14:35:19Z",
+      "labels": [
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
     }
   ]
 }
