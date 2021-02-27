@@ -2854,6 +2854,122 @@
         }
       ],
       "closed_week": 9
+    },
+    {
+      "id": 816220284,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4020",
+      "title": "\"Expense created\" activity missing for invites",
+      "number": 4020,
+      "closed_at": "2021-02-26T10:14:28Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "need steps",
+          "color": "3662b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 815880247,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4017",
+      "title": "Unable to approve event email",
+      "number": 4017,
+      "closed_at": "2021-02-26T10:53:44Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 785662259,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3841",
+      "title": "Collective Navigation – Elements and buttons polish",
+      "number": 3841,
+      "closed_at": "2021-02-26T15:06:58Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 783732521,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3823",
+      "title": "Modify \"New Backer\" email template to display dollar amount in title",
+      "number": 3823,
+      "closed_at": "2021-02-26T13:40:21Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Yetizone",
+          "html_url": "https://github.com/Yetizone"
+        }
+      ],
+      "closed_week": 9
     }
   ]
 }
