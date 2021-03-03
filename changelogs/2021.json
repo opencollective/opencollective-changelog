@@ -3051,6 +3051,97 @@
         }
       ],
       "closed_week": 10
+    },
+    {
+      "id": 816932959,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4023",
+      "title": "Should jump to top on second step of expense submission",
+      "number": 4023,
+      "closed_at": "2021-03-02T08:23:38Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 815364592,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4016",
+      "title": "Add a confirmation modal before publishing an update",
+      "number": 4016,
+      "closed_at": "2021-03-02T16:06:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 743836477,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3684",
+      "title": "Payment Receipts follow up",
+      "number": 3684,
+      "closed_at": "2021-03-02T15:52:18Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 10
     }
   ]
 }
