@@ -1,32 +1,40 @@
 import moment from "moment";
-import { intersectionBy, pick, groupBy } from "lodash";
+import { pick, groupBy } from "lodash";
 
 function getLabelData(labels) {
-  return labels.map(label => pick(label, ["name", "color"]));
+  return labels.map((label) => pick(label, ["name", "color"]));
 }
 
 function getAssignees(assignees) {
-  return assignees.map(assignee => pick(assignee, ["login", "html_url"]));
+  return assignees.map((assignee) => pick(assignee, ["login", "html_url"]));
 }
 
-export function filterIssuesBylabels(issues, labels) {
-  return issues.filter(issue => {
-    const sharedLabels = intersectionBy(issue.labels, labels, "name");
-    if (sharedLabels.length > 0) {
-      return true;
+/** Issue must have one of these labels to be included in the changelog */
+const EXPECTED_LABELS = ["bug", "enhancement", "feature"];
+const EXCLUDED_LABELS = ["duplicate", "invalid", "question"];
+
+export function filterIssuesByLabels(issues) {
+  return issues.filter((issue) => {
+    const hasExpectedLabel = issue.labels?.some(({ name }) =>
+      EXPECTED_LABELS.includes(name)
+    );
+
+    if (hasExpectedLabel) {
+      return !issue.labels?.some(({ name }) => EXCLUDED_LABELS.includes(name));
     }
+
     return false;
   });
 }
 
 export function getData(issues) {
-  const extractedData = issues.map(issue => {
+  const extractedData = issues.map((issue) => {
     const data = pick(issue, [
       "id",
       "html_url",
       "title",
       "number",
-      "closed_at"
+      "closed_at",
     ]);
     data.labels = getLabelData(issue.labels);
     data.assignees = getAssignees(issue.assignees);

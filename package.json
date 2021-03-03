@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "changelog:cleanup": "babel-node -- ./scripts/cleanup.js",
     "changelog:commit": "cross-env ./scripts/commit_logs.sh",
     "changelog:update": "babel-node -- scripts/index.js",
     "deploy": "now --prod",
