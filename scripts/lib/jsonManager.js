@@ -15,6 +15,15 @@ function logs(year) {
   return editJsonFile(getLogPath(year));
 }
 
+export function getLogsPaths() {
+  const directory = path.resolve(__dirname, `../../changelogs`);
+  const logFilenameRegex = /[0-9]{4}\.json/;
+  return fs
+    .readdirSync(directory)
+    .filter((file) => file.match(logFilenameRegex))
+    .map((file) => path.join(directory, file));
+}
+
 export function saveWeekLogs(year, week, issues) {
   const weekPath = `week-${week}`;
   const yearLog = logs(year);

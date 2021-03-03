@@ -2928,25 +2928,6 @@
   ],
   "week-13": [
     {
-      "id": 589164423,
-      "html_url": "https://github.com/opencollective/opencollective/issues/3016",
-      "title": "notNull Violation: Tier.name cannot be null, Validation error: In undefined's tier, \"Amount\" is required",
-      "number": 3016,
-      "closed_at": "2020-03-27T15:16:27Z",
-      "labels": [
-        {
-          "name": "bug",
-          "color": "fc2929"
-        },
-        {
-          "name": "duplicate",
-          "color": "ffe799"
-        }
-      ],
-      "assignees": [],
-      "closed_week": 13
-    },
-    {
       "id": 589097752,
       "html_url": "https://github.com/opencollective/opencollective/issues/3015",
       "title": "Open Source apply flow does not work for personal repos",

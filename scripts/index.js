@@ -4,13 +4,11 @@ import "./env";
 import config from "./config.json";
 
 import { fetchWithOctokit } from "./lib/github";
-import { filterIssuesBylabels, getData } from "./lib/util";
+import { filterIssuesByLabels, getData } from "./lib/util";
 import {
   saveMultipleLogs,
-  setLastChangeLogUpdateDate
+  setLastChangeLogUpdateDate,
 } from "./lib/jsonManager";
-
-const labels = [{ name: "bug" }, { name: "enhancement" }, { name: "feature" }];
 
 async function run() {
   let issues = [];
@@ -20,7 +18,7 @@ async function run() {
     state: "closed",
     since: config.updatedSince,
     page: 1,
-    per_page: 100
+    per_page: 100,
   };
 
   while (true) {
@@ -32,7 +30,7 @@ async function run() {
     }
     params.page++;
   }
-  issues = filterIssuesBylabels(issues, labels);
+  issues = filterIssuesByLabels(issues);
   issues = getData(issues);
   return saveMultipleLogs(issues);
 }
@@ -43,7 +41,7 @@ run()
     setLastChangeLogUpdateDate(moment().format("YYYY-MM-DD"));
     process.exit();
   })
-  .catch(err => {
+  .catch((err) => {
     console.error(err);
     process.exit();
   });
