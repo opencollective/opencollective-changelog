@@ -3123,6 +3123,62 @@
       ],
       "assignees": [],
       "closed_week": 10
+    },
+    {
+      "id": 820882861,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4047",
+      "title": "Changelog: don't include issues with `duplicate` tag",
+      "number": 4047,
+      "closed_at": "2021-03-03T09:45:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "changelog",
+          "color": "1d76db"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 820201728,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4042",
+      "title": "Incorrect currency sign in goals",
+      "number": 4042,
+      "closed_at": "2021-03-03T09:47:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
     }
   ]
 }
