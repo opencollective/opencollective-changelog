@@ -3179,6 +3179,66 @@
         }
       ],
       "closed_week": 10
+    },
+    {
+      "id": 819001986,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4037",
+      "title": "Inconsistency in Dates in Budget Section",
+      "number": 4037,
+      "closed_at": "2021-03-04T11:41:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 774819767,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3798",
+      "title": "Expense inviter can input payout details",
+      "number": 3798,
+      "closed_at": "2021-03-04T17:32:07Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 10
     }
   ]
 }
