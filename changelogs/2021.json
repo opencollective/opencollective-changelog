@@ -3239,6 +3239,70 @@
         }
       ],
       "closed_week": 10
+    },
+    {
+      "id": 814997488,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4010",
+      "title": "Manually added payment processor fees not charged",
+      "number": 4010,
+      "closed_at": "2021-03-05T09:46:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 791314481,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3883",
+      "title": "Expense: visual regression on FAQs",
+      "number": 3883,
+      "closed_at": "2021-03-05T09:45:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
     }
   ]
 }
