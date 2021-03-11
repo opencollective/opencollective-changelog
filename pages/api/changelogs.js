@@ -6,6 +6,6 @@ export default (req, res) => {
   res.status(200).json({
     "year-2021": yearlogs2021,
     "year-2020": yearlogs2020,
-    "year-2019": yearlogs2019
+    "year-2019": yearlogs2019,
   });
 };
