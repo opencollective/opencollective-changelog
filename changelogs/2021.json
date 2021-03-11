@@ -3304,5 +3304,39 @@
       ],
       "closed_week": 10
     }
+  ],
+  "week-11": [
+    {
+      "id": 782189978,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3815",
+      "title": "Add the ability for Hosts to require custom information in the Contribution Flow",
+      "number": 3815,
+      "closed_at": "2021-03-10T18:25:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 11
+    }
   ]
 }
