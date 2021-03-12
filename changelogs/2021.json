@@ -3337,6 +3337,150 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 829066944,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4080",
+      "title": "Expense emails: broken attachments previews",
+      "number": 4080,
+      "closed_at": "2021-03-11T13:06:49Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 809208989,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3984",
+      "title": "When rendered in iframes, links should open new tabs",
+      "number": 3984,
+      "closed_at": "2021-03-11T09:40:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 801391318,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3942",
+      "title": "Logo missing in updates email",
+      "number": 3942,
+      "closed_at": "2021-03-11T13:07:41Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 794348813,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3914",
+      "title": "Broken route when inputting tha page number directly",
+      "number": 3914,
+      "closed_at": "2021-03-11T15:14:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 692365891,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3455",
+      "title": "Automatically add http:// to the start of URLs for links in text editor",
+      "number": 3455,
+      "closed_at": "2021-03-11T11:25:21Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Jeanluis019",
+          "html_url": "https://github.com/Jeanluis019"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
