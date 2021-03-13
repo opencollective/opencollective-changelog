@@ -3481,6 +3481,273 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 817895012,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4028",
+      "title": "Updates have really weird word wrapping",
+      "number": 4028,
+      "closed_at": "2021-03-12T10:37:00Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 815328219,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4013",
+      "title": "Blog post pages doesn't have the post title in the <title> element",
+      "number": 4013,
+      "closed_at": "2021-03-12T15:24:21Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 814483823,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4007",
+      "title": "Can't delete Drafted Expenses",
+      "number": 4007,
+      "closed_at": "2021-03-12T16:20:24Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 813527232,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4004",
+      "title": "Spacing differences between update preview & email",
+      "number": 4004,
+      "closed_at": "2021-03-12T10:37:00Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 810069148,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3990",
+      "title": "\"Platform Fees and Tips collected\" transaction missing key fields",
+      "number": 3990,
+      "closed_at": "2021-03-12T13:01:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 11
+    },
+    {
+      "id": 752620903,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3740",
+      "title": "Post replies to expense notifications as an expense comments",
+      "number": 3740,
+      "closed_at": "2021-03-12T08:50:04Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 716386347,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3572",
+      "title": "Currency Mismatch on socialcoop",
+      "number": 3572,
+      "closed_at": "2021-03-12T13:02:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 553452393,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2839",
+      "title": "Move updates to the new `RichTextEditor`",
+      "number": 2839,
+      "closed_at": "2021-03-12T10:37:00Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 551342160,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2828",
+      "title": "Wrong metadata for update page",
+      "number": 2828,
+      "closed_at": "2021-03-12T15:24:21Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
