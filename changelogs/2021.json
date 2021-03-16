@@ -3749,5 +3749,98 @@
       ],
       "closed_week": 11
     }
+  ],
+  "week-12": [
+    {
+      "id": 829891928,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4081",
+      "title": "Email notification when an expense is rejected",
+      "number": 4081,
+      "closed_at": "2021-03-15T09:51:46Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 828936192,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4078",
+      "title": "Innacurate total Raised/Disbursed when switching Hosts",
+      "number": 4078,
+      "closed_at": "2021-03-15T14:42:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 12
+    },
+    {
+      "id": 741384418,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3675",
+      "title": "Rename master branch to main in all OpenCollective repos",
+      "number": 3675,
+      "closed_at": "2021-03-15T13:34:27Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        },
+        {
+          "name": "inclusivity",
+          "color": "3cc44a"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 12
+    }
   ]
 }
