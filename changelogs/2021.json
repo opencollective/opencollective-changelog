@@ -3841,6 +3841,50 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 722670570,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3607",
+      "title": "Add tooltips or hover help info or FAQ content next to refund/reject transaction buttons",
+      "number": 3607,
+      "closed_at": "2021-03-16T14:52:43Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
