@@ -3885,6 +3885,66 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 830263556,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4083",
+      "title": "Skip fetching images in tests",
+      "number": 4083,
+      "closed_at": "2021-03-17T14:37:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 824820611,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4067",
+      "title": "Virtual Credit Cards: Attach Receipt to Expense",
+      "number": 4067,
+      "closed_at": "2021-03-17T15:52:30Z",
+      "labels": [
+        {
+          "name": "design → UX",
+          "color": "0061E0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
