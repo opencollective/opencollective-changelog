@@ -3945,6 +3945,74 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 822875000,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4064",
+      "title": "Publish update confirmation modal: add info about audience",
+      "number": 4064,
+      "closed_at": "2021-03-18T13:58:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 584341437,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2998",
+      "title": "Updates: clarify the audience target before publishing",
+      "number": 2998,
+      "closed_at": "2021-03-18T13:58:28Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
