@@ -4013,6 +4013,34 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 834943958,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4095",
+      "title": "Indexation of user profiles by search engines",
+      "number": 4095,
+      "closed_at": "2021-03-19T08:59:22Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
