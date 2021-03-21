@@ -4041,6 +4041,26 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 793904657,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3913",
+      "title": "Can't disable 2FA",
+      "number": 3913,
+      "closed_at": "2021-03-20T07:38:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
