@@ -4062,5 +4062,113 @@
       ],
       "closed_week": 12
     }
+  ],
+  "week-13": [
+    {
+      "id": 837564265,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4102",
+      "title": "Broken Vercel pre-deploys",
+      "number": 4102,
+      "closed_at": "2021-03-22T11:27:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
+    },
+    {
+      "id": 836104196,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4097",
+      "title": "Budget: links are not using the account's primary color",
+      "number": 4097,
+      "closed_at": "2021-03-22T09:26:14Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 814490739,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4008",
+      "title": "Refact TransferWise to use Quote V2 endpoint",
+      "number": 4008,
+      "closed_at": "2021-03-22T13:00:09Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 805945900,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3965",
+      "title": "Interac fees through Transferwise not properly reflected in OC",
+      "number": 3965,
+      "closed_at": "2021-03-22T13:00:09Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
+    }
   ]
 }
