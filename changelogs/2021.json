@@ -4169,6 +4169,98 @@
       ],
       "assignees": [],
       "closed_week": 13
+    },
+    {
+      "id": 837669448,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4104",
+      "title": "Double notification about paid expense",
+      "number": 4104,
+      "closed_at": "2021-03-23T08:57:37Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 793902373,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3912",
+      "title": "New Pricing Page Design - Implementation",
+      "number": 3912,
+      "closed_at": "2021-03-23T17:38:33Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 786722276,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3853",
+      "title": "Edit recurring contribution: menu to pick amount closes immediatly",
+      "number": 3853,
+      "closed_at": "2021-03-23T08:37:57Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 13
     }
   ]
 }
