@@ -4261,6 +4261,123 @@
         }
       ],
       "closed_week": 13
+    },
+    {
+      "id": 840154011,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4119",
+      "title": "Change individual to organization?",
+      "number": 4119,
+      "closed_at": "2021-03-24T21:49:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
+    },
+    {
+      "id": 832566389,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4091",
+      "title": "NZD Host's Wise balance displaying in EUR",
+      "number": 4091,
+      "closed_at": "2021-03-24T12:55:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
+    },
+    {
+      "id": 832198331,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4087",
+      "title": "Wise balance on host dashboard doesn't update as you pay expenses",
+      "number": 4087,
+      "closed_at": "2021-03-24T12:55:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
+    },
+    {
+      "id": 687855612,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3439",
+      "title": "Online Events",
+      "number": 3439,
+      "closed_at": "2021-03-24T08:13:12Z",
+      "labels": [
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 13
     }
   ]
 }
