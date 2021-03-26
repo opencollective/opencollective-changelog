@@ -4378,6 +4378,70 @@
         }
       ],
       "closed_week": 13
+    },
+    {
+      "id": 839817459,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4116",
+      "title": "Cannot checkout $0 event ticket",
+      "number": 4116,
+      "closed_at": "2021-03-25T08:07:49Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 837568903,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4103",
+      "title": "Expense paid email: crowded buttons",
+      "number": 4103,
+      "closed_at": "2021-03-25T08:39:55Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 13
     }
   ]
 }
