@@ -4464,6 +4464,34 @@
         }
       ],
       "closed_week": 14
+    },
+    {
+      "id": 844241746,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4133",
+      "title": "Transactions missing when jumping to budget section",
+      "number": 4133,
+      "closed_at": "2021-03-30T09:38:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
     }
   ]
 }
