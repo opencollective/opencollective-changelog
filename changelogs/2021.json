@@ -4492,6 +4492,49 @@
         }
       ],
       "closed_week": 14
+    },
+    {
+      "id": 837829972,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4107",
+      "title": "Platform Tip Share of Payment Processor Fees",
+      "number": 4107,
+      "closed_at": "2021-03-31T15:21:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 815020236,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4011",
+      "title": "Settings: clicking on `Add Tags` scrolls to top",
+      "number": 4011,
+      "closed_at": "2021-03-31T16:40:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
     }
   ]
 }
