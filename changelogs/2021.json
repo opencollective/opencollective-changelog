@@ -4535,6 +4535,25 @@
       ],
       "assignees": [],
       "closed_week": 14
+    },
+    {
+      "id": 842157172,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4126",
+      "title": "Can not clone opencollective-pdf on windows",
+      "number": 4126,
+      "closed_at": "2021-04-01T09:06:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
     }
   ]
 }
