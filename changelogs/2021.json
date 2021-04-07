@@ -4555,5 +4555,163 @@
       "assignees": [],
       "closed_week": 14
     }
+  ],
+  "week-15": [
+    {
+      "id": 850877933,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4156",
+      "title": "Receipt showing wrong currency",
+      "number": 4156,
+      "closed_at": "2021-04-06T10:23:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 850704658,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4154",
+      "title": "Resetting search on financial contributions tab on host dashboard breaks it",
+      "number": 4154,
+      "closed_at": "2021-04-06T10:45:41Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 849061668,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4150",
+      "title": "Broken collective-tweet",
+      "number": 4150,
+      "closed_at": "2021-04-06T07:18:38Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 816498964,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4022",
+      "title": "Investigate and Eliminate Warnings Reported by the `styled-components-a11y` Plugin",
+      "number": 4022,
+      "closed_at": "2021-04-06T16:29:49Z",
+      "labels": [
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 750091533,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3720",
+      "title": "Allow flexible contributions to tiers",
+      "number": 3720,
+      "closed_at": "2021-04-06T16:37:36Z",
+      "labels": [
+        {
+          "name": "$300",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 15
+    }
   ]
 }
