@@ -4712,6 +4712,21 @@
         }
       ],
       "closed_week": 15
+    },
+    {
+      "id": 848934813,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4146",
+      "title": "Unable to approve platform settlement expense",
+      "number": 4146,
+      "closed_at": "2021-04-07T19:03:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 15
     }
   ]
 }
