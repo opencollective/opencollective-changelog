@@ -4727,6 +4727,29 @@
       ],
       "assignees": [],
       "closed_week": 15
+    },
+    {
+      "id": 720769492,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3598",
+      "title": "Charged amount not matching contribution amount",
+      "number": 3598,
+      "closed_at": "2021-04-08T11:50:26Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 15
     }
   ]
 }
