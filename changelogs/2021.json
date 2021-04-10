@@ -4750,6 +4750,34 @@
       ],
       "assignees": [],
       "closed_week": 15
+    },
+    {
+      "id": 824287329,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4066",
+      "title": "Redirect to /contribute when /donate is disabled",
+      "number": 4066,
+      "closed_at": "2021-04-09T09:39:47Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 15
     }
   ]
 }
