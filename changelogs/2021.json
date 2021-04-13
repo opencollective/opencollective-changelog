@@ -4779,5 +4779,94 @@
       ],
       "closed_week": 15
     }
+  ],
+  "week-16": [
+    {
+      "id": 846427154,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4137",
+      "title": "Allow multiple files in invoice dropzone",
+      "number": 4137,
+      "closed_at": "2021-04-12T12:32:17Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "bolariin",
+          "html_url": "https://github.com/bolariin"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 838235670,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4110",
+      "title": "Reveal host fee % even if host is not open to applications",
+      "number": 4110,
+      "closed_at": "2021-04-12T10:38:54Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 803842928,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3951",
+      "title": "Discord Webhooks",
+      "number": 3951,
+      "closed_at": "2021-04-12T10:17:54Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 16
+    }
   ]
 }
