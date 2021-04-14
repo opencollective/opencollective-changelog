@@ -4867,6 +4867,70 @@
       ],
       "assignees": [],
       "closed_week": 16
+    },
+    {
+      "id": 839959444,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4117",
+      "title": "Exclude E2E Tests from Running for i18n/crowdin branch",
+      "number": 4117,
+      "closed_at": "2021-04-13T08:20:02Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 822112628,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4059",
+      "title": "Credit Card input looks broken in Recurring Contributions",
+      "number": 4059,
+      "closed_at": "2021-04-13T08:50:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
     }
   ]
 }
