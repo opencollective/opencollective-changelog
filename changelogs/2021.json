@@ -4931,6 +4931,109 @@
         }
       ],
       "closed_week": 16
+    },
+    {
+      "id": 853940249,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4175",
+      "title": "no-reply notifications should come from Open Collective",
+      "number": 4175,
+      "closed_at": "2021-04-14T07:10:41Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 831988655,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4086",
+      "title": "Virtual Credit Cards: Add Virtual Credit Card to Collective",
+      "number": 4086,
+      "closed_at": "2021-04-14T17:33:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        },
+        {
+          "name": "integrations",
+          "color": "282589"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 382037420,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1455",
+      "title": "Rate limit api call to test if an email is present",
+      "number": 1455,
+      "closed_at": "2021-04-14T07:23:01Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "hackathon",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "privacy",
+          "color": "0b2768"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 16
     }
   ]
 }
