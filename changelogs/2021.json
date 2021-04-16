@@ -5034,6 +5034,125 @@
       ],
       "assignees": [],
       "closed_week": 16
+    },
+    {
+      "id": 841109637,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4122",
+      "title": "Enable Updates for events",
+      "number": 4122,
+      "closed_at": "2021-04-15T08:18:51Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 16
+    },
+    {
+      "id": 836021691,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4096",
+      "title": "Connect PayPal: automatically create webhook",
+      "number": 4096,
+      "closed_at": "2021-04-15T08:18:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 815290034,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4012",
+      "title": "Use `next/image` component for the homepage",
+      "number": 4012,
+      "closed_at": "2021-04-15T12:29:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 690845061,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3451",
+      "title": "Incognito recurring contributions should be listed on the main profile page",
+      "number": 3451,
+      "closed_at": "2021-04-15T08:18:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
     }
   ]
 }
