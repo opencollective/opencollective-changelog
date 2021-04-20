@@ -5154,5 +5154,99 @@
       ],
       "closed_week": 16
     }
+  ],
+  "week-17": [
+    {
+      "id": 861057356,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4195",
+      "title": "Transactions list empty after flashing",
+      "number": 4195,
+      "closed_at": "2021-04-19T10:05:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 784962626,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3833",
+      "title": "Contribution flow: payment select should be disabled while submitting",
+      "number": 3833,
+      "closed_at": "2021-04-19T19:09:50Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 402668892,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1656",
+      "title": "Missing refund function for PayPal",
+      "number": 1656,
+      "closed_at": "2021-04-19T09:04:03Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    }
   ]
 }
