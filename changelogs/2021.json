@@ -5247,6 +5247,62 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 862611771,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4203",
+      "title": "Invitations should refer to the profile type",
+      "number": 4203,
+      "closed_at": "2021-04-20T11:46:45Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 862596562,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4201",
+      "title": "User invited to become admin should not be able to create org",
+      "number": 4201,
+      "closed_at": "2021-04-20T11:47:11Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
     }
   ]
 }
