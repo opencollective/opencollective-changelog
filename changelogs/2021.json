@@ -5303,6 +5303,154 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 855916254,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4181",
+      "title": "Make Hero's background image unselectable",
+      "number": 4181,
+      "closed_at": "2021-04-21T09:34:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 848898917,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4145",
+      "title": "Replace react-stripe-elements by react-stripe-js",
+      "number": 4145,
+      "closed_at": "2021-04-21T16:06:14Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 813378103,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4002",
+      "title": "Markup appearing in pending contributions instructions",
+      "number": 4002,
+      "closed_at": "2021-04-21T09:52:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "task",
+          "color": "d16d49"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 750977990,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3728",
+      "title": "Apply to a fiscal host behaviour - Implementation",
+      "number": 3728,
+      "closed_at": "2021-04-21T08:37:26Z",
+      "labels": [
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 691489916,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3453",
+      "title": "Redirect to the relevant page after accepting invitation",
+      "number": 3453,
+      "closed_at": "2021-04-21T09:52:44Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
     }
   ]
 }
