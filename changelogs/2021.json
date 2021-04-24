@@ -5451,6 +5451,201 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 865530653,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4219",
+      "title": "Transaction Filtering; `All` filtering seems broken",
+      "number": 4219,
+      "closed_at": "2021-04-23T12:25:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 861067349,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4196",
+      "title": "Ability to disable Expense submission from non-members",
+      "number": 4196,
+      "closed_at": "2021-04-23T12:48:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 858597431,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4190",
+      "title": "Introduce `kind` column in Transaction table",
+      "number": 4190,
+      "closed_at": "2021-04-23T14:28:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 822871760,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4063",
+      "title": "Toast notifications: implement dark theme",
+      "number": 4063,
+      "closed_at": "2021-04-23T14:05:00Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 17
+    },
+    {
+      "id": 770543386,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3783",
+      "title": "Users may not be able to tell that you can scroll the financial contribution options",
+      "number": 3783,
+      "closed_at": "2021-04-23T14:23:16Z",
+      "labels": [
+        {
+          "name": "$150",
+          "color": "0e8a16"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 445578342,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2043",
+      "title": "Ability to embed videos in long descriptions",
+      "number": 2043,
+      "closed_at": "2021-04-23T14:42:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
     }
   ]
 }
