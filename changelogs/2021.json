@@ -5647,5 +5647,130 @@
       ],
       "closed_week": 17
     }
+  ],
+  "week-18": [
+    {
+      "id": 865076579,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4217",
+      "title": "Update `mdillon/postgis` to official image",
+      "number": 4217,
+      "closed_at": "2021-04-26T10:09:11Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 811230254,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3995",
+      "title": "Accept financial contributions: responsiveness issue on medium screens",
+      "number": 3995,
+      "closed_at": "2021-04-26T10:10:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ericyoungson",
+          "html_url": "https://github.com/ericyoungson"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 785035716,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3835",
+      "title": "Standalone pages for displaying projects, events and connected collectives",
+      "number": 3835,
+      "closed_at": "2021-04-26T14:10:17Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 728876192,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3623",
+      "title": "Invited expenses only setting",
+      "number": 3623,
+      "closed_at": "2021-04-26T13:46:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    }
   ]
 }
