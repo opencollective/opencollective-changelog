@@ -30,7 +30,7 @@
     "@bit/opencollective.design-system.components.styled-tag": "^2.0.0",
     "@bit/opencollective.design-system.components.styled-text": "^2.0.0",
     "@bit/opencollective.design-system.theme": "^2.0.0",
-    "@octokit/rest": "^16.35.0",
+    "@octokit/rest": "^18.5.3",
     "@zeit/next-css": "^1.0.1",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
