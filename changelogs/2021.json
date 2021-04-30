@@ -5847,6 +5847,65 @@
         }
       ],
       "closed_week": 18
+    },
+    {
+      "id": 869290045,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4231",
+      "title": "Add support for Dependabot v2 while keeping complexity Minimal",
+      "number": 4231,
+      "closed_at": "2021-04-29T20:28:42Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    },
+    {
+      "id": 857342237,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4187",
+      "title": "Add action workflows to Dependabot Upgrades",
+      "number": 4187,
+      "closed_at": "2021-04-29T19:23:09Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
     }
   ]
 }
