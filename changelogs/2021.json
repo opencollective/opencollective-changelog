@@ -5906,6 +5906,108 @@
         }
       ],
       "closed_week": 18
+    },
+    {
+      "id": 867496023,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4222",
+      "title": "No feedback/success when assigning a card from Collective page",
+      "number": 4222,
+      "closed_at": "2021-04-30T15:35:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 861296269,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4199",
+      "title": "Virtual Credit Cards: Collective Virtual Cards View",
+      "number": 4199,
+      "closed_at": "2021-04-30T14:14:38Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 828341864,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4074",
+      "title": "Enable Projects for Collectives",
+      "number": 4074,
+      "closed_at": "2021-04-30T09:12:08Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    },
+    {
+      "id": 534736849,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2703",
+      "title": "Overlapping when there are multiple goals at the same amount",
+      "number": 2703,
+      "closed_at": "2021-04-30T07:56:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
     }
   ]
 }
