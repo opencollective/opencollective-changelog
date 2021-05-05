@@ -6009,5 +6009,43 @@
       "assignees": [],
       "closed_week": 18
     }
+  ],
+  "week-19": [
+    {
+      "id": 733622055,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3652",
+      "title": "Add platform tips box to add funds form",
+      "number": 3652,
+      "closed_at": "2021-05-04T13:34:16Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    }
   ]
 }
