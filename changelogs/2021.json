@@ -6046,6 +6046,96 @@
         }
       ],
       "closed_week": 19
+    },
+    {
+      "id": 875462210,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4249",
+      "title": "Add a Reqeust Card Link within the Virtual Cards - For Collectives",
+      "number": 4249,
+      "closed_at": "2021-05-05T14:55:18Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 875234326,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4248",
+      "title": "Platform settlement expense has strange figures",
+      "number": 4248,
+      "closed_at": "2021-05-05T13:28:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 861296096,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4198",
+      "title": "Virtual Credit Cards: Host Card List Filter",
+      "number": 4198,
+      "closed_at": "2021-05-05T13:10:44Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 451281199,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2081",
+      "title": "Simplify events",
+      "number": 2081,
+      "closed_at": "2021-05-05T21:01:28Z",
+      "labels": [
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
     }
   ]
 }
