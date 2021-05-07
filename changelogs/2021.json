@@ -6136,6 +6136,250 @@
       ],
       "assignees": [],
       "closed_week": 19
+    },
+    {
+      "id": 871550338,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4237",
+      "title": "Undefined bank transfer",
+      "number": 4237,
+      "closed_at": "2021-05-06T12:47:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 864343926,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4212",
+      "title": "Invitation to join should log you in",
+      "number": 4212,
+      "closed_at": "2021-05-06T09:47:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 862981825,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4207",
+      "title": "Add Exception to Running Tests with GitHub Secrets using Dependabot Native",
+      "number": 4207,
+      "closed_at": "2021-05-06T10:14:21Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 859519812,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4192",
+      "title": "Upgrade Cypress to Version 7",
+      "number": 4192,
+      "closed_at": "2021-05-06T19:37:13Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 857106926,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4186",
+      "title": "Automate Deployment Process using GitHub CI",
+      "number": 4186,
+      "closed_at": "2021-05-06T23:52:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 848944260,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4147",
+      "title": "Bank details not displaying on screen for some users",
+      "number": 4147,
+      "closed_at": "2021-05-06T10:04:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 837817551,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4106",
+      "title": "Host Fee Share Percent for Foundation",
+      "number": 4106,
+      "closed_at": "2021-05-06T09:49:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 832200605,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4088",
+      "title": "Showing NULL balance in error",
+      "number": 4088,
+      "closed_at": "2021-05-06T10:02:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 718746319,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3588",
+      "title": "Spam button on expenses",
+      "number": 3588,
+      "closed_at": "2021-05-06T22:59:06Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 439039397,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1985",
+      "title": "Host admin can set default Collective",
+      "number": 1985,
+      "closed_at": "2021-05-06T23:01:31Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
     }
   ]
 }
