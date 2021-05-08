@@ -6380,6 +6380,238 @@
       ],
       "assignees": [],
       "closed_week": 19
+    },
+    {
+      "id": 858915593,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4191",
+      "title": "Convert all `img` elements to `next/image` elements",
+      "number": 4191,
+      "closed_at": "2021-05-07T14:40:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 853221134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4170",
+      "title": "Make list of webhook actions human readable",
+      "number": 4170,
+      "closed_at": "2021-05-07T14:12:06Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 842842513,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4130",
+      "title": "View Events linking to the contribution flow",
+      "number": 4130,
+      "closed_at": "2021-05-07T09:11:47Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 842597160,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4128",
+      "title": "Change default filtering from 'All Contributions' to 'Hosted Collectives' on Host pages",
+      "number": 4128,
+      "closed_at": "2021-05-07T14:11:58Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 838849186,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4111",
+      "title": "Inconsistency in the Add Funds Modal",
+      "number": 4111,
+      "closed_at": "2021-05-07T12:44:50Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 801981954,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3943",
+      "title": "Better contrast on action buttons",
+      "number": 3943,
+      "closed_at": "2021-05-07T08:26:01Z",
+      "labels": [
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 781854568,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3814",
+      "title": "Add a tags column to transactions CSV export",
+      "number": 3814,
+      "closed_at": "2021-05-07T15:03:09Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 19
     }
   ]
 }
