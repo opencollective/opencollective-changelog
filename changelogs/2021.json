@@ -6613,5 +6613,174 @@
       ],
       "closed_week": 19
     }
+  ],
+  "week-20": [
+    {
+      "id": 883675281,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4264",
+      "title": "Invite to submit expense: no error reporting",
+      "number": 4264,
+      "closed_at": "2021-05-10T12:44:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 883670913,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4263",
+      "title": "Payout method not cleared up when switching to \"Invite\"",
+      "number": 4263,
+      "closed_at": "2021-05-10T12:44:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 879654718,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4259",
+      "title": "Content after media embeds is lost from wysiwyg editing",
+      "number": 4259,
+      "closed_at": "2021-05-10T12:40:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 871821474,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4238",
+      "title": "Read full description link doesn't show any content",
+      "number": 4238,
+      "closed_at": "2021-05-10T19:56:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 791443348,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3886",
+      "title": "Donations to OpenCollective Dropdown Hide",
+      "number": 3886,
+      "closed_at": "2021-05-10T13:45:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 774819327,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3796",
+      "title": "Invited expense wrongly showing $0 as the total",
+      "number": 3796,
+      "closed_at": "2021-05-10T19:56:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 20
+    }
   ]
 }
