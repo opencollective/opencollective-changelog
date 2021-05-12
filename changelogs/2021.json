@@ -6781,6 +6781,217 @@
         }
       ],
       "closed_week": 20
+    },
+    {
+      "id": 885150547,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4269",
+      "title": "Unable to assign virtual card due to no users selectable",
+      "number": 4269,
+      "closed_at": "2021-05-11T20:50:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 874352419,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4246",
+      "title": "Character not rendering in email subject of expense notification",
+      "number": 4246,
+      "closed_at": "2021-05-11T08:12:55Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "notifications",
+          "color": "a702e2"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 807719261,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3973",
+      "title": "availableQuantity should look at order status ",
+      "number": 3973,
+      "closed_at": "2021-05-11T16:28:40Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 746873482,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3697",
+      "title": "Tier Section in Edit Collective isn't Responsive for smaller screen sizes",
+      "number": 3697,
+      "closed_at": "2021-05-11T15:06:28Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 746269470,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3695",
+      "title": "Fiscal Host Section in Edit Collective is not Mobile Optimized",
+      "number": 3695,
+      "closed_at": "2021-05-11T15:06:59Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 746267436,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3694",
+      "title": "Export Section in Edit Collective is not Mobile Optimized",
+      "number": 3694,
+      "closed_at": "2021-05-11T18:51:23Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
