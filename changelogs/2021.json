@@ -6992,6 +6992,329 @@
         }
       ],
       "closed_week": 20
+    },
+    {
+      "id": 877176751,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4252",
+      "title": "Don't show contributors section if there are none",
+      "number": 4252,
+      "closed_at": "2021-05-12T14:47:52Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 843841750,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4132",
+      "title": "Approve button should change after loading",
+      "number": 4132,
+      "closed_at": "2021-05-12T07:15:19Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 826674473,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4070",
+      "title": "Add calendar year and/or date range options to expense period picker",
+      "number": 4070,
+      "closed_at": "2021-05-12T07:28:36Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 804341553,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3958",
+      "title": "Empty Platform Tips Details in Recurring Contributions",
+      "number": 3958,
+      "closed_at": "2021-05-12T09:31:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "saideepesh000",
+          "html_url": "https://github.com/saideepesh000"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 802849926,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3946",
+      "title": "Initiative name cut off in contribution flow",
+      "number": 3946,
+      "closed_at": "2021-05-12T09:29:18Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 742100748,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3676",
+      "title": "Option for host to disable Paypal for payouts",
+      "number": 3676,
+      "closed_at": "2021-05-12T14:53:05Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 705259498,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3528",
+      "title": "Make it easier to get to standalone tier page",
+      "number": 3528,
+      "closed_at": "2021-05-12T09:42:17Z",
+      "labels": [
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 654584026,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3322",
+      "title": "Admin can always add and edit expense tags",
+      "number": 3322,
+      "closed_at": "2021-05-12T09:43:33Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 419383781,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1805",
+      "title": "Remove markdown editor",
+      "number": 1805,
+      "closed_at": "2021-05-12T07:17:25Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
