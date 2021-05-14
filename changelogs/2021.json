@@ -7315,6 +7315,153 @@
         }
       ],
       "closed_week": 20
+    },
+    {
+      "id": 792340914,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3896",
+      "title": "Users are not able to select correctly between creating a fiscal host and self-hosting",
+      "number": 3896,
+      "closed_at": "2021-05-13T11:11:07Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 712289268,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3553",
+      "title": "Expense categories tracked against a budget",
+      "number": 3553,
+      "closed_at": "2021-05-13T11:13:56Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 702353461,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3501",
+      "title": "Improvements for campaign-based fundraising",
+      "number": 3501,
+      "closed_at": "2021-05-13T11:15:00Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 671699332,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3381",
+      "title": "Send hosts invoice for platform fees",
+      "number": 3381,
+      "closed_at": "2021-05-13T11:23:16Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "host plans",
+          "color": "e0e261"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
+    },
+    {
+      "id": 664348388,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3360",
+      "title": "Download receipts doesn't work for hosts with merged budgets",
+      "number": 3360,
+      "closed_at": "2021-05-13T11:17:30Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "host budget",
+          "color": "052e60"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 20
     }
   ]
 }
