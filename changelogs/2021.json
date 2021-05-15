@@ -7462,6 +7462,62 @@
       ],
       "assignees": [],
       "closed_week": 20
+    },
+    {
+      "id": 890568973,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4279",
+      "title": "Platform tips on added funds mistakenly saying there was no host fee",
+      "number": 4279,
+      "closed_at": "2021-05-14T14:32:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 885859672,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4270",
+      "title": "Add Period Filter to Virtual Cards in Collective Settings",
+      "number": 4270,
+      "closed_at": "2021-05-14T18:26:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
