@@ -7519,5 +7519,186 @@
       ],
       "closed_week": 20
     }
+  ],
+  "week-21": [
+    {
+      "id": 892493863,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4284",
+      "title": "Add Support for Vimeo Embeds in Rich Text Editor",
+      "number": 4284,
+      "closed_at": "2021-05-17T12:29:15Z",
+      "labels": [
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 891050275,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4283",
+      "title": "Period Filter Not Behaving Propertly when Added To and From Dates",
+      "number": 4283,
+      "closed_at": "2021-05-17T13:22:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 870520368,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4234",
+      "title": "Don't show 'all ways to contribute' if all are already visible",
+      "number": 4234,
+      "closed_at": "2021-05-17T11:48:15Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 848889994,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4143",
+      "title": "Credit card payment blocked by nonexistent postcode requirement",
+      "number": 4143,
+      "closed_at": "2021-05-17T14:57:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 797278853,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3931",
+      "title": "Contribution flow: guest flow responsiveness issue",
+      "number": 3931,
+      "closed_at": "2021-05-17T12:24:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 786726328,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3854",
+      "title": "Edit recurring contribution: amount input UX issues",
+      "number": 3854,
+      "closed_at": "2021-05-17T15:17:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 21
+    }
   ]
 }
