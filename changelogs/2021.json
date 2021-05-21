@@ -7787,6 +7787,34 @@
         }
       ],
       "closed_week": 21
+    },
+    {
+      "id": 896283377,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4304",
+      "title": "This button is CHONK",
+      "number": 4304,
+      "closed_at": "2021-05-20T06:42:58Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
     }
   ]
 }
