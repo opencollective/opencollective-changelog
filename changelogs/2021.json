@@ -7844,5 +7844,153 @@
       ],
       "closed_week": 21
     }
+  ],
+  "week-22": [
+    {
+      "id": 893338246,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4289",
+      "title": "Don't show 'view all events' if all are already visible ",
+      "number": 4289,
+      "closed_at": "2021-05-25T13:05:46Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 849048950,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4148",
+      "title": "Emails: automatically generate text version",
+      "number": 4148,
+      "closed_at": "2021-05-25T14:10:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 706742868,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3537",
+      "title": "Get stuck with no error if you leave custom payout method note blank",
+      "number": 3537,
+      "closed_at": "2021-05-25T10:08:43Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercut candidate",
+          "color": "97FAEB"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 673320771,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3388",
+      "title": "Styleguide: Exploring the Storybook alternative",
+      "number": 3388,
+      "closed_at": "2021-05-25T14:11:07Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
+    },
+    {
+      "id": 442499318,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2017",
+      "title": "Reimplement Collective to Collective contributions across fiscal hosts",
+      "number": 2017,
+      "closed_at": "2021-05-25T09:04:07Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
+    }
   ]
 }
