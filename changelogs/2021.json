@@ -7991,6 +7991,38 @@
       ],
       "assignees": [],
       "closed_week": 22
+    },
+    {
+      "id": 894106608,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4297",
+      "title": "Implement Zero-decimal currencies in Stripe",
+      "number": 4297,
+      "closed_at": "2021-05-26T13:59:57Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 22
     }
   ]
 }
