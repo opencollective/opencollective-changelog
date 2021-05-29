@@ -8023,6 +8023,93 @@
         }
       ],
       "closed_week": 22
+    },
+    {
+      "id": 792213777,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3893",
+      "title": "Add Structured Bank Account Information for non TransferWise users",
+      "number": 3893,
+      "closed_at": "2021-05-28T13:46:13Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 791825525,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3889",
+      "title": "Can receive two notifications for update based on member roles",
+      "number": 3889,
+      "closed_at": "2021-05-28T14:50:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 749568494,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3712",
+      "title": "Remove \"member\" from user-facing messages",
+      "number": 3712,
+      "closed_at": "2021-05-28T14:53:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
     }
   ]
 }
