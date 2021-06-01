@@ -8111,5 +8111,162 @@
       "assignees": [],
       "closed_week": 22
     }
+  ],
+  "week-23": [
+    {
+      "id": 896409115,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4306",
+      "title": "Better support for multi-day events in email confirmation",
+      "number": 4306,
+      "closed_at": "2021-05-31T13:51:31Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 850992486,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4157",
+      "title": "Contribution cancellation notification showing wrong amount",
+      "number": 4157,
+      "closed_at": "2021-05-31T08:50:23Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "notifications",
+          "color": "a702e2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 827327854,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4072",
+      "title": "Contribution flow: Hide interval picker if not available",
+      "number": 4072,
+      "closed_at": "2021-05-31T13:28:19Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 738927082,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3667",
+      "title": "Approval email is received twice when sending via Open Collective mailing list",
+      "number": 3667,
+      "closed_at": "2021-05-31T06:54:01Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 666763349,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3368",
+      "title": "Bank transfer instructions showing markup",
+      "number": 3368,
+      "closed_at": "2021-05-31T10:57:19Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    }
   ]
 }
