@@ -8295,6 +8295,34 @@
         }
       ],
       "closed_week": 23
+    },
+    {
+      "id": 909784286,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4330",
+      "title": "Can go to Edit Mode in Cover Image for Collectives where the User is not the Admin",
+      "number": 4330,
+      "closed_at": "2021-06-04T13:32:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
     }
   ]
 }
