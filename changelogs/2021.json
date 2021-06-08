@@ -8324,5 +8324,67 @@
       ],
       "closed_week": 23
     }
+  ],
+  "week-24": [
+    {
+      "id": 908480568,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4325",
+      "title": "Ability to Publish a Changelog Entry",
+      "number": 4325,
+      "closed_at": "2021-06-07T13:11:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 907707687,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4324",
+      "title": "Upgrade `Jest` to v27",
+      "number": 4324,
+      "closed_at": "2021-06-07T12:24:52Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    }
   ]
 }
