@@ -8385,6 +8385,145 @@
         }
       ],
       "closed_week": 24
+    },
+    {
+      "id": 916374639,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4349",
+      "title": "Load More Button Shows When there's Exactly 20 Updates",
+      "number": 4349,
+      "closed_at": "2021-06-10T16:20:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 916215910,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4348",
+      "title": "Recurring Contributions should not display an error message when unauthenticated",
+      "number": 4348,
+      "closed_at": "2021-06-10T12:38:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 908487190,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4326",
+      "title": "Implement the \"What's New\" modal",
+      "number": 4326,
+      "closed_at": "2021-06-10T13:43:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 821445571,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4055",
+      "title": "Platform settlement expense did not trigger email notification",
+      "number": 4055,
+      "closed_at": "2021-06-10T17:05:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 24
+    },
+    {
+      "id": 794953564,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3918",
+      "title": "Move `UpdatesWithData` to GQLV2 API",
+      "number": 3918,
+      "closed_at": "2021-06-10T12:46:04Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
     }
   ]
 }
