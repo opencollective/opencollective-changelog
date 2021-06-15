@@ -8525,5 +8525,63 @@
       ],
       "closed_week": 24
     }
+  ],
+  "week-25": [
+    {
+      "id": 919911363,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4363",
+      "title": "Transaction linking to wrong URL",
+      "number": 4363,
+      "closed_at": "2021-06-14T07:18:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
+    },
+    {
+      "id": 917349615,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4352",
+      "title": "Display Error Message when GraphQl Query Fails in `NewsAndUpdatesModal.js`",
+      "number": 4352,
+      "closed_at": "2021-06-14T12:54:06Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 25
+    }
   ]
 }
