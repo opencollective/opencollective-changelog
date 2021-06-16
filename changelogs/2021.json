@@ -8582,6 +8582,34 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 870558047,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4235",
+      "title": "Footer: Don't show login and signup links for a logged in user",
+      "number": 4235,
+      "closed_at": "2021-06-15T12:07:36Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "akashgp09",
+          "html_url": "https://github.com/akashgp09"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
