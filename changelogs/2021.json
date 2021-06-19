@@ -8661,6 +8661,34 @@
       ],
       "assignees": [],
       "closed_week": 25
+    },
+    {
+      "id": 893748590,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4290",
+      "title": "Increase clickable area link back to Collective after contribution",
+      "number": 4290,
+      "closed_at": "2021-06-18T18:09:38Z",
+      "labels": [
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ersachin3112",
+          "html_url": "https://github.com/ersachin3112"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
