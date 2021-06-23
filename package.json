@@ -29,7 +29,7 @@
     "@bit/opencollective.design-system.components.styled-link": "2.0.0",
     "@bit/opencollective.design-system.components.styled-tag": "2.0.0",
     "@bit/opencollective.design-system.components.styled-text": "2.0.0",
-    "@bit/opencollective.design-system.theme": "2.0.0",
+    "@bit/opencollective.design-system.theme": "3.0.0",
     "@octokit/rest": "16.35.0",
     "@zeit/next-css": "1.0.1",
     "debug": "4.1.1",
