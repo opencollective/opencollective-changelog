@@ -26,7 +26,7 @@
   "author": "Oluwaseun Omoyajowo <omoyajowo2015@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@bit/opencollective.design-system.components.styled-link": "2.0.0",
+    "@bit/opencollective.design-system.components.styled-link": "2.1.0",
     "@bit/opencollective.design-system.components.styled-tag": "2.0.0",
     "@bit/opencollective.design-system.components.styled-text": "2.0.0",
     "@bit/opencollective.design-system.theme": "2.0.0",
