@@ -8771,6 +8771,65 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 929101486,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4395",
+      "title": "Long name overlapping on expense summary",
+      "number": 4395,
+      "closed_at": "2021-06-24T12:11:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 680787274,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3411",
+      "title": "New contribution flow: background fetch for payment methods",
+      "number": 3411,
+      "closed_at": "2021-06-24T07:19:18Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
     }
   ]
 }
