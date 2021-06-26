@@ -8830,6 +8830,122 @@
       ],
       "assignees": [],
       "closed_week": 26
+    },
+    {
+      "id": 929887946,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4398",
+      "title": "Stripe errors crash the contribution flow",
+      "number": 4398,
+      "closed_at": "2021-06-25T07:47:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 929822572,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4397",
+      "title": "Changelog CI Failures",
+      "number": 4397,
+      "closed_at": "2021-06-25T12:35:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 928406428,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4392",
+      "title": "Formatting Off in Standalone Tier Page",
+      "number": 4392,
+      "closed_at": "2021-06-25T12:34:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 836946588,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4100",
+      "title": "Make ReplyTo address for bank transfer notification the payer not OC",
+      "number": 4100,
+      "closed_at": "2021-06-25T07:52:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "MlkMahmud",
+          "html_url": "https://github.com/MlkMahmud"
+        }
+      ],
+      "closed_week": 26
     }
   ]
 }
