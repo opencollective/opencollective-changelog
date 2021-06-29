@@ -8947,5 +8947,99 @@
       ],
       "closed_week": 26
     }
+  ],
+  "week-27": [
+    {
+      "id": 914868798,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4344",
+      "title": "Migrate platform tip debts to their own kind",
+      "number": 4344,
+      "closed_at": "2021-06-28T15:12:42Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 901031229,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4314",
+      "title": "Contribution Flow Back Button Missing",
+      "number": 4314,
+      "closed_at": "2021-06-28T14:49:19Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 856738028,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4185",
+      "title": "Add emoji reactions on updates",
+      "number": 4185,
+      "closed_at": "2021-06-28T14:44:44Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 27
+    }
   ]
 }
