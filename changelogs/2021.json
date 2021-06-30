@@ -9040,6 +9040,38 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 915372089,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4345",
+      "title": "Add Support for Notifications on New Changelog Updates",
+      "number": 4345,
+      "closed_at": "2021-06-29T13:36:55Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 27
     }
   ]
 }
