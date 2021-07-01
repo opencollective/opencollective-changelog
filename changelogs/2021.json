@@ -9072,6 +9072,96 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 932043300,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4404",
+      "title": "Change Positioning of the Notification Icon in Navbar",
+      "number": 4404,
+      "closed_at": "2021-06-30T13:49:36Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 923771551,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4371",
+      "title": "Says no Wise balance but there is",
+      "number": 4371,
+      "closed_at": "2021-06-30T23:04:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
+    },
+    {
+      "id": 919987296,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4365",
+      "title": "Error while creating Wise's recipient",
+      "number": 4365,
+      "closed_at": "2021-06-30T23:05:16Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 828349039,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4075",
+      "title": "Connect Tiers to Projects",
+      "number": 4075,
+      "closed_at": "2021-06-30T23:09:57Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
     }
   ]
 }
