@@ -9162,6 +9162,62 @@
       ],
       "assignees": [],
       "closed_week": 27
+    },
+    {
+      "id": 934327515,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4412",
+      "title": "Create Update button missing on Event Updates page",
+      "number": 4412,
+      "closed_at": "2021-07-01T07:52:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 934319477,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4410",
+      "title": "Can't send event update despite being admin",
+      "number": 4410,
+      "closed_at": "2021-07-01T07:52:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 27
     }
   ]
 }
