@@ -9218,6 +9218,48 @@
         }
       ],
       "closed_week": 27
+    },
+    {
+      "id": 935852347,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4418",
+      "title": "Issues back ",
+      "number": 4418,
+      "closed_at": "2021-07-02T15:22:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
+    },
+    {
+      "id": 934476785,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4414",
+      "title": "Hide platform tips on Open Collective's budget",
+      "number": 4414,
+      "closed_at": "2021-07-02T09:38:08Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
     }
   ]
 }
