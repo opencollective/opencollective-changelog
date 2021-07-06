@@ -9261,5 +9261,66 @@
       "assignees": [],
       "closed_week": 27
     }
+  ],
+  "week-28": [
+    {
+      "id": 926866311,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4384",
+      "title": "Add Search for Updates (by Collective, Title, Tags, ID, etc)",
+      "number": 4384,
+      "closed_at": "2021-07-05T15:01:22Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 841759082,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4124",
+      "title": "[PROJECT] Ledger Refactoring",
+      "number": 4124,
+      "closed_at": "2021-07-05T15:31:20Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "fundamentals",
+          "color": "F8ECCC"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "project",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 28
+    }
   ]
 }
