@@ -9321,6 +9321,30 @@
       ],
       "assignees": [],
       "closed_week": 28
+    },
+    {
+      "id": 936077507,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4421",
+      "title": "Changelog Notification Appearing Multiple times On Staging",
+      "number": 4421,
+      "closed_at": "2021-07-06T18:28:28Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
