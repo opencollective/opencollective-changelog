@@ -9345,6 +9345,66 @@
         }
       ],
       "closed_week": 28
+    },
+    {
+      "id": 933298653,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4408",
+      "title": "Changelog Notification Icon: Sync with Designs for Smaller Screens",
+      "number": 4408,
+      "closed_at": "2021-07-07T13:41:46Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "ersachin3112",
+          "html_url": "https://github.com/ersachin3112"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 933296860,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4407",
+      "title": "Add ToolTip for Changelog Notification Icon",
+      "number": 4407,
+      "closed_at": "2021-07-07T12:58:33Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
