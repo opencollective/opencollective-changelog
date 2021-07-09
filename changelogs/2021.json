@@ -9405,6 +9405,62 @@
         }
       ],
       "closed_week": 28
+    },
+    {
+      "id": 938901243,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4434",
+      "title": "Make Sure the ToolTip Stays Closed - Changelog Updates",
+      "number": 4434,
+      "closed_at": "2021-07-08T13:43:29Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 938256840,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4431",
+      "title": "Budget not adding up",
+      "number": 4431,
+      "closed_at": "2021-07-08T12:50:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
