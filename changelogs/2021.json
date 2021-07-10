@@ -9461,6 +9461,102 @@
         }
       ],
       "closed_week": 28
+    },
+    {
+      "id": 938907085,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4435",
+      "title": "Make Sure the New Changelog Updates Notification is Not Shown to Newly Registered Users",
+      "number": 4435,
+      "closed_at": "2021-07-09T13:24:18Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 908532827,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4328",
+      "title": "Upgrade `babel-plugin-react-intl` to `babel-plugin-formatjs`",
+      "number": 4328,
+      "closed_at": "2021-07-09T13:05:45Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 792353725,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3897",
+      "title": "Overlapping UI when adding video to standalone tier",
+      "number": 3897,
+      "closed_at": "2021-07-09T13:20:33Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
