@@ -9558,5 +9558,90 @@
       ],
       "closed_week": 28
     }
+  ],
+  "week-29": [
+    {
+      "id": 941364469,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4444",
+      "title": "Show Only the first 5 Changelog Updates in the Modal",
+      "number": 4444,
+      "closed_at": "2021-07-12T17:25:31Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 29
+    },
+    {
+      "id": 838221453,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4109",
+      "title": "A way to have the Collective to contribute to itself",
+      "number": 4109,
+      "closed_at": "2021-07-12T09:23:02Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 29
+    },
+    {
+      "id": 464690492,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2207",
+      "title": "Support AliPay and WeChat payments system",
+      "number": 2207,
+      "closed_at": "2021-07-12T08:53:52Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "payment-methods",
+          "color": "dfe226"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 29
+    }
   ]
 }
