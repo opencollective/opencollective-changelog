@@ -9642,6 +9642,62 @@
         }
       ],
       "closed_week": 29
+    },
+    {
+      "id": 944629221,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4454",
+      "title": "Internationalization Seems to have Issues with Special Characters",
+      "number": 4454,
+      "closed_at": "2021-07-14T22:54:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 29
+    },
+    {
+      "id": 944400847,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4452",
+      "title": "Create Update Warning Message when User Not Collective Admin",
+      "number": 4452,
+      "closed_at": "2021-07-14T16:33:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 29
     }
   ]
 }
