@@ -9698,6 +9698,66 @@
         }
       ],
       "closed_week": 29
+    },
+    {
+      "id": 943810702,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4451",
+      "title": "Convert API from CommonJS to ESM",
+      "number": 4451,
+      "closed_at": "2021-07-16T21:19:15Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 29
+    },
+    {
+      "id": 919640259,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4362",
+      "title": "Cannot Contribute to Particular Collective through Gift Card",
+      "number": 4362,
+      "closed_at": "2021-07-16T15:15:10Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 29
     }
   ]
 }
