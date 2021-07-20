@@ -9759,5 +9759,70 @@
       ],
       "closed_week": 29
     }
+  ],
+  "week-30": [
+    {
+      "id": 944578125,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4453",
+      "title": "Inconsistent PayExpenseButton behavior",
+      "number": 4453,
+      "closed_at": "2021-07-19T20:28:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 942293758,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4446",
+      "title": "Improve Transfer of Budgets from Events to Collective",
+      "number": 4446,
+      "closed_at": "2021-07-19T12:39:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    }
   ]
 }
