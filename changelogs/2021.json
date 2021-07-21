@@ -9823,6 +9823,94 @@
       ],
       "assignees": [],
       "closed_week": 30
+    },
+    {
+      "id": 947774673,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4467",
+      "title": "Rounding Errors on Contribution Tier Amount Buttons",
+      "number": 4467,
+      "closed_at": "2021-07-20T12:52:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 933577668,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4409",
+      "title": "Clicking through on invited expense again leads to odd state",
+      "number": 4409,
+      "closed_at": "2021-07-20T13:28:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 873039139,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4243",
+      "title": "Move to Renovate (or other suitable dependency management)",
+      "number": 4243,
+      "closed_at": "2021-07-20T17:56:41Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
