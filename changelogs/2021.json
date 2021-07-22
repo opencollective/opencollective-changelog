@@ -9911,6 +9911,190 @@
         }
       ],
       "closed_week": 30
+    },
+    {
+      "id": 948917501,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4473",
+      "title": "Match Changelog Icon Size with New Design",
+      "number": 4473,
+      "closed_at": "2021-07-21T12:45:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 948255719,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4470",
+      "title": "Events missing from Host settings",
+      "number": 4470,
+      "closed_at": "2021-07-21T12:49:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 945044707,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4455",
+      "title": "Console Warning when Removing Emoji's from Updates or Comments",
+      "number": 4455,
+      "closed_at": "2021-07-21T14:54:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 942468166,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4447",
+      "title": "Flacky E2E Test on Stripe Input",
+      "number": 4447,
+      "closed_at": "2021-07-21T12:43:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 927908246,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4387",
+      "title": "Addition of Emoji by Two Seperate Users",
+      "number": 4387,
+      "closed_at": "2021-07-21T17:25:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 749561720,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3709",
+      "title": "2FA: way to login if 2FA is inaccessible",
+      "number": 3709,
+      "closed_at": "2021-07-21T10:03:01Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
