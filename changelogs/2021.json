@@ -10095,6 +10095,197 @@
         }
       ],
       "closed_week": 30
+    },
+    {
+      "id": 950107171,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4479",
+      "title": "Add 'create event' button to empty events page",
+      "number": 4479,
+      "closed_at": "2021-07-22T18:27:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 945819448,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4460",
+      "title": "Create the Success Page of Crypto Contributions",
+      "number": 4460,
+      "closed_at": "2021-07-22T20:46:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    },
+    {
+      "id": 945798529,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4458",
+      "title": "Create Deposit Address though Giving Block and Store the Pledge ID",
+      "number": 4458,
+      "closed_at": "2021-07-22T20:46:12Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    },
+    {
+      "id": 945779135,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4457",
+      "title": "Create Crypto Contribution Modal - First two Pages (Contribution and Your Info)",
+      "number": 4457,
+      "closed_at": "2021-07-22T20:45:46Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    },
+    {
+      "id": 851870768,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4164",
+      "title": "Prevent accidental scrolling changing tier goal amount",
+      "number": 4164,
+      "closed_at": "2021-07-22T12:47:07Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "support",
+          "color": "5319e7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 753715495,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3745",
+      "title": "Ensuring consistency with color codes for profile pages set-ups",
+      "number": 3745,
+      "closed_at": "2021-07-22T08:29:10Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    },
+    {
+      "id": 747461572,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3700",
+      "title": "Use features endpoint to selectively fetch GraphQL data for standalone pages",
+      "number": 3700,
+      "closed_at": "2021-07-22T08:46:38Z",
+      "labels": [
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
     }
   ]
 }
