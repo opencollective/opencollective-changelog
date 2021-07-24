@@ -10286,6 +10286,66 @@
       ],
       "assignees": [],
       "closed_week": 30
+    },
+    {
+      "id": 949545864,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4475",
+      "title": "Add GST column to host reports",
+      "number": 4475,
+      "closed_at": "2021-07-23T07:39:13Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 813392431,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4003",
+      "title": "Review LoggedInUser cached in local storage",
+      "number": 4003,
+      "closed_at": "2021-07-23T08:39:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
