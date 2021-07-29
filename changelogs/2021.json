@@ -10347,5 +10347,71 @@
       ],
       "closed_week": 30
     }
+  ],
+  "week-31": [
+    {
+      "id": 934332071,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4413",
+      "title": "Nav bar items sometimes go missing on Event",
+      "number": 4413,
+      "closed_at": "2021-07-28T10:53:37Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 896290059,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4305",
+      "title": "Error Updating Tests: `npm run test:update`",
+      "number": 4305,
+      "closed_at": "2021-07-28T12:57:01Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
+    }
   ]
 }
