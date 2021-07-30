@@ -10412,6 +10412,90 @@
         }
       ],
       "closed_week": 31
+    },
+    {
+      "id": 952470946,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4496",
+      "title": "Receipts not showing billing entity",
+      "number": 4496,
+      "closed_at": "2021-07-29T08:33:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 951620489,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4487",
+      "title": "Update `SendMoneyToCollective` Mutation to GraphQL version 2",
+      "number": 4487,
+      "closed_at": "2021-07-29T15:33:14Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 950283414,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4482",
+      "title": "Updates to Updates not showing unless you hard refresh",
+      "number": 4482,
+      "closed_at": "2021-07-29T16:24:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
     }
   ]
 }
