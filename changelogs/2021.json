@@ -10496,6 +10496,129 @@
         }
       ],
       "closed_week": 31
+    },
+    {
+      "id": 955246397,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4503",
+      "title": "Storybook Deployment Seems to be Down",
+      "number": 4503,
+      "closed_at": "2021-07-30T13:04:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 950281181,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4481",
+      "title": "Update editor jumping around while typing",
+      "number": 4481,
+      "closed_at": "2021-07-30T12:52:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 946776460,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4463",
+      "title": "Odd card appearing in search result",
+      "number": 4463,
+      "closed_at": "2021-07-30T17:37:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 941081994,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4443",
+      "title": "Add description next to 'Virtual Card Policy' for hosts",
+      "number": 4443,
+      "closed_at": "2021-07-30T16:50:52Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 926175455,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4380",
+      "title": "Collective page: show a section title above tiers when not first",
+      "number": 4380,
+      "closed_at": "2021-07-30T12:58:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 31
     }
   ]
 }
