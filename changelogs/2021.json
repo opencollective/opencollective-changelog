@@ -10644,6 +10644,34 @@
       ],
       "assignees": [],
       "closed_week": 32
+    },
+    {
+      "id": 948894654,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4472",
+      "title": "Cannot Delete Virtual Card from Host Settings",
+      "number": 4472,
+      "closed_at": "2021-08-02T16:18:05Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
