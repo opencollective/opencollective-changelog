@@ -10672,6 +10672,98 @@
         }
       ],
       "closed_week": 32
+    },
+    {
+      "id": 959278962,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4513",
+      "title": "ESLint Configuration Conflict",
+      "number": 4513,
+      "closed_at": "2021-08-03T19:23:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 945770896,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4456",
+      "title": "Create New Payment Method Type for Crypto Contributions",
+      "number": 4456,
+      "closed_at": "2021-08-03T20:31:23Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 940814957,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4440",
+      "title": "Make the Close Icon Consistent",
+      "number": 4440,
+      "closed_at": "2021-08-03T12:41:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
