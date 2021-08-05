@@ -10764,6 +10764,303 @@
         }
       ],
       "closed_week": 32
+    },
+    {
+      "id": 959046420,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4512",
+      "title": "Host Fee Share with amount=0",
+      "number": 4512,
+      "closed_at": "2021-08-04T13:20:26Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
+    },
+    {
+      "id": 956497407,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4508",
+      "title": "Improve tip presets for free tiers",
+      "number": 4508,
+      "closed_at": "2021-08-04T08:16:23Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 956241295,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4506",
+      "title": "Add \"expense invited\" to status updates",
+      "number": 4506,
+      "closed_at": "2021-08-04T13:23:04Z",
+      "labels": [
+        {
+          "name": "$50",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "akashgp09",
+          "html_url": "https://github.com/akashgp09"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 947428222,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4466",
+      "title": "Recovery code not allowing to change 2FA device",
+      "number": 4466,
+      "closed_at": "2021-08-04T13:54:41Z",
+      "labels": [
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 789367465,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3864",
+      "title": "No scroll to the top when moving from step1 to step of the Expenses Flow",
+      "number": 3864,
+      "closed_at": "2021-08-04T13:12:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ersachin3112",
+          "html_url": "https://github.com/ersachin3112"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 728879444,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3624",
+      "title": "Redesign the page to edit team members",
+      "number": 3624,
+      "closed_at": "2021-08-04T13:55:16Z",
+      "labels": [
+        {
+          "name": "$300",
+          "color": "85bb65"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 616432359,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3124",
+      "title": "Deleting User with \"Forest\" is not releasing email",
+      "number": 3124,
+      "closed_at": "2021-08-04T12:09:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
+    },
+    {
+      "id": 538452085,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2731",
+      "title": "Document BackYourStack badges",
+      "number": 2731,
+      "closed_at": "2021-08-04T12:10:10Z",
+      "labels": [
+        {
+          "name": "backyourstack",
+          "color": "6f15e3"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
+    },
+    {
+      "id": 533289398,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2686",
+      "title": "BackYourStack: update dependency selection ",
+      "number": 2686,
+      "closed_at": "2021-08-04T12:10:51Z",
+      "labels": [
+        {
+          "name": "backyourstack",
+          "color": "6f15e3"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
