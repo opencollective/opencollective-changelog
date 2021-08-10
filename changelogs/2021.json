@@ -11062,5 +11062,35 @@
       ],
       "closed_week": 32
     }
+  ],
+  "week-33": [
+    {
+      "id": 951060988,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4484",
+      "title": "Add Special Flow to Contribution Tier for Crypto",
+      "number": 4484,
+      "closed_at": "2021-08-09T20:09:24Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
+    }
   ]
 }
