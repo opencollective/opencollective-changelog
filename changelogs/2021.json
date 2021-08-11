@@ -11091,6 +11091,105 @@
         }
       ],
       "closed_week": 33
+    },
+    {
+      "id": 960450362,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4522",
+      "title": "Event datetime appears to be incorrect in confirmation emails",
+      "number": 4522,
+      "closed_at": "2021-08-10T07:05:54Z",
+      "labels": [
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$50",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ersachin3112",
+          "html_url": "https://github.com/ersachin3112"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 956242307,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4507",
+      "title": "Use 'invited' everywhere for things related to invited expenses",
+      "number": 4507,
+      "closed_at": "2021-08-10T13:16:13Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$50",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "akashgp09",
+          "html_url": "https://github.com/akashgp09"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 955910738,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4505",
+      "title": "Migrate from isPlatformTipSettlement to Expense.type = 'SETTLEMENT'",
+      "number": 4505,
+      "closed_at": "2021-08-10T07:04:54Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 33
     }
   ]
 }
