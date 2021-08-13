@@ -11190,6 +11190,174 @@
       ],
       "assignees": [],
       "closed_week": 33
+    },
+    {
+      "id": 968026561,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4543",
+      "title": "Create new Project button missing from Projects page",
+      "number": 4543,
+      "closed_at": "2021-08-12T19:58:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 962264621,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4528",
+      "title": "Add Customized FAQ Section for Crypto Contribution Flow",
+      "number": 4528,
+      "closed_at": "2021-08-12T12:39:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 962072469,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4526",
+      "title": "Add Support for Manual Validation of Crypto Donations through the Dashboard",
+      "number": 4526,
+      "closed_at": "2021-08-12T12:39:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 959530034,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4516",
+      "title": "Add QR Code for Crypto Deposit Address",
+      "number": 4516,
+      "closed_at": "2021-08-12T12:39:35Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 958692780,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4510",
+      "title": "Goal description not displayed on amount",
+      "number": 4510,
+      "closed_at": "2021-08-12T15:25:26Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "akashgp09",
+          "html_url": "https://github.com/akashgp09"
+        }
+      ],
+      "closed_week": 33
+    },
+    {
+      "id": 951063804,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4485",
+      "title": "Use The Giving Block To Generate the Wallet Address",
+      "number": 4485,
+      "closed_at": "2021-08-12T12:57:53Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 33
     }
   ]
 }
