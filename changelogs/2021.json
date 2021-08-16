@@ -11427,5 +11427,65 @@
       ],
       "closed_week": 33
     }
+  ],
+  "week-34": [
+    {
+      "id": 787601798,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3858",
+      "title": "Add host fees to host budget immediately",
+      "number": 3858,
+      "closed_at": "2021-08-15T07:37:39Z",
+      "labels": [
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 478169898,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2311",
+      "title": "Invalid platform fees when adding funds to Organization",
+      "number": 2311,
+      "closed_at": "2021-08-15T07:40:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    }
   ]
 }
