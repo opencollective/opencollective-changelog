@@ -11486,6 +11486,129 @@
       ],
       "assignees": [],
       "closed_week": 34
+    },
+    {
+      "id": 963107807,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4535",
+      "title": "Duplicate buttons on Conversations page",
+      "number": 4535,
+      "closed_at": "2021-08-16T12:40:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 961093786,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4525",
+      "title": "Decimal missing on platform settlement CSV amounts",
+      "number": 4525,
+      "closed_at": "2021-08-16T14:48:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 890518094,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4278",
+      "title": "Host application skipping Collective selection step",
+      "number": 4278,
+      "closed_at": "2021-08-16T11:37:25Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 392181866,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1552",
+      "title": "Add VAT when submitting expense",
+      "number": 1552,
+      "closed_at": "2021-08-16T07:57:10Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
     }
   ]
 }
