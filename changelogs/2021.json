@@ -11609,6 +11609,141 @@
       ],
       "assignees": [],
       "closed_week": 34
+    },
+    {
+      "id": 959600416,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4517",
+      "title": "contributors.svg not updating",
+      "number": 4517,
+      "closed_at": "2021-08-17T19:23:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "contributors.svg",
+          "color": "d1f486"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 804070949,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3956",
+      "title": "GitHub banner contributors.svg not working",
+      "number": 3956,
+      "closed_at": "2021-08-17T19:28:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "contributors.svg",
+          "color": "d1f486"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 793726468,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3911",
+      "title": "Multi Level Expense Approvals",
+      "number": 3911,
+      "closed_at": "2021-08-17T12:52:42Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "governance",
+          "color": "A2CC52"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 655529025,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3328",
+      "title": "Two to sign for payouts",
+      "number": 3328,
+      "closed_at": "2021-08-17T12:51:17Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "governance",
+          "color": "A2CC52"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 648695913,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3298",
+      "title": "`contributors.svg` seems to miss some contributions",
+      "number": 3298,
+      "closed_at": "2021-08-17T19:30:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        },
+        {
+          "name": "contributors.svg",
+          "color": "d1f486"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
     }
   ]
 }
