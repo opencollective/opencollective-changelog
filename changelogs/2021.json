@@ -11744,6 +11744,266 @@
       ],
       "assignees": [],
       "closed_week": 34
+    },
+    {
+      "id": 973784777,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4555",
+      "title": "Completely Remove `utm` parameters from URLs",
+      "number": 4555,
+      "closed_at": "2021-08-18T16:42:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 973003728,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4553",
+      "title": "Button Click Outlines Not Consistent in Actions Menu",
+      "number": 4553,
+      "closed_at": "2021-08-18T12:48:19Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 971008832,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4548",
+      "title": "Confusing state change when uploading virtual card receipt",
+      "number": 4548,
+      "closed_at": "2021-08-18T12:30:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 962161438,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4527",
+      "title": "Add Support to Automatically Reconcile the Crypto Transactions using the Giving Block Webhook",
+      "number": 4527,
+      "closed_at": "2021-08-18T17:34:23Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 916924123,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4350",
+      "title": "Improve leaderboard data",
+      "number": 4350,
+      "closed_at": "2021-08-18T09:11:50Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "metabase",
+          "color": "D8E54A"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 772087893,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3788",
+      "title": "Collective page > Contributions: pagination should happen in the API",
+      "number": 3788,
+      "closed_at": "2021-08-18T07:02:55Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 34
+    },
+    {
+      "id": 431203457,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1919",
+      "title": "Host admin can add funds to organizations",
+      "number": 1919,
+      "closed_at": "2021-08-18T10:00:40Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 397564630,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1620",
+      "title": "sub-collective management",
+      "number": 1620,
+      "closed_at": "2021-08-18T10:00:56Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "idea",
+          "color": "fce0c2"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
+    },
+    {
+      "id": 263679920,
+      "html_url": "https://github.com/opencollective/opencollective/issues/459",
+      "title": "collective administration, emailing backers, expense approval/rejection protected via 2FA",
+      "number": 459,
+      "closed_at": "2021-08-18T10:02:21Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 34
     }
   ]
 }
