@@ -12005,5 +12005,39 @@
       "assignees": [],
       "closed_week": 34
     }
+  ],
+  "week-35": [
+    {
+      "id": 960547956,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4523",
+      "title": "Error When Setting New Bank Transfer Details",
+      "number": 4523,
+      "closed_at": "2021-08-22T14:58:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
+    }
   ]
 }
