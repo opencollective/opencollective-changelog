@@ -12038,6 +12038,164 @@
         }
       ],
       "closed_week": 35
+    },
+    {
+      "id": 975607773,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4563",
+      "title": "Dropping Values from Enum - Recreate Enum Instead",
+      "number": 4563,
+      "closed_at": "2021-08-23T12:40:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 970615955,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4547",
+      "title": "Properly Show Error Messages on the Front End - Crypto Flow",
+      "number": 4547,
+      "closed_at": "2021-08-23T17:17:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 951637098,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4489",
+      "title": "Create a new Transaction Kind for Internal Transfers",
+      "number": 4489,
+      "closed_at": "2021-08-23T19:23:05Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 947122289,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4464",
+      "title": "Add tooltip to 'total disbursed'",
+      "number": 4464,
+      "closed_at": "2021-08-23T23:17:50Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
+    },
+    {
+      "id": 926612177,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4382",
+      "title": "System is treating sending Event funds to Collective as a Contribution",
+      "number": 4382,
+      "closed_at": "2021-08-23T21:23:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 673955848,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3395",
+      "title": "Improve settings for all users (Admin panel update)",
+      "number": 3395,
+      "closed_at": "2021-08-23T15:07:07Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 35
     }
   ]
 }
