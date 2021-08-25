@@ -12196,6 +12196,58 @@
       ],
       "assignees": [],
       "closed_week": 35
+    },
+    {
+      "id": 977603244,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4570",
+      "title": "Wrong bill to entity on downloaded invoice",
+      "number": 4570,
+      "closed_at": "2021-08-24T13:30:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 970542755,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4546",
+      "title": "Handle the Case where the Access Token is Invalid in Crypto Flow",
+      "number": 4546,
+      "closed_at": "2021-08-24T13:06:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
     }
   ]
 }
