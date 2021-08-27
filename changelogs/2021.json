@@ -12248,6 +12248,62 @@
         }
       ],
       "closed_week": 35
+    },
+    {
+      "id": 979173871,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4579",
+      "title": "Add the Giving Block Banner Underneath the Crypto Contribution Flow",
+      "number": 4579,
+      "closed_at": "2021-08-26T20:10:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
+    },
+    {
+      "id": 935479093,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4417",
+      "title": "Event members registered as `BACKER` instead of `ATTENDEES`",
+      "number": 4417,
+      "closed_at": "2021-08-26T16:50:43Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 35
     }
   ]
 }
