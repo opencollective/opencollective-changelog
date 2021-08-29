@@ -12305,5 +12305,35 @@
       ],
       "closed_week": 35
     }
+  ],
+  "week-36": [
+    {
+      "id": 981335878,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4592",
+      "title": "Make the Crypto and Flexible Contribution Enable Settings More Consistent",
+      "number": 4592,
+      "closed_at": "2021-08-29T00:14:12Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 36
+    }
   ]
 }
