@@ -12390,6 +12390,97 @@
         }
       ],
       "closed_week": 36
+    },
+    {
+      "id": 982434153,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4598",
+      "title": "Host page duplication load issue ",
+      "number": 4598,
+      "closed_at": "2021-08-31T10:10:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 968466581,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4544",
+      "title": "PAYMENT_PROCESSOR_FEE kind should be renamed",
+      "number": 4544,
+      "closed_at": "2021-08-31T11:59:46Z",
+      "labels": [
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 36
+    },
+    {
+      "id": 781787873,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3813",
+      "title": "Design for a different pattern for expense tags when big buttons are not necessary",
+      "number": 3813,
+      "closed_at": "2021-08-31T08:27:44Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 36
     }
   ]
 }
