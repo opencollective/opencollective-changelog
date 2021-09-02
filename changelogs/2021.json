@@ -12481,6 +12481,66 @@
         }
       ],
       "closed_week": 36
+    },
+    {
+      "id": 983301583,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4602",
+      "title": "Handle Deposit Address Failure Error - Crypto Flow",
+      "number": 4602,
+      "closed_at": "2021-09-01T18:58:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 808799601,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3982",
+      "title": "Add funds to an Event after it's over",
+      "number": 3982,
+      "closed_at": "2021-09-01T19:23:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 36
     }
   ]
 }
