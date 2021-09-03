@@ -12541,6 +12541,193 @@
         }
       ],
       "closed_week": 36
+    },
+    {
+      "id": 985238419,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4615",
+      "title": "Storybook Deployment Failure: Not Fixing Dependencies",
+      "number": 4615,
+      "closed_at": "2021-09-02T08:21:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 979938729,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4582",
+      "title": "Show legal name in PDF documents",
+      "number": 4582,
+      "closed_at": "2021-09-02T08:04:44Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 971835088,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4551",
+      "title": "Button for root users to invalidate the cache for an account",
+      "number": 4551,
+      "closed_at": "2021-09-02T12:42:20Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 963059980,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4534",
+      "title": "Investigate and Test the Use of the QR Code with Different Crypto Currencies Across Apps",
+      "number": 4534,
+      "closed_at": "2021-09-02T19:44:39Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 772052242,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3787",
+      "title": "Add a button for root to merge accounts",
+      "number": 3787,
+      "closed_at": "2021-09-02T12:42:36Z",
+      "labels": [
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 712283435,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3552",
+      "title": "Fees as debit transactions",
+      "number": 3552,
+      "closed_at": "2021-09-02T07:06:32Z",
+      "labels": [
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 36
     }
   ]
 }
