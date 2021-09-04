@@ -12728,6 +12728,62 @@
       ],
       "assignees": [],
       "closed_week": 36
+    },
+    {
+      "id": 986976518,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4624",
+      "title": "Tooltip Not Shown Correctly on Description in Manage Contribution Cards",
+      "number": 4624,
+      "closed_at": "2021-09-03T08:37:51Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 36
+    },
+    {
+      "id": 977001640,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4569",
+      "title": "Add Loading State to Updates Search",
+      "number": 4569,
+      "closed_at": "2021-09-03T15:19:34Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 36
     }
   ]
 }
