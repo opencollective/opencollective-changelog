@@ -12785,5 +12785,30 @@
       ],
       "closed_week": 36
     }
+  ],
+  "week-37": [
+    {
+      "id": 988311657,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4636",
+      "title": "Update Cryptographic Hash Algorithm from `SHA1` to `SHA3`",
+      "number": 4636,
+      "closed_at": "2021-09-05T06:11:20Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 37
+    }
   ]
 }
