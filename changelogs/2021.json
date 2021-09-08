@@ -12809,6 +12809,149 @@
       ],
       "assignees": [],
       "closed_week": 37
+    },
+    {
+      "id": 987630831,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4630",
+      "title": "GQLV2 query to fetch accounts",
+      "number": 4630,
+      "closed_at": "2021-09-07T16:05:25Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 987628704,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4629",
+      "title": "Ability to disable some payment methods in the contribution flow",
+      "number": 4629,
+      "closed_at": "2021-09-07T16:05:52Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 987549342,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4626",
+      "title": "Attach tags to orders",
+      "number": 4626,
+      "closed_at": "2021-09-07T16:33:40Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 979940802,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4583",
+      "title": "Add legal name on new User and Organization forms",
+      "number": 4583,
+      "closed_at": "2021-09-07T12:49:45Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 837480308,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4101",
+      "title": "User interface for connected collectives",
+      "number": 4101,
+      "closed_at": "2021-09-07T16:11:47Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 37
     }
   ]
 }
