@@ -12952,6 +12952,144 @@
       ],
       "assignees": [],
       "closed_week": 37
+    },
+    {
+      "id": 991588297,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4652",
+      "title": "Do not ask for legal name when inviting user",
+      "number": 4652,
+      "closed_at": "2021-09-09T08:01:44Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 991587405,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4651",
+      "title": "Unable to invite user - blank error",
+      "number": 4651,
+      "closed_at": "2021-09-09T08:09:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 974673745,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4559",
+      "title": "sendFailedEmail should not go to the user but all admins",
+      "number": 4559,
+      "closed_at": "2021-09-09T07:22:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 963184115,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4536",
+      "title": "Expense submitted to self Collective should be refundable.",
+      "number": 4536,
+      "closed_at": "2021-09-09T13:34:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 37
+    },
+    {
+      "id": 615929173,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3121",
+      "title": "Tax form: threshold amount should be in RequiredLegalDocument, not hardcoded",
+      "number": 3121,
+      "closed_at": "2021-09-09T12:42:25Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 37
     }
   ]
 }
