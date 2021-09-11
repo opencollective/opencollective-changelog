@@ -13090,6 +13090,98 @@
       ],
       "assignees": [],
       "closed_week": 37
+    },
+    {
+      "id": 985093803,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4614",
+      "title": "Create Collective \"close\" icon is not properly aligned",
+      "number": 4614,
+      "closed_at": "2021-09-10T17:07:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 979171345,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4578",
+      "title": "Add Approximate USD Amount in the Crypto Contribution Flow",
+      "number": 4578,
+      "closed_at": "2021-09-10T12:53:04Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 37
+    },
+    {
+      "id": 557122529,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2856",
+      "title": "Base URL slug for new org on name not twitter handle",
+      "number": 2856,
+      "closed_at": "2021-09-10T07:35:00Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "FluxZA",
+          "html_url": "https://github.com/FluxZA"
+        }
+      ],
+      "closed_week": 37
     }
   ]
 }
