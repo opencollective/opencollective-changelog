@@ -13183,5 +13183,39 @@
       ],
       "closed_week": 37
     }
+  ],
+  "week-38": [
+    {
+      "id": 911314100,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4335",
+      "title": "User menu: update the mobile version",
+      "number": 4335,
+      "closed_at": "2021-09-13T07:00:19Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 38
+    }
   ]
 }
