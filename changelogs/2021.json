@@ -13216,6 +13216,62 @@
         }
       ],
       "closed_week": 38
+    },
+    {
+      "id": 988028651,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4632",
+      "title": "Add a message in Activate as Host to Advise Admins to Set Their Legal Name",
+      "number": 4632,
+      "closed_at": "2021-09-14T16:30:59Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 38
+    },
+    {
+      "id": 951988207,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4495",
+      "title": "Long Fiscal Host and Connected Collective name",
+      "number": 4495,
+      "closed_at": "2021-09-14T15:29:14Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "simonv3",
+          "html_url": "https://github.com/simonv3"
+        }
+      ],
+      "closed_week": 38
     }
   ]
 }
