@@ -13272,6 +13272,66 @@
         }
       ],
       "closed_week": 38
+    },
+    {
+      "id": 996017570,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4678",
+      "title": "Crypto Flow: Conversion Amount Not Reflected on Changing the Amount",
+      "number": 4678,
+      "closed_at": "2021-09-16T12:20:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 38
+    },
+    {
+      "id": 992945452,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4664",
+      "title": "Add a comma to all `e.g` strings (-> `e.g.,`)",
+      "number": 4664,
+      "closed_at": "2021-09-16T12:43:41Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 38
     }
   ]
 }
