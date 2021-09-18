@@ -13332,6 +13332,90 @@
         }
       ],
       "closed_week": 38
+    },
+    {
+      "id": 999511345,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4698",
+      "title": "Legal Name Info Section Appearing for Non Host Admin User",
+      "number": 4698,
+      "closed_at": "2021-09-17T18:16:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 38
+    },
+    {
+      "id": 998851210,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4695",
+      "title": "Whitelist for redirects",
+      "number": 4695,
+      "closed_at": "2021-09-17T12:46:22Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 38
+    },
+    {
+      "id": 954341308,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4502",
+      "title": "Unable to export transactions in certain date range",
+      "number": 4502,
+      "closed_at": "2021-09-17T11:07:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 38
     }
   ]
 }
