@@ -13417,5 +13417,63 @@
       ],
       "closed_week": 38
     }
+  ],
+  "week-39": [
+    {
+      "id": 998914087,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4696",
+      "title": "PeriodFilter: Chosen Date is off by Two Days",
+      "number": 4696,
+      "closed_at": "2021-09-20T14:28:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 936886169,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4424",
+      "title": "Transactions period filter: improve behavior for \"End Date\"",
+      "number": 4424,
+      "closed_at": "2021-09-20T14:28:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    }
   ]
 }
