@@ -13474,6 +13474,69 @@
         }
       ],
       "closed_week": 39
+    },
+    {
+      "id": 992396746,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4659",
+      "title": "Admin Dashboard Reports: Platform Tips section",
+      "number": 4659,
+      "closed_at": "2021-09-21T08:14:49Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 988100245,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4634",
+      "title": "Agree to terms of fiscal sponsorship on admin invite screen",
+      "number": 4634,
+      "closed_at": "2021-09-21T08:15:57Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 39
     }
   ]
 }
