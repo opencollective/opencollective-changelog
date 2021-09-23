@@ -13537,6 +13537,62 @@
       ],
       "assignees": [],
       "closed_week": 39
+    },
+    {
+      "id": 1000934581,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4712",
+      "title": "Only Show the Info for Legal Name in Host Section if Legal Name is not set",
+      "number": 4712,
+      "closed_at": "2021-09-22T12:59:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 979942652,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4584",
+      "title": "Add support for legal name in the expense flow",
+      "number": 4584,
+      "closed_at": "2021-09-22T12:45:13Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
     }
   ]
 }
