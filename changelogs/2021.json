@@ -13593,6 +13593,145 @@
         }
       ],
       "closed_week": 39
+    },
+    {
+      "id": 1005175290,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4733",
+      "title": "Download CSV V2: add loading state and error handling",
+      "number": 4733,
+      "closed_at": "2021-09-23T10:42:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 1000661460,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4710",
+      "title": "Add a `legalName` column on host admin CSV export",
+      "number": 4710,
+      "closed_at": "2021-09-23T07:33:51Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 39
+    },
+    {
+      "id": 1000555469,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4709",
+      "title": "Remove options on Create Collective page",
+      "number": 4709,
+      "closed_at": "2021-09-23T09:35:36Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 995984237,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4677",
+      "title": "Expose order `customData` on our public GraphQL API",
+      "number": 4677,
+      "closed_at": "2021-09-23T07:34:06Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 960547956,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4523",
+      "title": "Error When Setting New Bank Transfer Details",
+      "number": 4523,
+      "closed_at": "2021-09-23T12:48:50Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
     }
   ]
 }
