@@ -13732,6 +13732,114 @@
         }
       ],
       "closed_week": 39
+    },
+    {
+      "id": 1005136886,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4732",
+      "title": "Relax legal name mismatch validations",
+      "number": 4732,
+      "closed_at": "2021-09-24T08:44:01Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 1004950690,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4730",
+      "title": "Legal name help text missing",
+      "number": 4730,
+      "closed_at": "2021-09-24T08:06:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 1004362677,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4727",
+      "title": "Missing Legal Name for Host in Expense Form Summary ",
+      "number": 4727,
+      "closed_at": "2021-09-24T08:45:10Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
+    },
+    {
+      "id": 1001520544,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4713",
+      "title": "Cents still be abbreviated",
+      "number": 4713,
+      "closed_at": "2021-09-24T22:32:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 39
     }
   ]
 }
