@@ -13841,5 +13841,63 @@
       ],
       "closed_week": 39
     }
+  ],
+  "week-40": [
+    {
+      "id": 1008116638,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4743",
+      "title": "Add Support for All the Crypto Currencies TGB Supports",
+      "number": 4743,
+      "closed_at": "2021-09-27T15:33:33Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 40
+    },
+    {
+      "id": 1007995695,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4742",
+      "title": "Unpublished (draft) changelog updates showing at /collective/updates",
+      "number": 4742,
+      "closed_at": "2021-09-27T12:46:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 40
+    }
   ]
 }
