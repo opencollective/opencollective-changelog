@@ -13898,6 +13898,86 @@
         }
       ],
       "closed_week": 40
+    },
+    {
+      "id": 979936660,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4581",
+      "title": "Introduce `legalName` in the API",
+      "number": 4581,
+      "closed_at": "2021-09-28T13:40:46Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 40
+    },
+    {
+      "id": 745454887,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3689",
+      "title": "[PROJECT] Setting to differentiate legal name and display name",
+      "number": 3689,
+      "closed_at": "2021-09-28T13:43:05Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "project",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "invoices",
+          "color": "edbaf4"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 40
     }
   ]
 }
