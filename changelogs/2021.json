@@ -14006,6 +14006,102 @@
         }
       ],
       "closed_week": 40
+    },
+    {
+      "id": 1010485038,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4749",
+      "title": "Add Link to own profile in user menu",
+      "number": 4749,
+      "closed_at": "2021-09-30T07:00:15Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 40
+    },
+    {
+      "id": 1004715693,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4728",
+      "title": "Wise: Batch Transaction Refactor",
+      "number": 4728,
+      "closed_at": "2021-09-30T21:34:47Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "integrations",
+          "color": "282589"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 40
+    },
+    {
+      "id": 992460311,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4661",
+      "title": "Bug with crypto payments on event pages",
+      "number": 4661,
+      "closed_at": "2021-09-30T14:31:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 40
     }
   ]
 }
