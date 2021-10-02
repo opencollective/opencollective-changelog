@@ -14102,6 +14102,38 @@
         }
       ],
       "closed_week": 40
+    },
+    {
+      "id": 976015969,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4565",
+      "title": "Creating a Organization as a New User",
+      "number": 4565,
+      "closed_at": "2021-10-01T10:37:13Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 40
     }
   ]
 }
