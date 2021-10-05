@@ -14135,5 +14135,54 @@
       ],
       "closed_week": 40
     }
+  ],
+  "week-41": [
+    {
+      "id": 1015503243,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4778",
+      "title": "Do not Let User Add Funds from a Collective to the Same Collective",
+      "number": 4778,
+      "closed_at": "2021-10-04T18:45:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 41
+    },
+    {
+      "id": 1014526117,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4771",
+      "title": "Add expense submitted status update",
+      "number": 4771,
+      "closed_at": "2021-10-04T15:16:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
+    }
   ]
 }
