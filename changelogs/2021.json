@@ -14183,6 +14183,82 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 992419807,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4660",
+      "title": "Admin Dashboard Reports - Downloads Section (Generate Reports)",
+      "number": 4660,
+      "closed_at": "2021-10-05T07:57:48Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 987518421,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4625",
+      "title": "Button to reset the expense form",
+      "number": 4625,
+      "closed_at": "2021-10-05T13:50:16Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
