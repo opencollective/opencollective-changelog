@@ -14259,6 +14259,138 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 1019232451,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4793",
+      "title": "New admin pannel not working for projects and events",
+      "number": 4793,
+      "closed_at": "2021-10-07T08:43:32Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 1013913826,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4766",
+      "title": "Grant expenses do not trigger tax form",
+      "number": 4766,
+      "closed_at": "2021-10-07T15:14:14Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 1008310070,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4745",
+      "title": "Admin Panel Feedback, Suggestions and Follow-Ups",
+      "number": 4745,
+      "closed_at": "2021-10-07T08:43:32Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 1002964957,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4719",
+      "title": "Add Legal Name for Organization SignUp form in the Expense Flow",
+      "number": 4719,
+      "closed_at": "2021-10-07T13:26:13Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 989769793,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4642",
+      "title": "Block edit account page for incognito profile",
+      "number": 4642,
+      "closed_at": "2021-10-07T10:24:56Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
