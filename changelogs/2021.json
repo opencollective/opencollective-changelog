@@ -14391,6 +14391,66 @@
         }
       ],
       "closed_week": 41
+    },
+    {
+      "id": 996631462,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4681",
+      "title": "Notifications components update",
+      "number": 4681,
+      "closed_at": "2021-10-08T13:59:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
+    },
+    {
+      "id": 947123266,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4465",
+      "title": "Unable to clear transaction filters",
+      "number": 4465,
+      "closed_at": "2021-10-08T13:59:47Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 41
     }
   ]
 }
