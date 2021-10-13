@@ -14452,5 +14452,78 @@
       ],
       "closed_week": 41
     }
+  ],
+  "week-42": [
+    {
+      "id": 1023380398,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4814",
+      "title": "Balance not updating after refresh",
+      "number": 4814,
+      "closed_at": "2021-10-12T07:57:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
+    },
+    {
+      "id": 1020048032,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4799",
+      "title": "Make Legal Name Help Text Consistent Across UI",
+      "number": 4799,
+      "closed_at": "2021-10-12T13:15:50Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 1019346055,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4795",
+      "title": "Hide Unnessary `@` Icon when Inviting Users to Submit Expense ",
+      "number": 4795,
+      "closed_at": "2021-10-12T13:13:29Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 42
+    }
   ]
 }
