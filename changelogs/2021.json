@@ -14524,6 +14524,21 @@
         }
       ],
       "closed_week": 42
+    },
+    {
+      "id": 1025032204,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4820",
+      "title": "Recurring revenue calculation is off",
+      "number": 4820,
+      "closed_at": "2021-10-13T14:53:50Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
     }
   ]
 }
