@@ -14539,6 +14539,85 @@
       ],
       "assignees": [],
       "closed_week": 42
+    },
+    {
+      "id": 1024391606,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4818",
+      "title": "Change Migration Script Naming",
+      "number": 4818,
+      "closed_at": "2021-10-14T16:02:46Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 1018278302,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4789",
+      "title": "Adding a FAQ and Note to the Legal Name in Expense Flow",
+      "number": 4789,
+      "closed_at": "2021-10-14T12:50:42Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 42
+    },
+    {
+      "id": 990799927,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4646",
+      "title": "Improve links contrast in dark toast notifications",
+      "number": 4646,
+      "closed_at": "2021-10-14T12:07:00Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
     }
   ]
 }
