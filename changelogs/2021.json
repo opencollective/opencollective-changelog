@@ -14618,6 +14618,56 @@
       ],
       "assignees": [],
       "closed_week": 42
+    },
+    {
+      "id": 1026767129,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4827",
+      "title": "`InputField.js` Validations Do not Work as Expected",
+      "number": 4827,
+      "closed_at": "2021-10-15T07:52:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
+    },
+    {
+      "id": 911546032,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4337",
+      "title": "User menu: Improve the call to actions for new users",
+      "number": 4337,
+      "closed_at": "2021-10-15T07:53:41Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
     }
   ]
 }
