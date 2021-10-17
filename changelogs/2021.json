@@ -14668,6 +14668,21 @@
       ],
       "assignees": [],
       "closed_week": 42
+    },
+    {
+      "id": 1028083841,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4837",
+      "title": "Virtual/online cards only as well as pre-ordered physical cards",
+      "number": 4837,
+      "closed_at": "2021-10-16T16:06:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 42
     }
   ]
 }
