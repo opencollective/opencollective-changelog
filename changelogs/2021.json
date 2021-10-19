@@ -14684,5 +14684,39 @@
       "assignees": [],
       "closed_week": 42
     }
+  ],
+  "week-43": [
+    {
+      "id": 992368219,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4658",
+      "title": "Admin Dashboard Reports: Transactions View",
+      "number": 4658,
+      "closed_at": "2021-10-18T12:48:45Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 43
+    }
   ]
 }
