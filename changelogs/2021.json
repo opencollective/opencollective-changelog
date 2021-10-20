@@ -14717,6 +14717,181 @@
         }
       ],
       "closed_week": 43
+    },
+    {
+      "id": 1027806429,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4835",
+      "title": "Typo In Collective Card",
+      "number": 4835,
+      "closed_at": "2021-10-19T12:55:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 1011235558,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4750",
+      "title": "Improve Truncation in the `CollectivePicker.js`",
+      "number": 4750,
+      "closed_at": "2021-10-19T12:57:49Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 1007438134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4740",
+      "title": "Handle Multiple Selections Gracefully in `CollectivePicker.js`",
+      "number": 4740,
+      "closed_at": "2021-10-19T12:57:49Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 983957318,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4607",
+      "title": "Use `order.data` instead of `order.data.customData` to store the Giving Block Related Values",
+      "number": 4607,
+      "closed_at": "2021-10-19T14:27:44Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 43
+    },
+    {
+      "id": 981358475,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4593",
+      "title": "Provide the User with Blockchain Explorer Address at the end of Crypto Flow",
+      "number": 4593,
+      "closed_at": "2021-10-19T14:27:45Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 550155446,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2817",
+      "title": "Wrong page metadata for conversation page",
+      "number": 2817,
+      "closed_at": "2021-10-19T11:48:22Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$50",
+          "color": "85bb65"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ersachin3112",
+          "html_url": "https://github.com/ersachin3112"
+        }
+      ],
+      "closed_week": 43
     }
   ]
 }
