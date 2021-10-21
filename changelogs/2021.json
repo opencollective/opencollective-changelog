@@ -14892,6 +14892,65 @@
         }
       ],
       "closed_week": 43
+    },
+    {
+      "id": 952470946,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4496",
+      "title": "Receipts not showing billing entity",
+      "number": 4496,
+      "closed_at": "2021-10-20T08:57:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 639211258,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3241",
+      "title": "\"part of\" section overlapping cover image on member Collective",
+      "number": 3241,
+      "closed_at": "2021-10-20T09:13:38Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 43
     }
   ]
 }
