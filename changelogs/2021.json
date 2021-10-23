@@ -14998,6 +14998,92 @@
         }
       ],
       "closed_week": 43
+    },
+    {
+      "id": 984015663,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4608",
+      "title": "Paginate comments (for updates, expenses and conversations)",
+      "number": 4608,
+      "closed_at": "2021-10-22T12:32:34Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 43
+    },
+    {
+      "id": 870518521,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4233",
+      "title": "Design issues with Goals",
+      "number": 4233,
+      "closed_at": "2021-10-22T09:39:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 43
+    },
+    {
+      "id": 686903906,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3435",
+      "title": "Contributions toward goals should not reflect fees",
+      "number": 3435,
+      "closed_at": "2021-10-22T09:41:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 43
     }
   ]
 }
