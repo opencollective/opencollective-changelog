@@ -15085,5 +15085,58 @@
       "assignees": [],
       "closed_week": 43
     }
+  ],
+  "week-44": [
+    {
+      "id": 1033823449,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4861",
+      "title": "Unable To Delete Collective",
+      "number": 4861,
+      "closed_at": "2021-10-25T15:35:41Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 1032087861,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4852",
+      "title": "Internationalization: Message Declaration Should be Inline",
+      "number": 4852,
+      "closed_at": "2021-10-25T20:06:06Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    }
   ]
 }
