@@ -15137,6 +15137,255 @@
       ],
       "assignees": [],
       "closed_week": 44
+    },
+    {
+      "id": 1035914073,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4869",
+      "title": "New admin panel: missing \"Activate as a host\"",
+      "number": 4869,
+      "closed_at": "2021-10-26T09:01:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    },
+    {
+      "id": 1035911705,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4868",
+      "title": "New admin panel: don't use submenu for simple organizations",
+      "number": 4868,
+      "closed_at": "2021-10-26T09:01:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    },
+    {
+      "id": 1035745423,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4867",
+      "title": "\"Join a Fiscal Host\" not \"My Own Fiscal Host\"",
+      "number": 4867,
+      "closed_at": "2021-10-26T18:22:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    },
+    {
+      "id": 1032040478,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4850",
+      "title": "Unable to submit expense due to invalid account name validation",
+      "number": 4850,
+      "closed_at": "2021-10-26T13:27:51Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 1030849234,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4845",
+      "title": "fiscalHosting.serviceOffered.description pointing to wrong ID",
+      "number": 4845,
+      "closed_at": "2021-10-26T08:35:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 1000166774,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4707",
+      "title": "Add Regex Validation for Fiscal Host Terms URL",
+      "number": 4707,
+      "closed_at": "2021-10-26T14:50:05Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 998056257,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4690",
+      "title": "Host dashboard report: total money managed section alignment issue",
+      "number": 4690,
+      "closed_at": "2021-10-26T14:26:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 871821474,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4238",
+      "title": "Read full description link doesn't show any content",
+      "number": 4238,
+      "closed_at": "2021-10-26T13:51:33Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "papercuts",
+          "color": "f2eecb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 540695564,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2757",
+      "title": "Set up redirect URL for host terms",
+      "number": 2757,
+      "closed_at": "2021-10-26T13:19:54Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
