@@ -15386,6 +15386,57 @@
         }
       ],
       "closed_week": 44
+    },
+    {
+      "id": 1036809778,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4872",
+      "title": "Do not collapse About section",
+      "number": 4872,
+      "closed_at": "2021-10-27T06:37:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 886785846,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4271",
+      "title": "Missing Host context about Expense",
+      "number": 4271,
+      "closed_at": "2021-10-27T08:12:40Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
     }
   ]
 }
