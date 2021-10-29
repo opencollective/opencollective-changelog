@@ -15437,6 +15437,49 @@
       ],
       "assignees": [],
       "closed_week": 44
+    },
+    {
+      "id": 1036808555,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4871",
+      "title": "Expense not found",
+      "number": 4871,
+      "closed_at": "2021-10-28T12:40:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 44
+    },
+    {
+      "id": 1027892161,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4836",
+      "title": "Admin can hide archived Projects, or they are always hidden",
+      "number": 4836,
+      "closed_at": "2021-10-28T11:37:55Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
