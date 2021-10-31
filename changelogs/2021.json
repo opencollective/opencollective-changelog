@@ -15480,6 +15480,86 @@
         }
       ],
       "closed_week": 44
+    },
+    {
+      "id": 1039044079,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4879",
+      "title": "Host fee change not updating",
+      "number": 4879,
+      "closed_at": "2021-10-29T10:46:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 1037033591,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4875",
+      "title": "Add Support to Dynamically Set Max Collapsed Height in `HTMLContent`",
+      "number": 4875,
+      "closed_at": "2021-10-29T14:21:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 44
+    },
+    {
+      "id": 1005319823,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4734",
+      "title": "Rename FUNDING_REQUEST expenses to GRANT",
+      "number": 4734,
+      "closed_at": "2021-10-29T10:05:32Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "juliekitty",
+          "html_url": "https://github.com/juliekitty"
+        }
+      ],
+      "closed_week": 44
     }
   ]
 }
