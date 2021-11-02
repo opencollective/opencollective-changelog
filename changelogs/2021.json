@@ -15561,5 +15561,31 @@
       ],
       "closed_week": 44
     }
+  ],
+  "week-45": [
+    {
+      "id": 1038099215,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4877",
+      "title": "Unable to invite expense - next disabled with no error",
+      "number": 4877,
+      "closed_at": "2021-11-01T13:39:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 45
+    }
   ]
 }
