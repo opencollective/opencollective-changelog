@@ -15586,6 +15586,116 @@
         }
       ],
       "closed_week": 45
+    },
+    {
+      "id": 1041310555,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4890",
+      "title": "No index on ExpenseId in Transactions table",
+      "number": 4890,
+      "closed_at": "2021-11-02T15:38:10Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 45
+    },
+    {
+      "id": 972175003,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4552",
+      "title": "Markup appearing in expense email notification",
+      "number": 4552,
+      "closed_at": "2021-11-02T14:27:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 45
+    },
+    {
+      "id": 950125456,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4480",
+      "title": "Change 'Contribute' section header for Events to 'Tickets' when custom contribution is off, and make it off by default",
+      "number": 4480,
+      "closed_at": "2021-11-02T13:48:26Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 45
+    },
+    {
+      "id": 786767588,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3855",
+      "title": "Improve messages when recurring contributions are not supported",
+      "number": 3855,
+      "closed_at": "2021-11-02T13:12:34Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 45
     }
   ]
 }
