@@ -15696,6 +15696,29 @@
       ],
       "assignees": [],
       "closed_week": 45
+    },
+    {
+      "id": 1012751121,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4754",
+      "title": "Separate Independent Collective activation email",
+      "number": 4754,
+      "closed_at": "2021-11-03T10:22:28Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 45
     }
   ]
 }
