@@ -15719,6 +15719,62 @@
       ],
       "assignees": [],
       "closed_week": 45
+    },
+    {
+      "id": 1044160736,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4913",
+      "title": "Don't show $0 items on settlement expense",
+      "number": 4913,
+      "closed_at": "2021-11-04T08:39:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 45
+    },
+    {
+      "id": 1044159636,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4912",
+      "title": "Total not showing on settlement expense",
+      "number": 4912,
+      "closed_at": "2021-11-04T09:31:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 45
     }
   ]
 }
