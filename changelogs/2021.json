@@ -15775,6 +15775,66 @@
         }
       ],
       "closed_week": 45
+    },
+    {
+      "id": 1044477736,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4916",
+      "title": "Host reports section: Fix all spacing / margin issues",
+      "number": 4916,
+      "closed_at": "2021-11-05T11:30:57Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 45
+    },
+    {
+      "id": 951948016,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4491",
+      "title": "Reveal total payout sum per payee to host admin",
+      "number": 4491,
+      "closed_at": "2021-11-05T09:59:47Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "juliekitty",
+          "html_url": "https://github.com/juliekitty"
+        }
+      ],
+      "closed_week": 45
     }
   ]
 }
