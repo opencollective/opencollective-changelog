@@ -15836,5 +15836,71 @@
       ],
       "closed_week": 45
     }
+  ],
+  "week-46": [
+    {
+      "id": 1044475155,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4915",
+      "title": "Host reports section: use a tooltip for \"Projected\" amount",
+      "number": 4915,
+      "closed_at": "2021-11-08T17:46:57Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 46
+    },
+    {
+      "id": 1043400047,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4909",
+      "title": "Mishandling of Bank details in Independent Collective onboarding",
+      "number": 4909,
+      "closed_at": "2021-11-08T10:34:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 46
+    }
   ]
 }
