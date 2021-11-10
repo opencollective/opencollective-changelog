@@ -15901,6 +15901,76 @@
         }
       ],
       "closed_week": 46
+    },
+    {
+      "id": 1048301203,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4930",
+      "title": "Link to manage recurring contributions missing in Thank You email",
+      "number": 4930,
+      "closed_at": "2021-11-09T10:07:27Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 46
+    },
+    {
+      "id": 1045628239,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4919",
+      "title": "PDF service: limit exposure of debug interface",
+      "number": 4919,
+      "closed_at": "2021-11-09T12:21:33Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 46
+    },
+    {
+      "id": 1013919129,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4768",
+      "title": "🔥 for new users",
+      "number": 4768,
+      "closed_at": "2021-11-09T14:00:42Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 46
     }
   ]
 }
