@@ -15971,6 +15971,114 @@
         }
       ],
       "closed_week": 46
+    },
+    {
+      "id": 1051385054,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4940",
+      "title": "Unable to turn on grant expenses for project",
+      "number": 4940,
+      "closed_at": "2021-11-12T08:56:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 46
+    },
+    {
+      "id": 1050504169,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4937",
+      "title": "Error when Filtering While Charts are Open",
+      "number": 4937,
+      "closed_at": "2021-11-12T18:40:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 46
+    },
+    {
+      "id": 1043176969,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4907",
+      "title": "Host admin reports > total money managed: unclear date filters",
+      "number": 4907,
+      "closed_at": "2021-11-12T08:54:53Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 46
+    },
+    {
+      "id": 1043073665,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4903",
+      "title": "Content is Cutoff in Expense Items",
+      "number": 4903,
+      "closed_at": "2021-11-12T17:41:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 46
     }
   ]
 }
