@@ -16095,5 +16095,22 @@
       "assignees": [],
       "closed_week": 46
     }
+  ],
+  "week-47": [
+    {
+      "id": 1051441150,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4942",
+      "title": "Showing as contributor but amount is $0",
+      "number": 4942,
+      "closed_at": "2021-11-14T19:58:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 47
+    }
   ]
 }
