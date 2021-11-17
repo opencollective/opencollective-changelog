@@ -16139,6 +16139,58 @@
         }
       ],
       "closed_week": 47
+    },
+    {
+      "id": 1042825946,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4901",
+      "title": "Admin Dashboard Layout Fix",
+      "number": 4901,
+      "closed_at": "2021-11-16T13:54:14Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 1028108168,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4838",
+      "title": "State Field Not Appearing on Initial Rendering of the Expense Form",
+      "number": 4838,
+      "closed_at": "2021-11-16T13:56:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 47
     }
   ]
 }
