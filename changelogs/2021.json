@@ -16191,6 +16191,131 @@
         }
       ],
       "closed_week": 47
+    },
+    {
+      "id": 1056017544,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4955",
+      "title": "Loosing address on guest contribution form when going prev",
+      "number": 4955,
+      "closed_at": "2021-11-17T11:48:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "P1",
+          "color": "DA4148"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 1054957823,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4952",
+      "title": "Progress not displayed on tier page",
+      "number": 4952,
+      "closed_at": "2021-11-17T10:40:20Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 47
+    },
+    {
+      "id": 1050875786,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4939",
+      "title": "Charge Expenses should not have HostCollectiveId set on the CREDIT side",
+      "number": 4939,
+      "closed_at": "2021-11-17T10:13:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 47
+    },
+    {
+      "id": 1040087043,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4884",
+      "title": "Make replies to expense invitations go to the inviter not OC support",
+      "number": 4884,
+      "closed_at": "2021-11-17T10:34:55Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 945815351,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4459",
+      "title": "Don't display org creation option in apply flow",
+      "number": 4459,
+      "closed_at": "2021-11-17T10:30:56Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 47
     }
   ]
 }
