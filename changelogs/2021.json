@@ -16372,6 +16372,90 @@
         }
       ],
       "closed_week": 47
+    },
+    {
+      "id": 1049582469,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4934",
+      "title": "Select: hide \"Nothing found\" if no search term",
+      "number": 4934,
+      "closed_at": "2021-11-19T14:47:10Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 1027232106,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4831",
+      "title": "Help text for Independent Collective deactivation",
+      "number": 4831,
+      "closed_at": "2021-11-19T14:46:21Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 47
+    },
+    {
+      "id": 1011818018,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4752",
+      "title": "Add legal name to the main signup form",
+      "number": 4752,
+      "closed_at": "2021-11-19T14:46:47Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 47
     }
   ]
 }
