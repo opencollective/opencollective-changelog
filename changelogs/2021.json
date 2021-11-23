@@ -16457,5 +16457,114 @@
       ],
       "closed_week": 47
     }
+  ],
+  "week-48": [
+    {
+      "id": 1060266525,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4976",
+      "title": "Reverse Years filter Dropdown",
+      "number": 4976,
+      "closed_at": "2021-11-22T15:41:28Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 1045290134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4918",
+      "title": "Add delete to rejected expense action menu",
+      "number": 4918,
+      "closed_at": "2021-11-22T08:27:04Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 940868485,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4442",
+      "title": "Figma Integration to Storybook",
+      "number": 4442,
+      "closed_at": "2021-11-22T13:49:37Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 894527013,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4298",
+      "title": "Add Support for Embedding Videos on Updates",
+      "number": 4298,
+      "closed_at": "2021-11-22T13:48:42Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    }
   ]
 }
