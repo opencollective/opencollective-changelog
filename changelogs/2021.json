@@ -16565,6 +16565,230 @@
         }
       ],
       "closed_week": 48
+    },
+    {
+      "id": 1056670040,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4957",
+      "title": "Redirect to Collective page after removing self as admin",
+      "number": 4957,
+      "closed_at": "2021-11-23T08:39:06Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$100",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "leonardohofling",
+          "html_url": "https://github.com/leonardohofling"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 1040089540,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4885",
+      "title": "Search should allow for different punctuation",
+      "number": 4885,
+      "closed_at": "2021-11-23T12:05:52Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 1020567777,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4803",
+      "title": "Monthly recurring goal amount",
+      "number": 4803,
+      "closed_at": "2021-11-23T08:30:04Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 983804956,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4606",
+      "title": "Admin dashboard reports: Total money managed section",
+      "number": 4606,
+      "closed_at": "2021-11-23T22:16:34Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 937198161,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4427",
+      "title": "Ledger: review revenue dashboards",
+      "number": 4427,
+      "closed_at": "2021-11-23T15:17:36Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "metabase",
+          "color": "D8E54A"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 896242277,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4302",
+      "title": "Fees apply when adding pre-paid budget",
+      "number": 4302,
+      "closed_at": "2021-11-23T15:21:34Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 820855845,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4046",
+      "title": "Wrong \"Fiscal Host\" on Expense page",
+      "number": 4046,
+      "closed_at": "2021-11-23T15:18:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "papercuts",
+          "color": "f2eecb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 697416440,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3476",
+      "title": "Financial contribution pending email should only go to admins",
+      "number": 3476,
+      "closed_at": "2021-11-23T15:15:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
     }
   ]
 }
