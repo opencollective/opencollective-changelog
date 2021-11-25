@@ -16789,6 +16789,81 @@
       ],
       "assignees": [],
       "closed_week": 48
+    },
+    {
+      "id": 1061918135,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4985",
+      "title": "Add grant to expense type filters",
+      "number": 4985,
+      "closed_at": "2021-11-24T13:58:04Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 1052468042,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4943",
+      "title": "Edits to OCF's application page",
+      "number": 4943,
+      "closed_at": "2021-11-24T13:57:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 1050836138,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4938",
+      "title": "Projects missing a Members entry for their HOST",
+      "number": 4938,
+      "closed_at": "2021-11-24T15:16:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
     }
   ]
 }
