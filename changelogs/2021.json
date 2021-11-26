@@ -16864,6 +16864,105 @@
       ],
       "assignees": [],
       "closed_week": 48
+    },
+    {
+      "id": 1063672070,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4996",
+      "title": "Formatted String Error on Pricing Page",
+      "number": 4996,
+      "closed_at": "2021-11-25T15:09:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 1062966801,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4994",
+      "title": "Calculation of Host Balance is Incorrect when Filtered on Date",
+      "number": 4994,
+      "closed_at": "2021-11-25T16:32:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
+    },
+    {
+      "id": 1045843555,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4920",
+      "title": "Allow Projects and Events to be the payee of an Expense",
+      "number": 4920,
+      "closed_at": "2021-11-25T12:31:14Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 48
+    },
+    {
+      "id": 792405305,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3898",
+      "title": "Displaying currency twice",
+      "number": 3898,
+      "closed_at": "2021-11-25T14:26:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 48
     }
   ]
 }
