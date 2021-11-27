@@ -16963,6 +16963,34 @@
         }
       ],
       "closed_week": 48
+    },
+    {
+      "id": 921793379,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4369",
+      "title": "Implement refunds for \"Added Funds\"",
+      "number": 4369,
+      "closed_at": "2021-11-26T14:48:00Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 48
     }
   ]
 }
