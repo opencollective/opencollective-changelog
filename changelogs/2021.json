@@ -17020,5 +17020,110 @@
       ],
       "closed_week": 48
     }
+  ],
+  "week-49": [
+    {
+      "id": 1061730853,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4983",
+      "title": "Display embedded video in changelog update",
+      "number": 4983,
+      "closed_at": "2021-11-30T14:52:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 1060268869,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4977",
+      "title": "Go through Number Formatting in the Host Dashboard Reports",
+      "number": 4977,
+      "closed_at": "2021-11-30T14:38:42Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 49
+    },
+    {
+      "id": 1046858880,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4925",
+      "title": "Problem approving expense for payment after account information was updated",
+      "number": 4925,
+      "closed_at": "2021-11-30T11:15:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 49
+    },
+    {
+      "id": 1040726038,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4889",
+      "title": "Ask for display name instead of full name on the signup form",
+      "number": 4889,
+      "closed_at": "2021-11-30T12:10:57Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 49
+    }
   ]
 }
