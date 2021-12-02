@@ -17124,6 +17124,40 @@
         }
       ],
       "closed_week": 49
+    },
+    {
+      "id": 1067876597,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5008",
+      "title": "Transactions Page: Exclude Gift Card transactions filter is not working",
+      "number": 5008,
+      "closed_at": "2021-12-01T12:58:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 49
+    },
+    {
+      "id": 1058024952,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4964",
+      "title": "OCF profile shows up twice as payment method",
+      "number": 4964,
+      "closed_at": "2021-12-01T12:56:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 49
     }
   ]
 }
