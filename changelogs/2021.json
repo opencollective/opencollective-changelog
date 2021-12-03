@@ -17158,6 +17158,30 @@
       ],
       "assignees": [],
       "closed_week": 49
+    },
+    {
+      "id": 1059064928,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4969",
+      "title": "Do not require address when payee is a Collective (especially if payer is the same Collective)",
+      "number": 4969,
+      "closed_at": "2021-12-02T16:14:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 49
     }
   ]
 }
