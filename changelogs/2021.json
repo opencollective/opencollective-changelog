@@ -17182,6 +17182,61 @@
         }
       ],
       "closed_week": 49
+    },
+    {
+      "id": 1070088078,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5012",
+      "title": "Ticket Tiers Not Showing",
+      "number": 5012,
+      "closed_at": "2021-12-03T09:46:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 49
+    },
+    {
+      "id": 1035264063,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4865",
+      "title": "Event datetime picker problems",
+      "number": 4865,
+      "closed_at": "2021-12-03T08:15:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        },
+        {
+          "name": "P3",
+          "color": "FBCA04"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 49
     }
   ]
 }
