@@ -17238,5 +17238,150 @@
       ],
       "closed_week": 49
     }
+  ],
+  "week-50": [
+    {
+      "id": 1070343390,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5014",
+      "title": "Company field breaks with multiple references",
+      "number": 5014,
+      "closed_at": "2021-12-06T10:53:38Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 1033014230,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4858",
+      "title": "Submitted HelloWorks Forms Exposed to Email Providers",
+      "number": 4858,
+      "closed_at": "2021-12-06T10:20:41Z",
+      "labels": [
+        {
+          "name": "privacy",
+          "color": "0b2768"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 960120026,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4520",
+      "title": "Settlement script should not be restricted to current month",
+      "number": 4520,
+      "closed_at": "2021-12-06T10:10:01Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
+    },
+    {
+      "id": 849115927,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4151",
+      "title": "Replace \"Backers\" by \"Financial contributors\" in tweets",
+      "number": 4151,
+      "closed_at": "2021-12-06T10:59:18Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 767388661,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3779",
+      "title": "HelloWorks: send tax form request email ourselves",
+      "number": 3779,
+      "closed_at": "2021-12-06T10:20:41Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    }
   ]
 }
