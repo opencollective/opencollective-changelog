@@ -17382,6 +17382,98 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 1070605283,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5015",
+      "title": "Issue all receipts in host currency",
+      "number": 5015,
+      "closed_at": "2021-12-07T12:15:05Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 1063620366,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4995",
+      "title": "Fix transactions historical view in host report",
+      "number": 4995,
+      "closed_at": "2021-12-07T18:17:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 50
+    },
+    {
+      "id": 1011414850,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4751",
+      "title": "Confusing UX leading to expense not being invited",
+      "number": 4751,
+      "closed_at": "2021-12-07T17:30:46Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
