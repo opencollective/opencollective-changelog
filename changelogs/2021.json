@@ -17474,6 +17474,37 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 753817670,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3747",
+      "title": "In expense payee selector, profile types should follow user menu conventions",
+      "number": 3747,
+      "closed_at": "2021-12-08T11:56:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 50
     }
   ]
 }
