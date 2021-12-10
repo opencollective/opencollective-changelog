@@ -17505,6 +17505,30 @@
       ],
       "assignees": [],
       "closed_week": 50
+    },
+    {
+      "id": 1071137838,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5016",
+      "title": "`schema-update` CI Failure",
+      "number": 5016,
+      "closed_at": "2021-12-09T10:07:20Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
