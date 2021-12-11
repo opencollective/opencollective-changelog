@@ -17529,6 +17529,30 @@
         }
       ],
       "closed_week": 50
+    },
+    {
+      "id": 1013908050,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4760",
+      "title": "Users not finding contact under actions menu",
+      "number": 4760,
+      "closed_at": "2021-12-10T13:58:51Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 50
     }
   ]
 }
