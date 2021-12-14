@@ -17554,5 +17554,115 @@
       ],
       "closed_week": 50
     }
+  ],
+  "week-51": [
+    {
+      "id": 1078577261,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5034",
+      "title": "Contact Collective Modal - Add Close Icon",
+      "number": 5034,
+      "closed_at": "2021-12-13T21:57:51Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 848249223,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4140",
+      "title": "Collective background image: responsive cropper",
+      "number": 4140,
+      "closed_at": "2021-12-13T08:53:21Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 51
+    },
+    {
+      "id": 655529025,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3328",
+      "title": "Two to sign for payouts",
+      "number": 3328,
+      "closed_at": "2021-12-13T16:15:11Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "governance",
+          "color": "A2CC52"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "BenJam",
+          "html_url": "https://github.com/BenJam"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 51
+    }
   ]
 }
