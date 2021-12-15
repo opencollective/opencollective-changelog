@@ -17663,6 +17663,29 @@
         }
       ],
       "closed_week": 51
+    },
+    {
+      "id": 657159507,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3332",
+      "title": "Invoice's bills keep uploading forever",
+      "number": 3332,
+      "closed_at": "2021-12-14T12:46:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
     }
   ]
 }
