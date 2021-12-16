@@ -17686,6 +17686,42 @@
       ],
       "assignees": [],
       "closed_week": 51
+    },
+    {
+      "id": 1062793550,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4992",
+      "title": "Refunding Transaction from Collective to Itself",
+      "number": 4992,
+      "closed_at": "2021-12-15T14:26:23Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 51
     }
   ]
 }
