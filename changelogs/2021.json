@@ -17722,6 +17722,29 @@
         }
       ],
       "closed_week": 51
+    },
+    {
+      "id": 1081466479,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5046",
+      "title": "Inconsistencies Editing Collectives",
+      "number": 5046,
+      "closed_at": "2021-12-16T17:35:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 51
     }
   ]
 }
