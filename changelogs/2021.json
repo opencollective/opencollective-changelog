@@ -17746,5 +17746,43 @@
       "assignees": [],
       "closed_week": 51
     }
+  ],
+  "week-52": [
+    {
+      "id": 836782112,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4099",
+      "title": "Expense attachments icons are not respecting their container size on Firefox mobile",
+      "number": 4099,
+      "closed_at": "2021-12-20T16:01:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 52
+    }
   ]
 }
