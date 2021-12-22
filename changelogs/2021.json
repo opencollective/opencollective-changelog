@@ -17783,6 +17783,30 @@
         }
       ],
       "closed_week": 52
+    },
+    {
+      "id": 1058118266,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4965",
+      "title": "Remove Success Page from Crypto Contribution Flow ",
+      "number": 4965,
+      "closed_at": "2021-12-21T17:34:19Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 52
     }
   ]
 }
