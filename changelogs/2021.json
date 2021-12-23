@@ -17807,6 +17807,100 @@
         }
       ],
       "closed_week": 52
+    },
+    {
+      "id": 1086659743,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5062",
+      "title": "Better handle expired batch quotes with Transferwise",
+      "number": 5062,
+      "closed_at": "2021-12-22T13:47:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 1086536011,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5061",
+      "title": "Unable to Edit Expense with United Arab Emirates bank account address",
+      "number": 5061,
+      "closed_at": "2021-12-22T17:40:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 1085263779,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5055",
+      "title": "Typo on OSC homepage",
+      "number": 5055,
+      "closed_at": "2021-12-22T13:42:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
+    },
+    {
+      "id": 1079303655,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5043",
+      "title": "Receipts appearing from the organization itself",
+      "number": 5043,
+      "closed_at": "2021-12-22T09:42:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 1028797186,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4839",
+      "title": "Collective name different in bank transfer instructions on screen vs email",
+      "number": 4839,
+      "closed_at": "2021-12-22T13:58:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
     }
   ]
 }
