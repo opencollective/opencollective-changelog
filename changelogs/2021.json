@@ -17901,6 +17901,53 @@
       ],
       "assignees": [],
       "closed_week": 52
+    },
+    {
+      "id": 1079504351,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5044",
+      "title": "Fees refunded on collective when payer is the payee",
+      "number": 5044,
+      "closed_at": "2021-12-23T12:49:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 52
+    },
+    {
+      "id": 1054111103,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4950",
+      "title": "Event time wrong",
+      "number": 4950,
+      "closed_at": "2021-12-23T09:07:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 52
     }
   ]
 }
