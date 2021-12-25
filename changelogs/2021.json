@@ -17948,6 +17948,46 @@
       ],
       "assignees": [],
       "closed_week": 52
+    },
+    {
+      "id": 825141388,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4069",
+      "title": "Ability to edit a pending order",
+      "number": 4069,
+      "closed_at": "2021-12-24T05:29:07Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 52
     }
   ]
 }
