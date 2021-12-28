@@ -17989,5 +17989,75 @@
       ],
       "closed_week": 52
     }
+  ],
+  "week-1": [
+    {
+      "id": 1079229969,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5041",
+      "title": "Adapt the contribute category when there's no way to contribute",
+      "number": 5041,
+      "closed_at": "2021-12-27T08:25:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 321427961,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1073",
+      "title": "Unable to pay 100% of collective balance due to fees",
+      "number": 1073,
+      "closed_at": "2021-12-27T14:13:29Z",
+      "labels": [
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    }
   ]
 }
