@@ -18058,6 +18058,29 @@
         }
       ],
       "closed_week": 1
+    },
+    {
+      "id": 962442660,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4530",
+      "title": "Thank You email should be sent to ALL admins and accountants",
+      "number": 4530,
+      "closed_at": "2021-12-30T09:57:17Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
     }
   ]
 }
