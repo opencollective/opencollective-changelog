@@ -18081,6 +18081,38 @@
       ],
       "assignees": [],
       "closed_week": 1
+    },
+    {
+      "id": 1068871502,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5009",
+      "title": "Custom text missing from receipts",
+      "number": 5009,
+      "closed_at": "2021-12-31T09:54:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "P1",
+          "color": "DA4148"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
     }
   ]
 }
