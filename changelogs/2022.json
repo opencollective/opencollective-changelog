@@ -1,0 +1,216 @@
+{
+  "week-2": [
+    {
+      "id": 1079085187,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5039",
+      "title": "Investigate and Add Support for Refunds of Expenses for Same Collective",
+      "number": 5039,
+      "closed_at": "2022-01-03T21:29:34Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1069847044,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5011",
+      "title": "Default Start and End Dates are not Registered for Event Unless they are Changed",
+      "number": 5011,
+      "closed_at": "2022-01-03T22:21:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1059807493,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4971",
+      "title": "Some Projects not showing on host dashboard",
+      "number": 4971,
+      "closed_at": "2022-01-03T16:46:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 949478899,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4474",
+      "title": "Small bug with time selector on event creation page",
+      "number": 4474,
+      "closed_at": "2022-01-03T14:44:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 942591826,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4448",
+      "title": "Payment source shows up twice",
+      "number": 4448,
+      "closed_at": "2022-01-03T17:13:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "task",
+          "color": "d16d49"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 694993164,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3464",
+      "title": "Update ‘Moderation’ and ‘Community Guidelines’ documents",
+      "number": 3464,
+      "closed_at": "2022-01-03T17:11:42Z",
+      "labels": [
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "piamancini",
+          "html_url": "https://github.com/piamancini"
+        },
+        {
+          "login": "sbinlondon",
+          "html_url": "https://github.com/sbinlondon"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 683211925,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3419",
+      "title": "Can't add TestCollective to Fiscal Host",
+      "number": 3419,
+      "closed_at": "2022-01-03T17:09:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 631206303,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3201",
+      "title": "Unable to remove attachment from expense",
+      "number": 3201,
+      "closed_at": "2022-01-03T17:11:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    }
+  ]
+}
