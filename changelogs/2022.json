@@ -211,6 +211,167 @@
       ],
       "assignees": [],
       "closed_week": 2
+    },
+    {
+      "id": 1090160970,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5072",
+      "title": "Typos/Edits on www.opencollective.foundation",
+      "number": 5072,
+      "closed_at": "2022-01-04T16:31:28Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1087491695,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5065",
+      "title": "Projects and events should default to the fees structure of their parents",
+      "number": 5065,
+      "closed_at": "2022-01-04T10:30:42Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1035256176,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4864",
+      "title": "TZ does not take into account event date",
+      "number": 4864,
+      "closed_at": "2022-01-04T09:49:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "P2",
+          "color": "F09440"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 1032226280,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4854",
+      "title": "Export CSV link for events does not contain a link",
+      "number": 4854,
+      "closed_at": "2022-01-04T09:57:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "P3",
+          "color": "FBCA04"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 899467548,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4311",
+      "title": "When checking out on contributing to a project, the slug doesn't include my collective path",
+      "number": 4311,
+      "closed_at": "2022-01-04T08:31:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 729382737,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3626",
+      "title": "Add Accountant's as BCC on \"thank you\" emails",
+      "number": 3626,
+      "closed_at": "2022-01-04T10:30:25Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
     }
   ]
 }
