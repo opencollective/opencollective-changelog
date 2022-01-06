@@ -372,6 +372,115 @@
         }
       ],
       "closed_week": 2
+    },
+    {
+      "id": 1092400216,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5078",
+      "title": "Disable Virtual Cards actions for unapproved Collectives",
+      "number": 5078,
+      "closed_at": "2022-01-05T13:51:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1014268934,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4770",
+      "title": "Emailed system generated receipt is empty file",
+      "number": 4770,
+      "closed_at": "2022-01-05T13:23:20Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 831341841,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4084",
+      "title": "Integrate bitcoin payments",
+      "number": 4084,
+      "closed_at": "2022-01-05T13:34:00Z",
+      "labels": [
+        {
+          "name": "payment-methods",
+          "color": "dfe226"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 560205149,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2869",
+      "title": "Moving a Collective to a host with a different currency",
+      "number": 2869,
+      "closed_at": "2022-01-05T13:11:37Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
