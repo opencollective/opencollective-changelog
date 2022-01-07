@@ -481,6 +481,136 @@
       ],
       "assignees": [],
       "closed_week": 2
+    },
+    {
+      "id": 1094976591,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5096",
+      "title": "Add option link an Mastodon account to an collective profile",
+      "number": 5096,
+      "closed_at": "2022-01-06T08:50:35Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 1086761050,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5063",
+      "title": "Captcha Issues (False Negatives)",
+      "number": 5063,
+      "closed_at": "2022-01-06T17:55:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 998169033,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4692",
+      "title": "Collect legal names and addresses for any user or org contributing over 5k in a tax year ",
+      "number": 4692,
+      "closed_at": "2022-01-06T11:01:53Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 980626116,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4588",
+      "title": "Add a discord link to collective/host's pages",
+      "number": 4588,
+      "closed_at": "2022-01-06T08:50:32Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 952930043,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4498",
+      "title": "Use I18nAddressFields component in the Contribution Flow",
+      "number": 4498,
+      "closed_at": "2022-01-06T11:01:53Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
     }
   ]
 }
