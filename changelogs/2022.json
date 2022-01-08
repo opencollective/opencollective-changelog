@@ -611,6 +611,73 @@
         }
       ],
       "closed_week": 2
+    },
+    {
+      "id": 1073052997,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5021",
+      "title": "Standardize the way we abbreviate large amounts",
+      "number": 5021,
+      "closed_at": "2022-01-07T14:46:49Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 822731761,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4062",
+      "title": "Bank transfer payments not activated after inputting bank info",
+      "number": 4062,
+      "closed_at": "2022-01-07T11:42:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
