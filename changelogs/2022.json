@@ -679,5 +679,146 @@
       "assignees": [],
       "closed_week": 2
     }
+  ],
+  "week-3": [
+    {
+      "id": 1096828464,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5104",
+      "title": "Change the way Events are Ordered in Collective Page",
+      "number": 5104,
+      "closed_at": "2022-01-10T18:06:27Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1096770340,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5103",
+      "title": "Crash when going back from Stripe in \"Accept Financial Contributions\"",
+      "number": 5103,
+      "closed_at": "2022-01-10T17:26:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 975233346,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4560",
+      "title": "Receipt and payout details missing from expense on mobile",
+      "number": 4560,
+      "closed_at": "2022-01-11T00:13:38Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 936826771,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4423",
+      "title": "Link to manage recurring contributions is wrong for guest contributors",
+      "number": 4423,
+      "closed_at": "2022-01-10T14:58:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    },
+    {
+      "id": 789075111,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3863",
+      "title": "Stripe lacks support for application_fee in some Currencies",
+      "number": 3863,
+      "closed_at": "2022-01-10T13:17:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 3
+    }
   ]
 }
