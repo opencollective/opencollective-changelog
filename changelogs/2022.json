@@ -819,6 +819,66 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 1096449538,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5102",
+      "title": "Accept Financial Contributions: move from Black/neutral to Blue/default button",
+      "number": 5102,
+      "closed_at": "2022-01-11T21:48:16Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 822109462,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4058",
+      "title": "Expired Cards not handled as expired",
+      "number": 4058,
+      "closed_at": "2022-01-11T15:27:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "papercuts",
+          "color": "f2eecb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
