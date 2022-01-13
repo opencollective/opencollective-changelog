@@ -879,6 +879,34 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 1100400685,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5117",
+      "title": "Rework on the Wording of the Confirm Contribution Modal",
+      "number": 5117,
+      "closed_at": "2022-01-12T16:30:29Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
