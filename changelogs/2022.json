@@ -907,6 +907,89 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 1100474608,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5118",
+      "title": "Bank Account: `Account Information` should not be displayed before `Transaction Method` is picked",
+      "number": 5118,
+      "closed_at": "2022-01-13T14:44:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1099951912,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5116",
+      "title": "Credit cards expiring during the current month are rejected",
+      "number": 5116,
+      "closed_at": "2022-01-13T14:45:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    },
+    {
+      "id": 971693744,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4550",
+      "title": "Move a contribution to a different profile / make it incognito",
+      "number": 4550,
+      "closed_at": "2022-01-13T15:22:08Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
