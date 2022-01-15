@@ -990,6 +990,82 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 1103042972,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5120",
+      "title": "Update admin buttons not displayed on projects",
+      "number": 5120,
+      "closed_at": "2022-01-14T12:11:50Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 834191280,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4093",
+      "title": "Option to not notify anyone when posting an update",
+      "number": 4093,
+      "closed_at": "2022-01-14T09:24:23Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        },
+        {
+          "name": "updates",
+          "color": "DDD8D7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
