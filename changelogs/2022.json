@@ -1067,5 +1067,43 @@
       ],
       "closed_week": 3
     }
+  ],
+  "week-4": [
+    {
+      "id": 814860169,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4009",
+      "title": "Host admin can manually add funds to tier",
+      "number": 4009,
+      "closed_at": "2022-01-21T11:41:48Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
+    }
   ]
 }
