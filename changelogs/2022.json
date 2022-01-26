@@ -1105,5 +1105,99 @@
       ],
       "closed_week": 4
     }
+  ],
+  "week-5": [
+    {
+      "id": 1113299549,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5137",
+      "title": "Host admin can still access archived Collective expenses",
+      "number": 5137,
+      "closed_at": "2022-01-25T12:48:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1110219144,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5132",
+      "title": "Improve formatting of contribution card",
+      "number": 5132,
+      "closed_at": "2022-01-25T10:43:41Z",
+      "labels": [
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 989602027,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4641",
+      "title": "Add label to archived Projects",
+      "number": 4641,
+      "closed_at": "2022-01-25T09:02:00Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 5
+    }
   ]
 }
