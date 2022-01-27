@@ -1198,6 +1198,94 @@
         }
       ],
       "closed_week": 5
+    },
+    {
+      "id": 1114499353,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5156",
+      "title": "Says VAT where it should say GST",
+      "number": 5156,
+      "closed_at": "2022-01-26T09:17:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1112404633,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5136",
+      "title": "Expense Tags Section Show Up Even if There are No Tags",
+      "number": 5136,
+      "closed_at": "2022-01-26T09:54:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 980073908,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4587",
+      "title": "Projects and Events lose parent Collective part of URL",
+      "number": 4587,
+      "closed_at": "2022-01-26T08:59:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
     }
   ]
 }
