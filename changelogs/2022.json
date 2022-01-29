@@ -1286,6 +1286,122 @@
         }
       ],
       "closed_week": 5
+    },
+    {
+      "id": 1042347018,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4900",
+      "title": "Update date picker to latest design",
+      "number": 4900,
+      "closed_at": "2022-01-28T08:58:09Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 942593199,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4449",
+      "title": "Balance doesn't update after new contribution until refresh",
+      "number": 4449,
+      "closed_at": "2022-01-28T19:06:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "cache",
+          "color": "F5BFC2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 893230350,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4286",
+      "title": "Mark as unpaid not working for DEBIT-only transactions",
+      "number": 4286,
+      "closed_at": "2022-01-28T08:53:14Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 832788814,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4092",
+      "title": "Embed contribution flow: adapt wording for platform tips",
+      "number": 4092,
+      "closed_at": "2022-01-28T08:24:56Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
     }
   ]
 }
