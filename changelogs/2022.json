@@ -1403,5 +1403,67 @@
       ],
       "closed_week": 5
     }
+  ],
+  "week-6": [
+    {
+      "id": 1118736789,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5166",
+      "title": "Logo not showing in settings",
+      "number": 5166,
+      "closed_at": "2022-01-31T09:54:50Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 1118464409,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5165",
+      "title": "Host not showing Collective",
+      "number": 5165,
+      "closed_at": "2022-01-31T09:21:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "P1",
+          "color": "DA4148"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 6
+    }
   ]
 }
