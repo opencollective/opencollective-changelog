@@ -1464,6 +1464,126 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 1120190939,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5170",
+      "title": "Collective admin seeing broken download receipt button",
+      "number": 5170,
+      "closed_at": "2022-02-01T13:05:06Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 1110925143,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5133",
+      "title": "Fire modal stretched too long",
+      "number": 5133,
+      "closed_at": "2022-02-01T16:09:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 993187338,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4665",
+      "title": "Hide budget for events if no activity",
+      "number": 4665,
+      "closed_at": "2022-02-01T16:28:13Z",
+      "labels": [
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 806020134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3966",
+      "title": "Disable bank transfer",
+      "number": 3966,
+      "closed_at": "2022-02-01T11:55:15Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
     }
   ]
 }
