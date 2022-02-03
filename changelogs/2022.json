@@ -1584,6 +1584,34 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 1120355918,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5173",
+      "title": "Do not allow Collective admins to refund Added Funds transactions, only Host admins",
+      "number": 5173,
+      "closed_at": "2022-02-02T10:50:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
     }
   ]
 }
