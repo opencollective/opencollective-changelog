@@ -1612,6 +1612,62 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 1122906256,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5186",
+      "title": "Event Without Tickets Do not Show `View Event` Button",
+      "number": 5186,
+      "closed_at": "2022-02-03T12:29:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
+    },
+    {
+      "id": 1062191576,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4989",
+      "title": "Deprecate \"Host Metrics\" admin page",
+      "number": 4989,
+      "closed_at": "2022-02-03T09:06:58Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
     }
   ]
 }
