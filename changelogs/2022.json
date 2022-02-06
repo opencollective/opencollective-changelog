@@ -1668,6 +1668,33 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 766584551,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3775",
+      "title": "GQLV2: Public mutation to create events",
+      "number": 3775,
+      "closed_at": "2022-02-05T13:34:31Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 6
     }
   ]
 }
