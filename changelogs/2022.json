@@ -1696,5 +1696,90 @@
       "assignees": [],
       "closed_week": 6
     }
+  ],
+  "week-7": [
+    {
+      "id": 1123450527,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5194",
+      "title": "Incorrect Refund Amounts for Expense Refund with Payee Covering Payment Processor Fees",
+      "number": 5194,
+      "closed_at": "2022-02-07T09:35:35Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1122938998,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5187",
+      "title": "Ability to disable GST at the collective level",
+      "number": 5187,
+      "closed_at": "2022-02-07T09:32:26Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "tax",
+          "color": "e86d94"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 499770045,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2463",
+      "title": "date picker hides behind scroller for \"contributor since\"",
+      "number": 2463,
+      "closed_at": "2022-02-07T12:37:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 7
+    }
   ]
 }
