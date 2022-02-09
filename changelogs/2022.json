@@ -1780,6 +1780,254 @@
       ],
       "assignees": [],
       "closed_week": 7
+    },
+    {
+      "id": 1126970938,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5212",
+      "title": "Contact Collective Modal within the Transactions/Expense Page Gives Error on Sending Message",
+      "number": 5212,
+      "closed_at": "2022-02-08T15:35:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1126038634,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5208",
+      "title": "Refunded Expense Transactions have wrong labels",
+      "number": 5208,
+      "closed_at": "2022-02-08T13:27:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1125743354,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5203",
+      "title": "Invalid styles for contribute cards titles during server-side rendering",
+      "number": 5203,
+      "closed_at": "2022-02-08T09:12:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1125722684,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5202",
+      "title": "TypeError: Cannot read properties of undefined (reading 'activeRecurringContributions')",
+      "number": 5202,
+      "closed_at": "2022-02-08T14:17:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "to reproduce",
+          "color": "070e6d"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1125657018,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5201",
+      "title": "Can't submit expenses to collectives without hosts",
+      "number": 5201,
+      "closed_at": "2022-02-08T10:06:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1114760512,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5157",
+      "title": "Add Further Refinements to Child Collective URL Links",
+      "number": 5157,
+      "closed_at": "2022-02-08T15:28:00Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1106467349,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5124",
+      "title": "View all expenses on mobile jumps to footer",
+      "number": 5124,
+      "closed_at": "2022-02-08T10:34:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1093178450,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5085",
+      "title": "Pre-fill end date and time when adding a start date and time on events",
+      "number": 5085,
+      "closed_at": "2022-02-08T11:16:11Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1006158301,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4736",
+      "title": "Navigating from a collective page to another should scroll top",
+      "number": 4736,
+      "closed_at": "2022-02-08T10:34:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
     }
   ]
 }
