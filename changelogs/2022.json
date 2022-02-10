@@ -2028,6 +2028,94 @@
         }
       ],
       "closed_week": 7
+    },
+    {
+      "id": 1126048561,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5209",
+      "title": "Status Labels Inconsistent in Expenses and Transactions List",
+      "number": 5209,
+      "closed_at": "2022-02-09T12:26:44Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1124494101,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5199",
+      "title": "Add \"Submitter cannot Approve\" policy toggle",
+      "number": 5199,
+      "closed_at": "2022-02-09T09:47:39Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "governance",
+          "color": "A2CC52"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1123338978,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5192",
+      "title": "Add extended permission info on the Expense Approval button",
+      "number": 5192,
+      "closed_at": "2022-02-09T09:47:47Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "governance",
+          "color": "A2CC52"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 7
     }
   ]
 }
