@@ -2117,5 +2117,55 @@
       ],
       "closed_week": 7
     }
+  ],
+  "week-8": [
+    {
+      "id": 1108952230,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5130",
+      "title": "\"See our public company\" link leads to a non-public Google Drive link",
+      "number": 5130,
+      "closed_at": "2022-02-14T14:43:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 1042323165,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4898",
+      "title": "Contribution flow: add a link to the account page as a CTA",
+      "number": 4898,
+      "closed_at": "2022-02-14T13:34:57Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    }
   ]
 }
