@@ -2334,6 +2334,33 @@
         }
       ],
       "closed_week": 8
+    },
+    {
+      "id": 1113584955,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5139",
+      "title": "[DOCS] Documentation unusable on mobile Firefox",
+      "number": 5139,
+      "closed_at": "2022-02-18T13:46:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "documentation",
+          "color": "dac0f7"
+        },
+        {
+          "name": "blocked → waiting third party",
+          "color": "B60205"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 8
     }
   ]
 }
