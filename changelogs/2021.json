@@ -5153,6 +5153,37 @@
         }
       ],
       "closed_week": 16
+    },
+    {
+      "id": 854793326,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4177",
+      "title": "Oscillating `package-lock.json` due to npm version upgrade to v7",
+      "number": 4177,
+      "closed_at": "2021-04-14T06:52:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 16
     }
   ],
   "week-17": [
