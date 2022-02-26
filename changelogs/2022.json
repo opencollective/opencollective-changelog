@@ -2511,6 +2511,49 @@
         }
       ],
       "closed_week": 9
+    },
+    {
+      "id": 1150867297,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5259",
+      "title": "API requests failing",
+      "number": 5259,
+      "closed_at": "2022-02-25T22:17:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
+    },
+    {
+      "id": 1087533667,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5066",
+      "title": "Add events and projects as contributing profiles",
+      "number": 5066,
+      "closed_at": "2022-02-25T17:07:40Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 9
     }
   ]
 }
