@@ -2555,5 +2555,63 @@
       ],
       "closed_week": 9
     }
+  ],
+  "week-10": [
+    {
+      "id": 1146025303,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5247",
+      "title": "Zombie PayPal subscriptions",
+      "number": 5247,
+      "closed_at": "2022-02-28T09:24:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 995325149,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4673",
+      "title": "Parent Collective Update should go to Project & Event contributors too",
+      "number": 4673,
+      "closed_at": "2022-02-28T15:56:40Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 10
+    }
   ]
 }
