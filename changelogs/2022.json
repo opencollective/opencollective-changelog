@@ -2724,6 +2724,114 @@
         }
       ],
       "closed_week": 10
+    },
+    {
+      "id": 1156810248,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5277",
+      "title": "Enforce minimum size for avatar",
+      "number": 5277,
+      "closed_at": "2022-03-04T16:54:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1147511620,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5253",
+      "title": "Balance failure notification should reference payment processor",
+      "number": 5253,
+      "closed_at": "2022-03-04T11:18:25Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1147510352,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5252",
+      "title": "Expense failing due to Wise balance gets into incorrect error state",
+      "number": 5252,
+      "closed_at": "2022-03-04T11:18:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1146411419,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5249",
+      "title": "Link to export settings page for Projects",
+      "number": 5249,
+      "closed_at": "2022-03-04T11:18:53Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 10
     }
   ]
 }
