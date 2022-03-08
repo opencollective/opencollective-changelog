@@ -2833,5 +2833,63 @@
       ],
       "closed_week": 10
     }
+  ],
+  "week-11": [
+    {
+      "id": 1139797352,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5236",
+      "title": "Apply the latest design to the Amount/currency picker",
+      "number": 5236,
+      "closed_at": "2022-03-07T16:40:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1048307925,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4931",
+      "title": "Consolidated Recurring Contributions management",
+      "number": 4931,
+      "closed_at": "2022-03-07T11:59:31Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    }
   ]
 }
