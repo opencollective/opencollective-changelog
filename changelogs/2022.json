@@ -2890,6 +2890,61 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 1162464440,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5296",
+      "title": "Total amount contributed still counting credits",
+      "number": 5296,
+      "closed_at": "2022-03-08T14:21:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1162447065,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5294",
+      "title": "2FA: Add support for Yubikeys",
+      "number": 5294,
+      "closed_at": "2022-03-08T09:56:18Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 11
     }
   ]
 }
