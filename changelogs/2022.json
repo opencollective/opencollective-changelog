@@ -2945,6 +2945,62 @@
       ],
       "assignees": [],
       "closed_week": 11
+    },
+    {
+      "id": 1163723286,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5302",
+      "title": "Character limit on github urls making it impossible to add some repo links ",
+      "number": 5302,
+      "closed_at": "2022-03-09T18:00:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1158806623,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5285",
+      "title": "Budget Section Refund/Reject Buttons Overflow",
+      "number": 5285,
+      "closed_at": "2022-03-09T21:28:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
