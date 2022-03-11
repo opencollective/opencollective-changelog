@@ -3001,6 +3001,38 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 1127412470,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5216",
+      "title": "Replace All Instances of `getErrorFromGraphqlException` to `i18nGraphqlException`",
+      "number": 5216,
+      "closed_at": "2022-03-10T17:35:38Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
