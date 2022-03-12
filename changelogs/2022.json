@@ -3033,6 +3033,26 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 1165889066,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5311",
+      "title": "Organizations not appearing in 'our own host' selection",
+      "number": 5311,
+      "closed_at": "2022-03-11T08:24:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
