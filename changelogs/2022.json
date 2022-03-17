@@ -3054,5 +3054,34 @@
       ],
       "closed_week": 11
     }
+  ],
+  "week-12": [
+    {
+      "id": 1121239716,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5179",
+      "title": "Do not require Collectives to select payout method in cross-host expenses",
+      "number": 5179,
+      "closed_at": "2022-03-16T13:53:40Z",
+      "labels": [
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 12
+    }
   ]
 }
