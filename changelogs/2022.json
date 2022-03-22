@@ -3083,5 +3083,87 @@
       "assignees": [],
       "closed_week": 12
     }
+  ],
+  "week-13": [
+    {
+      "id": 1168383755,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5324",
+      "title": "Enable User paid Payment Processor Fees when manually settling Expense with \"Other\" payout method",
+      "number": 5324,
+      "closed_at": "2022-03-21T15:05:32Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1113708219,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5144",
+      "title": "Recurring expenses",
+      "number": 5144,
+      "closed_at": "2022-03-21T12:40:34Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "needs specs",
+          "color": "efaba2"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 13
+    }
   ]
 }
