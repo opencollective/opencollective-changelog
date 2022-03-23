@@ -3164,6 +3164,52 @@
         }
       ],
       "closed_week": 13
+    },
+    {
+      "id": 1120466451,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5176",
+      "title": "Use expense's currency for Transferwise payments",
+      "number": 5176,
+      "closed_at": "2022-03-22T12:53:43Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
+    },
+    {
+      "id": 1087827061,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5068",
+      "title": "Add tax form support for cross-host expenses",
+      "number": 5068,
+      "closed_at": "2022-03-22T11:42:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
     }
   ]
 }
