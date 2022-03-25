@@ -3210,6 +3210,125 @@
       ],
       "assignees": [],
       "closed_week": 13
+    },
+    {
+      "id": 1166442494,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5315",
+      "title": "Display fees in the right currency when paying multi-currency",
+      "number": 5315,
+      "closed_at": "2022-03-24T08:10:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1163677414,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5300",
+      "title": "Tooltip to show more information about the FX rate for multi-currency expenses",
+      "number": 5300,
+      "closed_at": "2022-03-24T07:35:23Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1120459106,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5174",
+      "title": "Allow users to submit multi-currency expenses",
+      "number": 5174,
+      "closed_at": "2022-03-24T07:35:43Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1117300174,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5164",
+      "title": "Provide guidance when creating large gift cards campaign",
+      "number": 5164,
+      "closed_at": "2022-03-24T07:35:53Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
     }
   ]
 }
