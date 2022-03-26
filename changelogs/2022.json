@@ -3329,6 +3329,66 @@
       ],
       "assignees": [],
       "closed_week": 13
+    },
+    {
+      "id": 1179305431,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5362",
+      "title": "Page crash when searching for expenses/transactions using float amounts",
+      "number": 5362,
+      "closed_at": "2022-03-25T13:21:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1037830548,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4876",
+      "title": "Automatically update guest slugs when they confirm their accounts",
+      "number": 4876,
+      "closed_at": "2022-03-25T09:29:06Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 13
     }
   ]
 }
