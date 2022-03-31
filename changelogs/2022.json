@@ -3390,5 +3390,78 @@
       ],
       "closed_week": 13
     }
+  ],
+  "week-14": [
+    {
+      "id": 1176057024,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5349",
+      "title": "Migrate `/search` to GraphQL v2",
+      "number": 5349,
+      "closed_at": "2022-03-30T21:56:15Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
+    },
+    {
+      "id": 998846328,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4694",
+      "title": "Host admin can freeze Collective activity",
+      "number": 4694,
+      "closed_at": "2022-03-30T11:06:40Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        },
+        {
+          "login": "natehn",
+          "html_url": "https://github.com/natehn"
+        }
+      ],
+      "closed_week": 14
+    }
   ]
 }
