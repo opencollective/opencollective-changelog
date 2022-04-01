@@ -3462,6 +3462,61 @@
         }
       ],
       "closed_week": 14
+    },
+    {
+      "id": 1180393559,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5364",
+      "title": "Migrate `search` query in `search.js` to GraphQL v2",
+      "number": 5364,
+      "closed_at": "2022-03-31T13:25:26Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "GraphQL API v2",
+          "color": "143BC7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1157852944,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5282",
+      "title": "Policy should not block Host admins from submitting expenses",
+      "number": 5282,
+      "closed_at": "2022-03-31T23:53:45Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
     }
   ]
 }
