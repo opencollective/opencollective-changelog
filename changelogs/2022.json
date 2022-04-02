@@ -3517,6 +3517,121 @@
       ],
       "assignees": [],
       "closed_week": 14
+    },
+    {
+      "id": 1189386335,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5384",
+      "title": "Update the way we compute \"Page total\" for multi-currencies",
+      "number": 5384,
+      "closed_at": "2022-04-01T08:59:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1166089429,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5312",
+      "title": "Edit recurring contributions: only show profiles list if multiple entries",
+      "number": 5312,
+      "closed_at": "2022-04-01T12:16:46Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Rozgony",
+          "html_url": "https://github.com/Rozgony"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1120462135,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5175",
+      "title": "Surface multi-currency expenses in the interface",
+      "number": 5175,
+      "closed_at": "2022-04-01T07:39:22Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
+    },
+    {
+      "id": 1014652983,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4773",
+      "title": "Don't show the contribute header if contributions are not enabled",
+      "number": 4773,
+      "closed_at": "2022-04-01T07:09:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
     }
   ]
 }
