@@ -3725,6 +3725,154 @@
         }
       ],
       "closed_week": 15
+    },
+    {
+      "id": 1171663982,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5334",
+      "title": "Add Share Button to Search Page",
+      "number": 5334,
+      "closed_at": "2022-04-05T17:05:04Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 1166779383,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5317",
+      "title": "Add No Results Page when Nothing is Returned for the Search",
+      "number": 5317,
+      "closed_at": "2022-04-05T17:36:50Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 1166762904,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5316",
+      "title": "Redesign the Collective Cards in Search Page",
+      "number": 5316,
+      "closed_at": "2022-04-05T13:50:29Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 1013906925,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4759",
+      "title": "Display tags on the search page",
+      "number": 4759,
+      "closed_at": "2022-04-05T22:30:25Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 784017961,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3825",
+      "title": "Use a Postgres materialized view for search",
+      "number": 3825,
+      "closed_at": "2022-04-05T07:37:27Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
     }
   ]
 }
