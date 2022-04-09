@@ -3873,6 +3873,90 @@
         }
       ],
       "closed_week": 15
+    },
+    {
+      "id": 1195547092,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5402",
+      "title": "Redirect https://opencollective.com/support to https://opencollective.com/help",
+      "number": 5402,
+      "closed_at": "2022-04-07T12:59:28Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 1194952295,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5398",
+      "title": "`no-console` ESLint Rule Should Be `Error` ",
+      "number": 5398,
+      "closed_at": "2022-04-07T13:21:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 1176050079,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5348",
+      "title": "Fix `opencollective-images` server CI tests",
+      "number": 5348,
+      "closed_at": "2022-04-07T12:59:06Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 15
     }
   ]
 }
