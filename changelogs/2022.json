@@ -3958,5 +3958,118 @@
       ],
       "closed_week": 15
     }
+  ],
+  "week-16": [
+    {
+      "id": 1193301870,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5391",
+      "title": "Recurring expense state not persisted when changing steps",
+      "number": 5391,
+      "closed_at": "2022-04-11T16:17:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 1183641091,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5375",
+      "title": "Add Sort Option to Search Page",
+      "number": 5375,
+      "closed_at": "2022-04-11T16:40:51Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 1182661642,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5371",
+      "title": "Improve expense upload display names",
+      "number": 5371,
+      "closed_at": "2022-04-11T14:24:04Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 16
+    },
+    {
+      "id": 1171610381,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5332",
+      "title": "Add Support to Filter By Country in Search Page",
+      "number": 5332,
+      "closed_at": "2022-04-11T14:00:26Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    }
   ]
 }
