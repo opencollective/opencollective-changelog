@@ -4070,6 +4070,126 @@
         }
       ],
       "closed_week": 16
+    },
+    {
+      "id": 1201336019,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5423",
+      "title": "Opencollective image cannot be displayed when the image format is `svg` and the `avatarHeight` parameter is specified.",
+      "number": 5423,
+      "closed_at": "2022-04-12T15:03:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 1200641907,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5420",
+      "title": "Note description in email notifications missing newlines",
+      "number": 5420,
+      "closed_at": "2022-04-12T08:34:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 1171626293,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5333",
+      "title": "Add Tag Cloud to Search Page",
+      "number": 5333,
+      "closed_at": "2022-04-12T16:47:43Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 1154744886,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5269",
+      "title": "Virtual Card Receipt Upload Reminder and Card Freeze",
+      "number": 5269,
+      "closed_at": "2022-04-12T17:45:43Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "natehn",
+          "html_url": "https://github.com/natehn"
+        },
+        {
+          "login": "emberwry",
+          "html_url": "https://github.com/emberwry"
+        }
+      ],
+      "closed_week": 16
     }
   ]
 }
