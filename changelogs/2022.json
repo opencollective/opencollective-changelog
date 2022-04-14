@@ -4190,6 +4190,34 @@
         }
       ],
       "closed_week": 16
+    },
+    {
+      "id": 1202694525,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5428",
+      "title": "Wrong Value is Passed to API for `tag` Field in `/search` page",
+      "number": 5428,
+      "closed_at": "2022-04-13T13:50:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
     }
   ]
 }
