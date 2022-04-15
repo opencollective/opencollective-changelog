@@ -4218,6 +4218,46 @@
         }
       ],
       "closed_week": 16
+    },
+    {
+      "id": 998122883,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4691",
+      "title": "[PROJECT] Show details for Expenses in transactions list",
+      "number": 4691,
+      "closed_at": "2022-04-14T09:42:51Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "project",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 16
     }
   ]
 }
