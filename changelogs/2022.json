@@ -4258,6 +4258,173 @@
         }
       ],
       "closed_week": 16
+    },
+    {
+      "id": 1202325285,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5425",
+      "title": "Searching Again with New Term should Reset Filters in `/search` page",
+      "number": 5425,
+      "closed_at": "2022-04-15T14:31:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 1197073817,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5412",
+      "title": "E2E Intermittent Failures: Contribution Flow - Guest contributions",
+      "number": 5412,
+      "closed_at": "2022-04-15T14:29:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 16
+    },
+    {
+      "id": 1194859134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5397",
+      "title": "Redirect `/discover` page to `/search`",
+      "number": 5397,
+      "closed_at": "2022-04-15T14:33:25Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 962536537,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4532",
+      "title": "Handle local tax on invoice expenses",
+      "number": 4532,
+      "closed_at": "2022-04-15T11:34:53Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "tax",
+          "color": "e86d94"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "jfdh",
+          "html_url": "https://github.com/jfdh"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 16
+    },
+    {
+      "id": 577767126,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2970",
+      "title": "Merge search and discover pages",
+      "number": 2970,
+      "closed_at": "2022-04-15T14:33:26Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 16
     }
   ]
 }
