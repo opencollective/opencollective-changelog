@@ -4426,5 +4426,149 @@
       ],
       "closed_week": 16
     }
+  ],
+  "week-17": [
+    {
+      "id": 1204624462,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5436",
+      "title": "Sync `/search` Page with the Current Header and Filter Designs",
+      "number": 5436,
+      "closed_at": "2022-04-19T21:42:08Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "papercuts",
+          "color": "f2eecb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1197740864,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5415",
+      "title": "Make the Country Dropdown More Nicer Using Flags",
+      "number": 5415,
+      "closed_at": "2022-04-19T21:57:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1197462263,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5414",
+      "title": "Remove Pledge Creation Suggession Section from `/search` Page",
+      "number": 5414,
+      "closed_at": "2022-04-19T13:21:56Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1052533706,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4944",
+      "title": "Discover Page Pagination Breaks after Fourth Page",
+      "number": 4944,
+      "closed_at": "2022-04-19T07:36:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 17
+    },
+    {
+      "id": 655105271,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3325",
+      "title": "Better validation errors for settings",
+      "number": 3325,
+      "closed_at": "2022-04-19T10:50:39Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 17
+    }
   ]
 }
