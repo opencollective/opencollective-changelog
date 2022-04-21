@@ -4569,6 +4569,154 @@
       ],
       "assignees": [],
       "closed_week": 17
+    },
+    {
+      "id": 1204793519,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5439",
+      "title": "Stripe Virtual Cards: Charge Expense gets stuck in Processing",
+      "number": 5439,
+      "closed_at": "2022-04-20T19:15:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1169019396,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5325",
+      "title": "Expense invited to Collective should default to Collective as payee",
+      "number": 5325,
+      "closed_at": "2022-04-20T20:36:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1113915709,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5152",
+      "title": "Collective Page Scrolling on Mobile has Some Offset",
+      "number": 5152,
+      "closed_at": "2022-04-20T12:55:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1032249216,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4855",
+      "title": "Show \"Export\" section in events admin ",
+      "number": 4855,
+      "closed_at": "2022-04-20T13:06:03Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "P3",
+          "color": "FBCA04"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 951625384,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4488",
+      "title": "Improve Design in Empty Balance Button",
+      "number": 4488,
+      "closed_at": "2022-04-20T19:43:26Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 17
     }
   ]
 }
