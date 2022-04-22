@@ -4717,6 +4717,62 @@
         }
       ],
       "closed_week": 17
+    },
+    {
+      "id": 1202743979,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5430",
+      "title": "Update Country Filter to New Design with Flags",
+      "number": 5430,
+      "closed_at": "2022-04-21T13:02:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
+    },
+    {
+      "id": 1196603448,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5405",
+      "title": "Display the Country for Organizations in Collective Cards in `/search` page",
+      "number": 5405,
+      "closed_at": "2022-04-21T15:46:25Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 17
     }
   ]
 }
