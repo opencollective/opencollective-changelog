@@ -4774,5 +4774,22 @@
       ],
       "closed_week": 17
     }
+  ],
+  "week-18": [
+    {
+      "id": 1213512785,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5470",
+      "title": "Bug reporte ",
+      "number": 5470,
+      "closed_at": "2022-04-24T20:02:04Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    }
   ]
 }
