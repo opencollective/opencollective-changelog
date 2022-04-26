@@ -4790,6 +4790,202 @@
       ],
       "assignees": [],
       "closed_week": 18
+    },
+    {
+      "id": 1214053464,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5472",
+      "title": "Intl.DisplayNames not supported by all browsers",
+      "number": 5472,
+      "closed_at": "2022-04-25T12:41:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1214025402,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5471",
+      "title": "Links in HTML view of e-mail broken but present",
+      "number": 5471,
+      "closed_at": "2022-04-25T08:41:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1213342925,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5469",
+      "title": "cannot accept financial contributions via Stripe for a new event in new org",
+      "number": 5469,
+      "closed_at": "2022-04-25T12:44:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1204812623,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5440",
+      "title": "\"Update payment method\" page not working for guest accounts",
+      "number": 5440,
+      "closed_at": "2022-04-25T09:00:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1182838315,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5372",
+      "title": "Host Reports and added funds",
+      "number": 5372,
+      "closed_at": "2022-04-25T08:43:42Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "host dashboard",
+          "color": "8bed68"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1173200723,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5339",
+      "title": "Redirect `/hosts` page to the New Search Page with Host filter Selected",
+      "number": 5339,
+      "closed_at": "2022-04-25T16:25:21Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 936064092,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4420",
+      "title": "Estimated Annual Budget isn't calculated correctly",
+      "number": 4420,
+      "closed_at": "2022-04-25T08:40:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 18
     }
   ]
 }
