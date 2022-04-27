@@ -4986,6 +4986,92 @@
         }
       ],
       "closed_week": 18
+    },
+    {
+      "id": 1178816335,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5360",
+      "title": "Require address when creating new org as invoice expense payee",
+      "number": 5360,
+      "closed_at": "2022-04-26T16:22:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1159743793,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5290",
+      "title": "New VAT/GST custom field for expenses",
+      "number": 5290,
+      "closed_at": "2022-04-26T08:11:39Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
+    },
+    {
+      "id": 747453142,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3699",
+      "title": "Collective Navigation v2: use features endpoint to selectively fetch collective page GraphQL data",
+      "number": 3699,
+      "closed_at": "2022-04-26T08:47:26Z",
+      "labels": [
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
     }
   ]
 }
