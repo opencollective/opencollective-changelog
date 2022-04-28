@@ -5072,6 +5072,62 @@
       ],
       "assignees": [],
       "closed_week": 18
+    },
+    {
+      "id": 1216742457,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5493",
+      "title": "Problem with searching for organizations under source of funds",
+      "number": 5493,
+      "closed_at": "2022-04-27T06:43:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 18
+    },
+    {
+      "id": 1216557441,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5492",
+      "title": "Add Sort by `Relavancy` to `/search` page",
+      "number": 5492,
+      "closed_at": "2022-04-27T18:02:21Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 18
     }
   ]
 }
