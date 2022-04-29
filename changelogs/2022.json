@@ -5128,6 +5128,21 @@
         }
       ],
       "closed_week": 18
+    },
+    {
+      "id": 1219283266,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5502",
+      "title": "Exit to community is hard to notice",
+      "number": 5502,
+      "closed_at": "2022-04-28T21:25:09Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 18
     }
   ]
 }
