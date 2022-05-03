@@ -5144,5 +5144,35 @@
       "assignees": [],
       "closed_week": 18
     }
+  ],
+  "week-19": [
+    {
+      "id": 1216816354,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5495",
+      "title": "Bill to entity should never be hosted Collective",
+      "number": 5495,
+      "closed_at": "2022-05-02T14:49:39Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 19
+    }
   ]
 }
