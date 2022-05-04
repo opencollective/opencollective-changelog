@@ -5173,6 +5173,62 @@
         }
       ],
       "closed_week": 19
+    },
+    {
+      "id": 1195536134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5400",
+      "title": "Remove 'Our own fiscal host' option from the flow to start accepting contributions",
+      "number": 5400,
+      "closed_at": "2022-05-03T12:58:12Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 959611970,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4518",
+      "title": "Order ready to pay expenses by oldest first",
+      "number": 4518,
+      "closed_at": "2022-05-03T12:56:15Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 19
     }
   ]
 }
