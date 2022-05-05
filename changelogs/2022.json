@@ -5229,6 +5229,93 @@
         }
       ],
       "closed_week": 19
+    },
+    {
+      "id": 1225430013,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5520",
+      "title": "Content Security Policy: Wise OTP Frame not Loading",
+      "number": 5520,
+      "closed_at": "2022-05-04T14:32:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 19
+    },
+    {
+      "id": 1207314062,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5451",
+      "title": "Load More Button in Update Page Not Positioned Correctly",
+      "number": 5451,
+      "closed_at": "2022-05-04T10:01:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 19
+    },
+    {
+      "id": 1193861437,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5394",
+      "title": "Editing a team member creates multiple identical cards",
+      "number": 5394,
+      "closed_at": "2022-05-04T07:35:41Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "need steps",
+          "color": "3662b5"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "leonardohofling",
+          "html_url": "https://github.com/leonardohofling"
+        }
+      ],
+      "closed_week": 19
     }
   ]
 }
