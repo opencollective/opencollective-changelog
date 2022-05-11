@@ -5345,5 +5345,95 @@
       ],
       "closed_week": 19
     }
+  ],
+  "week-20": [
+    {
+      "id": 1230664271,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5542",
+      "title": "AccountsQuery broken when fetching `supportedPaymentMethodService` without `orderBy`",
+      "number": 5542,
+      "closed_at": "2022-05-10T09:43:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 1207747185,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5454",
+      "title": "Default Search Page takes Too much Time to Load",
+      "number": 5454,
+      "closed_at": "2022-05-10T14:46:29Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 1013912000,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4764",
+      "title": "Suggest (or force) tags during Collective creation",
+      "number": 4764,
+      "closed_at": "2022-05-10T06:34:16Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 20
+    }
   ]
 }
