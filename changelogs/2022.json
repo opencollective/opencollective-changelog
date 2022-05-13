@@ -5457,6 +5457,106 @@
       ],
       "assignees": [],
       "closed_week": 20
+    },
+    {
+      "id": 1233087255,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5548",
+      "title": "GraphQL says Tier.interval is deprecated, however Tier.frequency is always null",
+      "number": 5548,
+      "closed_at": "2022-05-12T16:12:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 1197073817,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5412",
+      "title": "E2E Intermittent Failures: Contribution Flow - Guest contributions",
+      "number": 5412,
+      "closed_at": "2022-05-12T15:48:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
+    },
+    {
+      "id": 1176953556,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5351",
+      "title": "Notification emails should consistently come from no-reply@oc.com",
+      "number": 5351,
+      "closed_at": "2022-05-12T16:10:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "emails",
+          "color": "f4d7b5"
+        },
+        {
+          "name": "papercuts",
+          "color": "f2eecb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
