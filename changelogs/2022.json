@@ -5557,6 +5557,46 @@
         }
       ],
       "closed_week": 20
+    },
+    {
+      "id": 1201280113,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5422",
+      "title": "Show Tags on a collective's page",
+      "number": 5422,
+      "closed_at": "2022-05-13T17:42:53Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        }
+      ],
+      "closed_week": 20
     }
   ]
 }
