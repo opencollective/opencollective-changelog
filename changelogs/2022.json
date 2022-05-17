@@ -5598,5 +5598,67 @@
       ],
       "closed_week": 20
     }
+  ],
+  "week-21": [
+    {
+      "id": 1225706305,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5524",
+      "title": "InputTypeCountry filters by ISO and not Label",
+      "number": 5524,
+      "closed_at": "2022-05-16T18:25:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 1218308502,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5497",
+      "title": "Wrong message for Fiscal Hosts looking into deletion",
+      "number": 5497,
+      "closed_at": "2022-05-16T12:45:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    }
   ]
 }
