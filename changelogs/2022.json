@@ -5659,6 +5659,65 @@
         }
       ],
       "closed_week": 21
+    },
+    {
+      "id": 1238136331,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5564",
+      "title": "Broken expense page action buttons responsiveness",
+      "number": 5564,
+      "closed_at": "2022-05-17T18:50:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 1001664182,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4715",
+      "title": "New pattern for additional buttons on expense pages",
+      "number": 4715,
+      "closed_at": "2022-05-17T18:50:09Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 21
     }
   ]
 }
