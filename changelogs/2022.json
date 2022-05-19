@@ -5718,6 +5718,167 @@
         }
       ],
       "closed_week": 21
+    },
+    {
+      "id": 1239506330,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5569",
+      "title": "Searching to Slug Crashes due to Invalid Table Name",
+      "number": 5569,
+      "closed_at": "2022-05-18T14:41:07Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 1236569183,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5562",
+      "title": "Budget total and tooltip don't work for hosts",
+      "number": 5562,
+      "closed_at": "2022-05-18T14:41:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 1211469519,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5462",
+      "title": "When clicking on discover link  it takes too much time to load (AVG: 10sec)",
+      "number": 5462,
+      "closed_at": "2022-05-18T18:40:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 1150891297,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5260",
+      "title": "Apply Host fees to cross-Host expenses income",
+      "number": 5260,
+      "closed_at": "2022-05-18T18:53:13Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 1059810586,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4972",
+      "title": "Projects showing negative balances",
+      "number": 4972,
+      "closed_at": "2022-05-18T19:57:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 1019925484,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4797",
+      "title": "Remove 'assign/request a virtual card' options from projects",
+      "number": 4797,
+      "closed_at": "2022-05-18T19:49:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 962435645,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4529",
+      "title": "Unreliable Collective report job",
+      "number": 4529,
+      "closed_at": "2022-05-18T19:38:28Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 931139418,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4402",
+      "title": "Collective balance checks for virtual cards",
+      "number": 4402,
+      "closed_at": "2022-05-18T19:37:39Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
+    },
+    {
+      "id": 928084254,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4388",
+      "title": "Adding funds to Funds should not write a debit to the transaction list",
+      "number": 4388,
+      "closed_at": "2022-05-18T19:33:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 21
     }
   ]
 }
