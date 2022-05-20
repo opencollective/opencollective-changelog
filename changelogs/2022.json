@@ -5879,6 +5879,58 @@
       ],
       "assignees": [],
       "closed_week": 21
+    },
+    {
+      "id": 1239502367,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5568",
+      "title": "Add support for period punctuation mark in `/search`",
+      "number": 5568,
+      "closed_at": "2022-05-19T09:47:31Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
+    },
+    {
+      "id": 1216814605,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5494",
+      "title": "Do not send notifications or issue a receipt when source is Collective itself",
+      "number": 5494,
+      "closed_at": "2022-05-19T17:37:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 21
     }
   ]
 }
