@@ -5932,5 +5932,35 @@
       ],
       "closed_week": 21
     }
+  ],
+  "week-22": [
+    {
+      "id": 1242531404,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5577",
+      "title": "Open Collective host shows as pending on mobile expense page",
+      "number": 5577,
+      "closed_at": "2022-05-23T15:21:56Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 22
+    }
   ]
 }
