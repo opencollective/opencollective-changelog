@@ -5961,6 +5961,33 @@
         }
       ],
       "closed_week": 22
+    },
+    {
+      "id": 1175668914,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5346",
+      "title": "oAuth: login screen to connect with Open Collective",
+      "number": 5346,
+      "closed_at": "2022-05-24T07:05:00Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "oauth",
+          "color": "BBDE9C"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
     }
   ]
 }
