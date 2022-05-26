@@ -5988,6 +5988,115 @@
       ],
       "assignees": [],
       "closed_week": 22
+    },
+    {
+      "id": 1248181651,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5587",
+      "title": "Human error in the process of linking GitHub Sponsors?",
+      "number": 5587,
+      "closed_at": "2022-05-25T14:52:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
+    },
+    {
+      "id": 1175301937,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5344",
+      "title": "OAuth: Manage authorized apps",
+      "number": 5344,
+      "closed_at": "2022-05-25T10:38:51Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "oauth",
+          "color": "BBDE9C"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
+    },
+    {
+      "id": 1169397883,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5326",
+      "title": "Policies are not inherited by projects",
+      "number": 5326,
+      "closed_at": "2022-05-25T10:17:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "macovedj",
+          "html_url": "https://github.com/macovedj"
+        }
+      ],
+      "closed_week": 22
+    },
+    {
+      "id": 1077313821,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5030",
+      "title": "Re-send admin invitation email",
+      "number": 5030,
+      "closed_at": "2022-05-25T09:05:34Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 22
     }
   ]
 }
