@@ -6097,6 +6097,34 @@
       ],
       "assignees": [],
       "closed_week": 22
+    },
+    {
+      "id": 1242688038,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5578",
+      "title": "Move or remove more actions button on submit expense step",
+      "number": 5578,
+      "closed_at": "2022-05-26T18:44:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 22
     }
   ]
 }
