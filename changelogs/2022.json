@@ -6126,5 +6126,115 @@
       ],
       "closed_week": 22
     }
+  ],
+  "week-23": [
+    {
+      "id": 1250484225,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5595",
+      "title": "confirm cancellation of expense edit button unclear",
+      "number": 5595,
+      "closed_at": "2022-05-30T13:51:47Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 1241615937,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5574",
+      "title": "Update SignIn Success Page",
+      "number": 5574,
+      "closed_at": "2022-05-30T21:06:35Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 1235885000,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5559",
+      "title": "Do not Show `Relevancy` filter when no search term",
+      "number": 5559,
+      "closed_at": "2022-05-30T17:43:38Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 1235511057,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5554",
+      "title": "Add Support to Show Tags Based on URL in `/search` page",
+      "number": 5554,
+      "closed_at": "2022-05-30T16:58:17Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    }
   ]
 }
