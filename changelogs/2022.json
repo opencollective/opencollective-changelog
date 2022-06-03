@@ -6235,6 +6235,124 @@
         }
       ],
       "closed_week": 23
+    },
+    {
+      "id": 1255854429,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5608",
+      "title": "Check legal name in PDF Invoices of Incognito contributions",
+      "number": 5608,
+      "closed_at": "2022-06-02T13:51:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 1251105030,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5597",
+      "title": "\"Discover more\" link leads to a page that says \"Not found\"",
+      "number": 5597,
+      "closed_at": "2022-06-02T15:14:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
+    },
+    {
+      "id": 1090355450,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5074",
+      "title": "Remove search bar on discover page",
+      "number": 5074,
+      "closed_at": "2022-06-02T22:22:05Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
+    },
+    {
+      "id": 551430779,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2830",
+      "title": "Easy url to discover collectives by tag",
+      "number": 2830,
+      "closed_at": "2022-06-02T22:27:49Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "blocked → waiting parent",
+          "color": "b60205"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 23
     }
   ]
 }
