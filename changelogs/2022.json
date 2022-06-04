@@ -6353,6 +6353,34 @@
       ],
       "assignees": [],
       "closed_week": 23
+    },
+    {
+      "id": 1258851032,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5612",
+      "title": "Make the `TopBarV2.js` Logo more Responsive on Different Screen Sizes",
+      "number": 5612,
+      "closed_at": "2022-06-03T20:46:47Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 23
     }
   ]
 }
