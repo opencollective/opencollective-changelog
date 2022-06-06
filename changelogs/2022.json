@@ -6382,5 +6382,35 @@
       ],
       "closed_week": 23
     }
+  ],
+  "week-24": [
+    {
+      "id": 1252995883,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5602",
+      "title": "Make the Country and Sorting and Type filter Fixed when Changing Search Term",
+      "number": 5602,
+      "closed_at": "2022-06-05T23:31:21Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    }
   ]
 }
