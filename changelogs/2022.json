@@ -6411,6 +6411,194 @@
         }
       ],
       "closed_week": 24
+    },
+    {
+      "id": 1264650434,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5630",
+      "title": "Add Rate Limiting for `/users/signin`",
+      "number": 5630,
+      "closed_at": "2022-06-08T12:56:41Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1263857816,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5627",
+      "title": "Don't display previous state after button load",
+      "number": 5627,
+      "closed_at": "2022-06-08T09:22:40Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1259855139,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5617",
+      "title": "Virtual Cards: Add receipt to card Charge that is still processing",
+      "number": 5617,
+      "closed_at": "2022-06-08T13:52:10Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1256391803,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5609",
+      "title": "Add Accessiblity to NavBar Menu Items",
+      "number": 5609,
+      "closed_at": "2022-06-08T13:24:30Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1247972668,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5585",
+      "title": "\"Resend invite\" button positioning issues",
+      "number": 5585,
+      "closed_at": "2022-06-08T10:14:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "palerdot",
+          "html_url": "https://github.com/palerdot"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1246521451,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5583",
+      "title": "Wrong Vendor name attached to Virtual Card charge expense",
+      "number": 5583,
+      "closed_at": "2022-06-08T13:59:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1237122402,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5563",
+      "title": "Change Design of Showing More Tags in Collective Page from Modal to Dropdown",
+      "number": 5563,
+      "closed_at": "2022-06-08T14:34:25Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
     }
   ]
 }
