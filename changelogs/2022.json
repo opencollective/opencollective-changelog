@@ -6599,6 +6599,90 @@
         }
       ],
       "closed_week": 24
+    },
+    {
+      "id": 1265662210,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5636",
+      "title": "Host showing as pending on expense page",
+      "number": 5636,
+      "closed_at": "2022-06-09T12:11:01Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1265542071,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5635",
+      "title": "Profile Menu alignment is wierd",
+      "number": 5635,
+      "closed_at": "2022-06-09T07:03:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1246471254,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5582",
+      "title": "Broken \"Refunded\" and \"Completed\" expense filters",
+      "number": 5582,
+      "closed_at": "2022-06-09T14:08:58Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
     }
   ]
 }
