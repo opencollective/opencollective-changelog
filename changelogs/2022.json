@@ -6683,6 +6683,122 @@
         }
       ],
       "closed_week": 24
+    },
+    {
+      "id": 1265690248,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5637",
+      "title": "Refactor Code for a Better Fix for Profile Menu Dropdown Accessiblity + DOM Nesting",
+      "number": 5637,
+      "closed_at": "2022-06-10T12:57:23Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1264779275,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5632",
+      "title": "Add Search Bar Popup when User Clicks on Search Link in Nav Bar",
+      "number": 5632,
+      "closed_at": "2022-06-10T14:13:36Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1234411504,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5551",
+      "title": "Add CSS Grid Setup for the `/search` page and Sync Type Filters with Design",
+      "number": 5551,
+      "closed_at": "2022-06-10T12:56:58Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 24
+    },
+    {
+      "id": 1205185459,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5441",
+      "title": "MemberForm: Can't use `delete` button to remove characters in the description field",
+      "number": 5441,
+      "closed_at": "2022-06-10T07:25:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 24
     }
   ]
 }
