@@ -6800,5 +6800,35 @@
       ],
       "closed_week": 24
     }
+  ],
+  "week-25": [
+    {
+      "id": 1267061890,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5641",
+      "title": "Date Filter Auto Reset Dates Incorrectly",
+      "number": 5641,
+      "closed_at": "2022-06-13T12:18:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 25
+    }
   ]
 }
