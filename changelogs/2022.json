@@ -6829,6 +6829,34 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 1241550115,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5572",
+      "title": "Change SignIn/Join Flow to Use a Single Unified Page",
+      "number": 5572,
+      "closed_at": "2022-06-14T10:40:15Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
