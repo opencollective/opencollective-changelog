@@ -6857,6 +6857,30 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 1241566618,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5573",
+      "title": "Show the User Profile Creation and Organization Creation As Seperate Pages",
+      "number": 5573,
+      "closed_at": "2022-06-15T13:31:36Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
