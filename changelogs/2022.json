@@ -6881,6 +6881,38 @@
         }
       ],
       "closed_week": 25
+    },
+    {
+      "id": 1270563164,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5660",
+      "title": "Can't contribute to an event after it's over",
+      "number": 5660,
+      "closed_at": "2022-06-17T12:31:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 25
     }
   ]
 }
