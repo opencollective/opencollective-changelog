@@ -6914,5 +6914,71 @@
       ],
       "closed_week": 25
     }
+  ],
+  "week-26": [
+    {
+      "id": 1275369159,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5674",
+      "title": "Changelog Not Showing 2022 Entries",
+      "number": 5674,
+      "closed_at": "2022-06-21T11:44:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "changelog",
+          "color": "1d76db"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 467015468,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2232",
+      "title": "Improve search with multiple tag selection",
+      "number": 2232,
+      "closed_at": "2022-06-21T14:45:51Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    }
   ]
 }
