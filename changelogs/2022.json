@@ -6979,6 +6979,150 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 1278881819,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5683",
+      "title": "`StyledModal` Close Icon Not Accessible",
+      "number": 5683,
+      "closed_at": "2022-06-22T12:53:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 1275850442,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5676",
+      "title": "Change Background Image of `/search` Page Header",
+      "number": 5676,
+      "closed_at": "2022-06-22T17:31:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 1271297838,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5663",
+      "title": "Preserve SignIn/Create Account Form States",
+      "number": 5663,
+      "closed_at": "2022-06-22T22:20:21Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 1267319276,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5642",
+      "title": "FInish Button on Add funds modal not working",
+      "number": 5642,
+      "closed_at": "2022-06-22T17:32:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
+    },
+    {
+      "id": 1262221825,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5621",
+      "title": "Global Style Changes to `StyledFilters.js`",
+      "number": 5621,
+      "closed_at": "2022-06-22T17:27:35Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 26
     }
   ]
 }
