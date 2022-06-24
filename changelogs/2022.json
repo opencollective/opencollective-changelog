@@ -7123,6 +7123,34 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 1138125011,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5232",
+      "title": "Invoice expenses must have payee address",
+      "number": 5232,
+      "closed_at": "2022-06-23T19:36:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 26
     }
   ]
 }
