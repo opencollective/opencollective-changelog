@@ -7151,6 +7151,33 @@
         }
       ],
       "closed_week": 26
+    },
+    {
+      "id": 1218625901,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5500",
+      "title": "Expose consolidated balance accross Collective, Project and Events",
+      "number": 5500,
+      "closed_at": "2022-06-24T11:48:55Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 26
     }
   ]
 }
