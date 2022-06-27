@@ -7179,5 +7179,30 @@
       "assignees": [],
       "closed_week": 26
     }
+  ],
+  "week-27": [
+    {
+      "id": 1098425088,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5110",
+      "title": "Expense attachment preview broken",
+      "number": 5110,
+      "closed_at": "2022-06-26T21:17:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "images",
+          "color": "a7ef8d"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
+    }
   ]
 }
