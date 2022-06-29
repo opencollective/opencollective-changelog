@@ -7203,6 +7203,89 @@
       ],
       "assignees": [],
       "closed_week": 27
+    },
+    {
+      "id": 1256818775,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5610",
+      "title": "Remove `TopBar.js` in favor of `TopBarV2.js`",
+      "number": 5610,
+      "closed_at": "2022-06-28T17:48:32Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 1252190646,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5600",
+      "title": "Show date/name on pending invitation",
+      "number": 5600,
+      "closed_at": "2022-06-28T07:40:03Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Appsens",
+          "html_url": "https://github.com/Appsens"
+        }
+      ],
+      "closed_week": 27
+    },
+    {
+      "id": 974165226,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4556",
+      "title": "Collective Admins want to Track Balance on Virtual Cards",
+      "number": 4556,
+      "closed_at": "2022-06-28T14:21:50Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 27
     }
   ]
 }
