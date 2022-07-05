@@ -7350,5 +7350,103 @@
       "assignees": [],
       "closed_week": 27
     }
+  ],
+  "week-28": [
+    {
+      "id": 1292710523,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5708",
+      "title": "Host admins should be allowed to see private updates",
+      "number": 5708,
+      "closed_at": "2022-07-04T15:39:51Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "updates",
+          "color": "DDD8D7"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 1175668914,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5346",
+      "title": "OAuth: login screen to connect with Open Collective",
+      "number": 5346,
+      "closed_at": "2022-07-04T10:36:30Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "oauth",
+          "color": "BBDE9C"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
+    },
+    {
+      "id": 1027258670,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4832",
+      "title": "Spacing issue with collective goal labels",
+      "number": 4832,
+      "closed_at": "2022-07-04T09:43:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 28
+    }
   ]
 }
