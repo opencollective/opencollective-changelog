@@ -7447,6 +7447,34 @@
         }
       ],
       "closed_week": 28
+    },
+    {
+      "id": 1295869775,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5724",
+      "title": "`kamilkisiela / graphql-inspector` GitHub Action Step Fails on Recent PRs",
+      "number": 5724,
+      "closed_at": "2022-07-07T13:24:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
