@@ -7475,6 +7475,34 @@
         }
       ],
       "closed_week": 28
+    },
+    {
+      "id": 1292853624,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5709",
+      "title": "Sign in overlay overlaps other parts of the interface",
+      "number": 5709,
+      "closed_at": "2022-07-08T14:34:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 28
     }
   ]
 }
