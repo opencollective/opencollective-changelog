@@ -7504,5 +7504,103 @@
       ],
       "closed_week": 28
     }
+  ],
+  "week-29": [
+    {
+      "id": 1213281888,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5468",
+      "title": "Private instructions on Events should render as pre",
+      "number": 5468,
+      "closed_at": "2022-07-11T06:31:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$100",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 29
+    },
+    {
+      "id": 533096094,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2682",
+      "title": "Customizable \"thank you\" email to contributors",
+      "number": 2682,
+      "closed_at": "2022-07-11T20:10:43Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        },
+        {
+          "name": "needs specs",
+          "color": "efaba2"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "BenJam",
+          "html_url": "https://github.com/BenJam"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 29
+    }
   ]
 }
