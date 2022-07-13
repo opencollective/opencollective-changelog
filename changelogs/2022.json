@@ -7601,6 +7601,38 @@
         }
       ],
       "closed_week": 29
+    },
+    {
+      "id": 1294200407,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5717",
+      "title": "OAuth: add a minimal delay while redirecting",
+      "number": 5717,
+      "closed_at": "2022-07-12T09:55:55Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "oauth",
+          "color": "BBDE9C"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 29
     }
   ]
 }
