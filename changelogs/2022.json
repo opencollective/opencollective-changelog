@@ -7633,6 +7633,59 @@
         }
       ],
       "closed_week": 29
+    },
+    {
+      "id": 1302523134,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5739",
+      "title": ":Fire: Notification for pending invitations",
+      "number": 5739,
+      "closed_at": "2022-07-13T17:44:56Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 29
+    },
+    {
+      "id": 1302216655,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5738",
+      "title": "Unable to submit expenses due to: ERROR Wise: There was an error while creating Wise's recipient",
+      "number": 5738,
+      "closed_at": "2022-07-13T11:11:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "support",
+          "color": "5319e7"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 29
+    },
+    {
+      "id": 1020811732,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4806",
+      "title": "Add consolidated balance in Budget (inlcuding projects and events)",
+      "number": 4806,
+      "closed_at": "2022-07-13T09:45:45Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 29
     }
   ]
 }
