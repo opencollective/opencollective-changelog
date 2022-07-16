@@ -7686,6 +7686,25 @@
       ],
       "assignees": [],
       "closed_week": 29
+    },
+    {
+      "id": 1304690055,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5743",
+      "title": "[URGENT] \"There was an error while creating Wise's recipient\"",
+      "number": 5743,
+      "closed_at": "2022-07-15T10:58:57Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "support",
+          "color": "5319e7"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 29
     }
   ]
 }
