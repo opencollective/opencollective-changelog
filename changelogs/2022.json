@@ -7706,5 +7706,93 @@
       "assignees": [],
       "closed_week": 29
     }
+  ],
+  "week-30": [
+    {
+      "id": 1293644485,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5714",
+      "title": "Change card layout of the search page to the one that the old discovery page had",
+      "number": 5714,
+      "closed_at": "2022-07-18T12:54:27Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 1210294850,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5460",
+      "title": "Redirect Open Collective contact button to support page",
+      "number": 5460,
+      "closed_at": "2022-07-18T11:02:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    },
+    {
+      "id": 682542558,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3415",
+      "title": "Reading \"email\" on Organization in GraphQL is inaccurate",
+      "number": 3415,
+      "closed_at": "2022-07-18T16:09:05Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
+    }
   ]
 }
