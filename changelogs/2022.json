@@ -7793,6 +7793,29 @@
       ],
       "assignees": [],
       "closed_week": 30
+    },
+    {
+      "id": 1150682108,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5258",
+      "title": "API can't be developed/tested locally without S3 key",
+      "number": 5258,
+      "closed_at": "2022-07-19T15:11:15Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 30
     }
   ]
 }
