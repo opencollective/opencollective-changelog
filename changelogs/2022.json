@@ -7816,6 +7816,34 @@
       ],
       "assignees": [],
       "closed_week": 30
+    },
+    {
+      "id": 1309885439,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5760",
+      "title": "Custom Message Not Sent for Event Tickets",
+      "number": 5760,
+      "closed_at": "2022-07-21T12:50:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
