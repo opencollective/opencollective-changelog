@@ -7844,6 +7844,130 @@
         }
       ],
       "closed_week": 30
+    },
+    {
+      "id": 919278997,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4360",
+      "title": "Represent funds coming through Events and Projects in the parent Collective budget stats",
+      "number": 4360,
+      "closed_at": "2022-07-22T10:54:33Z",
+      "labels": [
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "needs specs",
+          "color": "efaba2"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 821499839,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4056",
+      "title": "Remove the Host Plan selection settings",
+      "number": 4056,
+      "closed_at": "2022-07-22T10:53:16Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "host plans",
+          "color": "e0e261"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 30
+    },
+    {
+      "id": 790653966,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3875",
+      "title": "Add running balance column to transactions CSV export",
+      "number": 3875,
+      "closed_at": "2022-07-22T10:46:27Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 30
     }
   ]
 }
