@@ -7969,5 +7969,79 @@
       ],
       "closed_week": 30
     }
+  ],
+  "week-31": [
+    {
+      "id": 1314396486,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5778",
+      "title": "Custom message in \"Thank you\" email not working with custom templates",
+      "number": 5778,
+      "closed_at": "2022-07-25T12:59:41Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 1310647864,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5765",
+      "title": "Horizontal scroll on the homepage on Chrome/Edge/Brave",
+      "number": 5765,
+      "closed_at": "2022-07-25T09:39:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "P3",
+          "color": "FBCA04"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 31
+    }
   ]
 }
