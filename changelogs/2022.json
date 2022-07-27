@@ -8042,6 +8042,90 @@
         }
       ],
       "closed_week": 31
+    },
+    {
+      "id": 1313819846,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5776",
+      "title": "Custom text counter not including links",
+      "number": 5776,
+      "closed_at": "2022-07-26T07:36:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 1309597200,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5758",
+      "title": "New Applications Still Allow Single Admin",
+      "number": 5758,
+      "closed_at": "2022-07-26T17:10:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 31
+    },
+    {
+      "id": 1191627153,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5387",
+      "title": "Consolidate no-reply email addresses",
+      "number": 5387,
+      "closed_at": "2022-07-26T15:10:20Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 31
     }
   ]
 }
