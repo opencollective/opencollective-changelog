@@ -8127,5 +8127,126 @@
       ],
       "closed_week": 31
     }
+  ],
+  "week-32": [
+    {
+      "id": 1322905886,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5797",
+      "title": "Fixed width buttons do not work well in other languages",
+      "number": 5797,
+      "closed_at": "2022-08-01T06:36:18Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
+    },
+    {
+      "id": 1321910082,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5795",
+      "title": "Enable the \"Connected collectives\" feature for Events & Projects",
+      "number": 5795,
+      "closed_at": "2022-08-01T08:05:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 1314375172,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5777",
+      "title": "Clicking \"Save\" after toggling the \"Custom contribution\" checkbox resets it",
+      "number": 5777,
+      "closed_at": "2022-08-01T12:14:22Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "P1",
+          "color": "DA4148"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 1226463546,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5529",
+      "title": "Strip `#` character from user-submitted tags",
+      "number": 5529,
+      "closed_at": "2022-08-01T12:15:16Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
+    }
   ]
 }
