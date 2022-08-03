@@ -8247,6 +8247,74 @@
         }
       ],
       "closed_week": 32
+    },
+    {
+      "id": 1326231322,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5810",
+      "title": "Downloading Receipts Gives Error",
+      "number": 5810,
+      "closed_at": "2022-08-02T21:11:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "pdf",
+          "color": "30913E"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 32
+    },
+    {
+      "id": 992600825,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4662",
+      "title": "Improve user search input placeholder",
+      "number": 4662,
+      "closed_at": "2022-08-02T14:03:09Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 32
     }
   ]
 }
