@@ -8315,6 +8315,29 @@
         }
       ],
       "closed_week": 32
+    },
+    {
+      "id": 1218425052,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5499",
+      "title": "Show order IDs in transactions list",
+      "number": 5499,
+      "closed_at": "2022-08-03T19:58:05Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 32
     }
   ]
 }
