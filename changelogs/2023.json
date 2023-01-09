@@ -1,0 +1,448 @@
+{
+  "week-1": [
+    {
+      "id": 1519724927,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6271",
+      "title": "`TransactionBalances` Materialized View Not Ordered by Create Date",
+      "number": 6271,
+      "closed_at": "2023-01-06T15:01:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1502076159,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6238",
+      "title": "Manual paypal processor fee showing wrong currency",
+      "number": 6238,
+      "closed_at": "2023-01-03T17:32:02Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1476994197,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6212",
+      "title": "Missing activity for \"Unschedule for Payment\"",
+      "number": 6212,
+      "closed_at": "2023-01-05T07:58:18Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1458295881,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6180",
+      "title": "Expense Tags are Not Displayed in Budget Section for Self Hosted Collectives",
+      "number": 6180,
+      "closed_at": "2023-01-07T11:55:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1443520835,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6130",
+      "title": "Try to adapt the collective's \"Budget\" section for user profiles",
+      "number": 6130,
+      "closed_at": "2023-01-06T10:02:30Z",
+      "labels": [
+        {
+          "name": "team",
+          "color": "cbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "needs design",
+          "color": "b1f3f9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    },
+    {
+      "id": 1405664637,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6050",
+      "title": "Add a button for users to download their recovery codes",
+      "number": 6050,
+      "closed_at": "2023-01-06T07:34:20Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "P4",
+          "color": "FEF2C0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1309124278,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5755",
+      "title": "Add infos about the Accountant role in the admin team section",
+      "number": 5755,
+      "closed_at": "2023-01-05T13:54:36Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1301708091,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5736",
+      "title": "Developers: revamp \"Applications\" and create \"Personal Tokens\"  settings",
+      "number": 5736,
+      "closed_at": "2023-01-03T10:43:09Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "oauth",
+          "color": "BBDE9C"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "flickz",
+          "html_url": "https://github.com/flickz"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 1203573846,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5431",
+      "title": "Feature: Manage pending Expenses and Charges",
+      "number": 5431,
+      "closed_at": "2023-01-07T11:18:48Z",
+      "labels": [
+        {
+          "name": "expenses",
+          "color": "43efb0"
+        },
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        },
+        {
+          "name": "virtual cards",
+          "color": "E9D7B0"
+        },
+        {
+          "name": "recurring expenses",
+          "color": "5975E5"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    },
+    {
+      "id": 1095098779,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5097",
+      "title": "Define custom social links for account",
+      "number": 5097,
+      "closed_at": "2023-01-06T13:10:45Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 1
+    },
+    {
+      "id": 992231405,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4655",
+      "title": "`idDecode` should throw an error when format is invalid",
+      "number": 4655,
+      "closed_at": "2023-01-06T15:07:37Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    },
+    {
+      "id": 918419093,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4357",
+      "title": "User menu closes when you click in it",
+      "number": 4357,
+      "closed_at": "2023-01-06T15:03:13Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    },
+    {
+      "id": 690006587,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3448",
+      "title": "Automatically set Notification channel to Slack",
+      "number": 3448,
+      "closed_at": "2023-01-06T14:38:46Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    },
+    {
+      "id": 462670555,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2185",
+      "title": "Monthly report recent sponsor activity: collectives are not grouped correctly",
+      "number": 2185,
+      "closed_at": "2023-01-06T14:02:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 1
+    }
+  ],
+  "week-2": [
+    {
+      "id": 1078296871,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5033",
+      "title": "Extend \"Pay 100% of expense amount\" to PayPal",
+      "number": 5033,
+      "closed_at": "2023-01-08T09:45:17Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "needs specs",
+          "color": "efaba2"
+        },
+        {
+          "name": "blocked → waiting third party",
+          "color": "B60205"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    }
+  ]
+}
