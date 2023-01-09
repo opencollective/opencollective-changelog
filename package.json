@@ -2,6 +2,10 @@
   "name": "opencollective-changelog",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
