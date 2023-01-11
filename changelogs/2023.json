@@ -443,6 +443,189 @@
         }
       ],
       "closed_week": 2
+    },
+    {
+      "id": 1522846460,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6279",
+      "title": "Signing Into Account While in Contribution Flow Sends Wrong URL to Email",
+      "number": 6279,
+      "closed_at": "2023-01-09T12:27:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1516459559,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6263",
+      "title": "Contribution flow: \"Share link\" in the contribution flow shouldn't copy an embedded link",
+      "number": 6263,
+      "closed_at": "2023-01-09T10:50:06Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1505292376,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6245",
+      "title": "Unable to register incognito for an event",
+      "number": 6245,
+      "closed_at": "2023-01-09T11:04:34Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 996631462,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4681",
+      "title": "Notifications components update",
+      "number": 4681,
+      "closed_at": "2023-01-09T11:56:05Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "accessibility",
+          "color": "4272b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "gustavlrsn",
+          "html_url": "https://github.com/gustavlrsn"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 934741016,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4415",
+      "title": "Move platform report email to metabase",
+      "number": 4415,
+      "closed_at": "2023-01-09T12:30:26Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "metabase",
+          "color": "D8E54A"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 538910143,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2734",
+      "title": "Enable recurring bank transfer contributions (SEPA)",
+      "number": 2734,
+      "closed_at": "2023-01-10T10:51:02Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 2
     }
   ]
 }
