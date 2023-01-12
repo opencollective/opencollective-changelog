@@ -626,6 +626,206 @@
         }
       ],
       "closed_week": 2
+    },
+    {
+      "id": 1527898459,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6294",
+      "title": "Event ticket 400 error",
+      "number": 6294,
+      "closed_at": "2023-01-11T12:35:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1520205363,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6273",
+      "title": "`redirect` parameter should redirect the parent in the embedded contributions flow",
+      "number": 6273,
+      "closed_at": "2023-01-11T08:17:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1516462387,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6264",
+      "title": "Provide a way to set \"One Time\" as an interval in URL params",
+      "number": 6264,
+      "closed_at": "2023-01-11T08:17:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1516443565,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6261",
+      "title": "Broken dev environment for Horizon project",
+      "number": 6261,
+      "closed_at": "2023-01-11T11:08:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "gustavlrsn",
+          "html_url": "https://github.com/gustavlrsn"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1449447642,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6167",
+      "title": "Layout issue with chart actions on host report",
+      "number": 6167,
+      "closed_at": "2023-01-11T18:14:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1435913323,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6103",
+      "title": "Contribution flow: add selected payment method in URL params",
+      "number": 6103,
+      "closed_at": "2023-01-11T08:10:51Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 2
+    },
+    {
+      "id": 1204788431,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5438",
+      "title": "Taxes refunds are not recorded properly in the ledger",
+      "number": 5438,
+      "closed_at": "2023-01-11T10:04:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 2
     }
   ]
 }
