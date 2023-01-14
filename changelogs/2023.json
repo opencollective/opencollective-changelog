@@ -826,6 +826,44 @@
         }
       ],
       "closed_week": 2
+    },
+    {
+      "id": 1462842496,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6186",
+      "title": "Unable to Verify using Github",
+      "number": 6186,
+      "closed_at": "2023-01-12T13:46:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
+    },
+    {
+      "id": 1451469992,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6170",
+      "title": "Ability to search/filter for collectives with an OR-operator on tags array",
+      "number": 6170,
+      "closed_at": "2023-01-13T10:23:22Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 2
     }
   ]
 }
