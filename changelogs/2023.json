@@ -865,5 +865,30 @@
       "assignees": [],
       "closed_week": 2
     }
+  ],
+  "week-3": [
+    {
+      "id": 1014267444,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4769",
+      "title": "Invalid upload receipts error message",
+      "number": 4769,
+      "closed_at": "2023-01-16T13:49:06Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    }
   ]
 }
