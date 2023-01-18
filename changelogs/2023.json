@@ -889,6 +889,70 @@
       ],
       "assignees": [],
       "closed_week": 3
+    },
+    {
+      "id": 1523479022,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6280",
+      "title": "Apply with new collective fails on OSC",
+      "number": 6280,
+      "closed_at": "2023-01-17T10:18:59Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "gustavlrsn",
+          "html_url": "https://github.com/gustavlrsn"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 984425518,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4611",
+      "title": "Projects and Events can have their own different admins",
+      "number": 4611,
+      "closed_at": "2023-01-17T15:14:22Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "projects and events",
+          "color": "7492E6"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
