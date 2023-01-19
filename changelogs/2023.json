@@ -953,6 +953,54 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 1536045313,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6334",
+      "title": "GST on expenses missing",
+      "number": 6334,
+      "closed_at": "2023-01-18T10:54:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1520222096,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6274",
+      "title": "Additional `https://` prefix appended in contact support page",
+      "number": 6274,
+      "closed_at": "2023-01-18T17:49:08Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
