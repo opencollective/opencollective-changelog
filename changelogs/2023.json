@@ -1001,6 +1001,372 @@
         }
       ],
       "closed_week": 3
+    },
+    {
+      "id": 1549179225,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6344",
+      "title": "Enabling new budget section for users crashes the profile page",
+      "number": 6344,
+      "closed_at": "2023-01-19T14:03:41Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1536091745,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6336",
+      "title": "New tiers page not working with organizations",
+      "number": 6336,
+      "closed_at": "2023-01-19T10:41:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1536010511,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6332",
+      "title": "Missing quantity when editing tiers through the new interface",
+      "number": 6332,
+      "closed_at": "2023-01-19T10:41:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1535963588,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6331",
+      "title": "Tiers not refreshed properly on collective page after saving (using latest design)",
+      "number": 6331,
+      "closed_at": "2023-01-19T10:41:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1535962201,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6330",
+      "title": "Use the latest tiers page design for event tickets",
+      "number": 6330,
+      "closed_at": "2023-01-19T13:25:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1532483390,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6313",
+      "title": "Contribution Flow: force the summary step when skipping details",
+      "number": 6313,
+      "closed_at": "2023-01-19T10:40:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1532477861,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6312",
+      "title": "Contribution flow: guest profile info missing when sharing URL",
+      "number": 6312,
+      "closed_at": "2023-01-19T10:40:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1532074314,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6310",
+      "title": "Tip amount warning is not considering quantity",
+      "number": 6310,
+      "closed_at": "2023-01-19T10:40:29Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 798232982,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3934",
+      "title": "Tax amount wrongly recorded for platform tips",
+      "number": 3934,
+      "closed_at": "2023-01-19T10:39:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "ledger",
+          "color": "2444a5"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 705262673,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3531",
+      "title": "Improve error handling in tier creation",
+      "number": 3531,
+      "closed_at": "2023-01-19T10:42:50Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
+    },
+    {
+      "id": 687845230,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3438",
+      "title": "Redesign the page to edit tiers",
+      "number": 3438,
+      "closed_at": "2023-01-19T10:41:44Z",
+      "labels": [
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        },
+        {
+          "login": "aminakazi",
+          "html_url": "https://github.com/aminakazi"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 641668319,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3263",
+      "title": "\"Enable custom contribution\" should be linked to the save button",
+      "number": 3263,
+      "closed_at": "2023-01-19T10:42:45Z",
+      "labels": [
+        {
+          "name": "events",
+          "color": "f9d0c4"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "wontfix",
+          "color": "fca6c4"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 3
     }
   ]
 }
