@@ -1367,6 +1367,62 @@
       ],
       "assignees": [],
       "closed_week": 3
+    },
+    {
+      "id": 1550398191,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6354",
+      "title": "New Tier Page Ticket Creation Shown Incorrect Fields",
+      "number": 6354,
+      "closed_at": "2023-01-20T09:00:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
+    },
+    {
+      "id": 1536053789,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6335",
+      "title": "Tier presets validation error",
+      "number": 6335,
+      "closed_at": "2023-01-20T10:19:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 3
     }
   ]
 }
