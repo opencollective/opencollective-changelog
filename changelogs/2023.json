@@ -1424,5 +1424,55 @@
       ],
       "closed_week": 3
     }
+  ],
+  "week-4": [
+    {
+      "id": 1552454805,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6359",
+      "title": "Submit expense modal breaks to show legal name warning",
+      "number": 6359,
+      "closed_at": "2023-01-23T09:25:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 1552447868,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6358",
+      "title": "Submit expense form use of screen space",
+      "number": 6358,
+      "closed_at": "2023-01-23T09:25:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
+    }
   ]
 }
