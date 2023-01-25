@@ -1473,6 +1473,54 @@
         }
       ],
       "closed_week": 4
+    },
+    {
+      "id": 1536026680,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6333",
+      "title": "Don't allow SWIFT for US payouts",
+      "number": 6333,
+      "closed_at": "2023-01-24T16:17:01Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 1093186021,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5086",
+      "title": "Users should only be able to register for an event once (by default)",
+      "number": 5086,
+      "closed_at": "2023-01-24T16:48:01Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 4
     }
   ]
 }
