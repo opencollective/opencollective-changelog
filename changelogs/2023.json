@@ -1521,6 +1521,82 @@
         }
       ],
       "closed_week": 4
+    },
+    {
+      "id": 1554104407,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6365",
+      "title": "Wrong GST amount charged on single Collective",
+      "number": 6365,
+      "closed_at": "2023-01-25T11:19:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 1552776028,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6362",
+      "title": "Can't pay multi-currency expense",
+      "number": 6362,
+      "closed_at": "2023-01-25T20:37:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 1125856571,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5206",
+      "title": "Reset multi-currency expense's currencies when changing payout method",
+      "number": 5206,
+      "closed_at": "2023-01-25T20:37:34Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "P4",
+          "color": "FEF2C0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 4
     }
   ]
 }
