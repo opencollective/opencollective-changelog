@@ -1700,6 +1700,66 @@
         }
       ],
       "closed_week": 4
+    },
+    {
+      "id": 1549583044,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6347",
+      "title": "Improve the way we record files on S3",
+      "number": 6347,
+      "closed_at": "2023-01-27T13:47:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "blocked → waiting parent",
+          "color": "b60205"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
+    },
+    {
+      "id": 1549554272,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6345",
+      "title": "Implement new model for Uploaded Files",
+      "number": 6345,
+      "closed_at": "2023-01-27T12:04:31Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 4
     }
   ]
 }
