@@ -1761,5 +1761,120 @@
       ],
       "closed_week": 4
     }
+  ],
+  "week-5": [
+    {
+      "id": 1561602527,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6380",
+      "title": "Contributors not appearing",
+      "number": 6380,
+      "closed_at": "2023-01-30T13:59:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        },
+        {
+          "name": "task",
+          "color": "d16d49"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    },
+    {
+      "id": 1553166520,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6364",
+      "title": "Children Collective Admins Followup",
+      "number": 6364,
+      "closed_at": "2023-01-30T10:39:52Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1535361584,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6329",
+      "title": "Profile page error",
+      "number": 6329,
+      "closed_at": "2023-01-30T09:03:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    },
+    {
+      "id": 1353545598,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5915",
+      "title": "Do not show minimum admins on application for hosts that don't require it",
+      "number": 5915,
+      "closed_at": "2023-01-30T13:49:51Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1331576272,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5836",
+      "title": "Open Collective projects don't work on Windows",
+      "number": 5836,
+      "closed_at": "2023-01-30T09:04:13Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 5
+    }
   ]
 }
