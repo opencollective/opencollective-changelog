@@ -1875,6 +1875,50 @@
       ],
       "assignees": [],
       "closed_week": 5
+    },
+    {
+      "id": 1567856910,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6386",
+      "title": "Value \"BACS_DEBIT\" does not exist in \"PaymentMethodType\" enum.",
+      "number": 6386,
+      "closed_at": "2023-02-02T11:36:33Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1564487386,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6384",
+      "title": "final \"ticket.confirmed\" webhook no longer being sent for paid orders, \"order.processing\" sent first instead",
+      "number": 6384,
+      "closed_at": "2023-02-02T18:46:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 5
     }
   ]
 }
