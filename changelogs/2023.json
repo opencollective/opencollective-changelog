@@ -1919,6 +1919,166 @@
         }
       ],
       "closed_week": 5
+    },
+    {
+      "id": 1560637585,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6379",
+      "title": "recurring expense lost currency",
+      "number": 6379,
+      "closed_at": "2023-02-03T10:25:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "to reproduce",
+          "color": "B60205"
+        },
+        {
+          "name": "need steps",
+          "color": "3662b5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1549576196,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6346",
+      "title": "Add new types for Uploaded Files in GraphQL",
+      "number": 6346,
+      "closed_at": "2023-02-03T14:22:59Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1391113109,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6005",
+      "title": "Rename \"Two-factor Authentication\" to \"Security\" in the admin menu",
+      "number": 6005,
+      "closed_at": "2023-02-03T12:06:42Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 1136688119,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5229",
+      "title": "Allow all admins to see draft expenses",
+      "number": 5229,
+      "closed_at": "2023-02-03T11:51:08Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 5
+    },
+    {
+      "id": 411095397,
+      "html_url": "https://github.com/opencollective/opencollective/issues/1738",
+      "title": "Allow usual username/mail + password login",
+      "number": 1738,
+      "closed_at": "2023-02-03T11:47:29Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → complex",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "znarf",
+          "html_url": "https://github.com/znarf"
+        },
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 5
     }
   ]
 }
