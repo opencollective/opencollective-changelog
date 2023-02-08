@@ -2109,6 +2109,29 @@
         }
       ],
       "closed_week": 6
+    },
+    {
+      "id": 1251987713,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5599",
+      "title": "Problems with selecting the contributor profile when adding funds to a collective",
+      "number": 5599,
+      "closed_at": "2023-02-07T09:54:15Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "to reproduce",
+          "color": "B60205"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 6
     }
   ]
 }
