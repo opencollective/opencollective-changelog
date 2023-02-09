@@ -2132,6 +2132,69 @@
       ],
       "assignees": [],
       "closed_week": 6
+    },
+    {
+      "id": 1534969047,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6326",
+      "title": "Improve tag validation",
+      "number": 6326,
+      "closed_at": "2023-02-08T09:45:07Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 6
+    },
+    {
+      "id": 1001529271,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4714",
+      "title": "Reset 2FA from root admin dashboard",
+      "number": 4714,
+      "closed_at": "2023-02-08T09:11:44Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "blocked → waiting parent",
+          "color": "b60205"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "BenJam",
+          "html_url": "https://github.com/BenJam"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 6
     }
   ]
 }
