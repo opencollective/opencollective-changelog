@@ -2196,5 +2196,59 @@
       ],
       "closed_week": 6
     }
+  ],
+  "week-7": [
+    {
+      "id": 1578322967,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6407",
+      "title": "Crypto Flow Inconsistencies",
+      "number": 6407,
+      "closed_at": "2023-02-13T17:11:33Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    },
+    {
+      "id": 1577115768,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6401",
+      "title": "Error while paying with crypto: value \"4586059860\" is out of range for type integer ",
+      "number": 6401,
+      "closed_at": "2023-02-13T17:11:34Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
+    }
   ]
 }
