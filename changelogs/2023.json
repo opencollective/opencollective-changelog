@@ -2249,6 +2249,34 @@
         }
       ],
       "closed_week": 7
+    },
+    {
+      "id": 1583185999,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6417",
+      "title": "Add Crypto Enabling Checkbox to New Tier Settings",
+      "number": 6417,
+      "closed_at": "2023-02-14T17:27:35Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 7
     }
   ]
 }
