@@ -2293,5 +2293,39 @@
       "assignees": [],
       "closed_week": 7
     }
+  ],
+  "week-8": [
+    {
+      "id": 1589096464,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6429",
+      "title": "CSS issue pop up actions menu (regression)",
+      "number": 6429,
+      "closed_at": "2023-02-20T13:15:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "browser > safari",
+          "color": "FDCE69"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 8
+    }
   ]
 }
