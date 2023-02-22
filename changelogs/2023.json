@@ -2326,6 +2326,108 @@
         }
       ],
       "closed_week": 8
+    },
+    {
+      "id": 1581289984,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6413",
+      "title": "Command \"npm run build:e2e\" doesn't work for Windows",
+      "number": 6413,
+      "closed_at": "2023-02-21T10:38:38Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 8
+    },
+    {
+      "id": 1550716982,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6355",
+      "title": "New expense: bank transfer error message ",
+      "number": 6355,
+      "closed_at": "2023-02-21T13:46:24Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 1393633335,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6013",
+      "title": "Recurring expense should not lead to creating new payee profile if logged out",
+      "number": 6013,
+      "closed_at": "2023-02-21T19:00:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 8
+    },
+    {
+      "id": 551313450,
+      "html_url": "https://github.com/opencollective/opencollective/issues/2825",
+      "title": "Conversations: permalink to a particular response",
+      "number": 2825,
+      "closed_at": "2023-02-21T16:17:36Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 8
     }
   ]
 }
