@@ -2428,6 +2428,30 @@
       ],
       "assignees": [],
       "closed_week": 8
+    },
+    {
+      "id": 1594372870,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6458",
+      "title": "Cannot Add New Bank Acount from `accept-financial-contributions` page",
+      "number": 6458,
+      "closed_at": "2023-02-25T16:02:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 8
     }
   ]
 }
