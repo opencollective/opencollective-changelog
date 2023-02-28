@@ -2453,5 +2453,99 @@
       ],
       "closed_week": 8
     }
+  ],
+  "week-9": [
+    {
+      "id": 1600270900,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6474",
+      "title": "don't force 2fa for VC receipt upload",
+      "number": 6474,
+      "closed_at": "2023-02-27T14:51:41Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1388985545,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6000",
+      "title": "Create a template project for alternative frontends",
+      "number": 6000,
+      "closed_at": "2023-02-27T10:40:37Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1225649166,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5523",
+      "title": "Automatically suggest & autocomplete tags in `StyledInputTags` component",
+      "number": 5523,
+      "closed_at": "2023-02-27T11:32:36Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "gustavlrsn",
+          "html_url": "https://github.com/gustavlrsn"
+        },
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    }
   ]
 }
