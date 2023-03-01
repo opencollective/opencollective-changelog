@@ -2546,6 +2546,157 @@
         }
       ],
       "closed_week": 9
+    },
+    {
+      "id": 1602455497,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6483",
+      "title": "Add Update create/publish Webhooks Events for Slack/Discord Notifications",
+      "number": 6483,
+      "closed_at": "2023-02-28T18:15:14Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1602332382,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6482",
+      "title": "Add Support for `COLLECTIVE_MEMBER_CREATED` for Slack/Discord notifications",
+      "number": 6482,
+      "closed_at": "2023-02-28T18:30:48Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1590998515,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6436",
+      "title": "Alphabetise filter menu items",
+      "number": 6436,
+      "closed_at": "2023-02-28T08:09:32Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ersachin3112",
+          "html_url": "https://github.com/ersachin3112"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1549600329,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6350",
+      "title": "Delete files from remote S3 when updated in DB",
+      "number": 6350,
+      "closed_at": "2023-02-28T16:22:18Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "blocked → waiting parent",
+          "color": "b60205"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1353550802,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5916",
+      "title": "Macron should default to non-macron character not hyphen",
+      "number": 5916,
+      "closed_at": "2023-02-28T08:34:57Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "blocked → waiting parent",
+          "color": "b60205"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
     }
   ]
 }
