@@ -2697,6 +2697,140 @@
       ],
       "assignees": [],
       "closed_week": 9
+    },
+    {
+      "id": 1605226635,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6498",
+      "title": "Setting Password with Already Set 2FA Gives Errors",
+      "number": 6498,
+      "closed_at": "2023-03-01T17:03:10Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
+    },
+    {
+      "id": 1604212013,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6489",
+      "title": "Terms of service not linked on sign up ",
+      "number": 6489,
+      "closed_at": "2023-03-01T13:57:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1602526810,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6485",
+      "title": "Small responsiveness issue on Contribution page",
+      "number": 6485,
+      "closed_at": "2023-03-01T14:23:52Z",
+      "labels": [
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "responsiveness",
+          "color": "f9d2bb"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1577363689,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6402",
+      "title": "Custom pages for application errors on Heroku",
+      "number": 6402,
+      "closed_at": "2023-03-01T08:56:38Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1375681198,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5962",
+      "title": "Archiving account should be an asynchonous job",
+      "number": 5962,
+      "closed_at": "2023-03-01T11:23:43Z",
+      "labels": [
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
     }
   ]
 }
