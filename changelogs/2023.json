@@ -2831,6 +2831,30 @@
       ],
       "assignees": [],
       "closed_week": 9
+    },
+    {
+      "id": 1578858076,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6408",
+      "title": "Manually Applying for OSC `Bad Credentials` Error",
+      "number": 6408,
+      "closed_at": "2023-03-02T14:32:55Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
     }
   ]
 }
