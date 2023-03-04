@@ -2855,6 +2855,149 @@
         }
       ],
       "closed_week": 9
+    },
+    {
+      "id": 1604713739,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6494",
+      "title": "Wrong \"Back to Collective Page\" link in the contribution flow",
+      "number": 6494,
+      "closed_at": "2023-03-03T12:14:09Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 9
+    },
+    {
+      "id": 1554104407,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6365",
+      "title": "Wrong GST amount charged on single Collective",
+      "number": 6365,
+      "closed_at": "2023-03-03T13:49:42Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1327062835,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5815",
+      "title": "Select a Collective when using Contact form ",
+      "number": 5815,
+      "closed_at": "2023-03-03T12:07:01Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1309442728,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5757",
+      "title": "Pre-rendered text for Private Instructions for Events should be padded and left-aligned",
+      "number": 5757,
+      "closed_at": "2023-03-03T09:52:04Z",
+      "labels": [
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "NikitaKorevo",
+          "html_url": "https://github.com/NikitaKorevo"
+        }
+      ],
+      "closed_week": 9
+    },
+    {
+      "id": 1298564145,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5731",
+      "title": "Contribution flow amount URL parameters not working with crypto contributions",
+      "number": 5731,
+      "closed_at": "2023-03-03T11:32:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 9
     }
   ]
 }
