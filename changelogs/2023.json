@@ -2999,5 +2999,218 @@
       ],
       "closed_week": 9
     }
+  ],
+  "week-10": [
+    {
+      "id": 1608818828,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6511",
+      "title": "Error message for long filename is confusing",
+      "number": 6511,
+      "closed_at": "2023-03-06T15:06:19Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1608675545,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6508",
+      "title": "Update tax when updating order amount",
+      "number": 6508,
+      "closed_at": "2023-03-06T11:03:23Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1599584656,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6473",
+      "title": "Duplication of content in Fiscal-Hosting Info page",
+      "number": 6473,
+      "closed_at": "2023-03-06T09:47:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "wording",
+          "color": "1807BA"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 10
+    },
+    {
+      "id": 1562026391,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6381",
+      "title": "Change default step for amount arrows in the contribution flow",
+      "number": 6381,
+      "closed_at": "2023-03-06T10:06:05Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$100",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1527227071,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6293",
+      "title": "Receiving host onboarding email before being approved",
+      "number": 6293,
+      "closed_at": "2023-03-06T15:07:00Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1461578378,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6184",
+      "title": "\"Delete\" should be part of expense's \"More actions\" button",
+      "number": 6184,
+      "closed_at": "2023-03-06T10:02:16Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$200",
+          "color": "85bb65"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1193527041,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5392",
+      "title": "'Pending' Application appears as 'Already Hosted'",
+      "number": 5392,
+      "closed_at": "2023-03-06T09:46:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    }
   ]
 }
