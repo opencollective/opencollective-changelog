@@ -3211,6 +3211,198 @@
         }
       ],
       "closed_week": 10
+    },
+    {
+      "id": 1611442216,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6514",
+      "title": "Contributors cache inefficient on cache miss",
+      "number": 6514,
+      "closed_at": "2023-03-07T16:08:31Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "performance",
+          "color": "0808e0"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1607307744,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6502",
+      "title": "Wise: Edge case when paying expense where Expense.Currency = Collective.Currency != Host.Currency = Payee.Currency",
+      "number": 6502,
+      "closed_at": "2023-03-07T16:31:44Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "transferwise",
+          "color": "6fdbac"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1522390785,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6278",
+      "title": "Host with Pending Applications - Not Deactivating Properly",
+      "number": 6278,
+      "closed_at": "2023-03-07T18:24:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1391116178,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6006",
+      "title": "Add a new checkbox to enforce 2FA at the organization level",
+      "number": 6006,
+      "closed_at": "2023-03-07T17:00:50Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1332669215,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5839",
+      "title": "uploaded filetype error message confusing",
+      "number": 5839,
+      "closed_at": "2023-03-07T08:59:30Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "NikitaKorevo",
+          "html_url": "https://github.com/NikitaKorevo"
+        }
+      ],
+      "closed_week": 10
+    },
+    {
+      "id": 1310715705,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5766",
+      "title": "Improve contribute cards layout when no activity",
+      "number": 5766,
+      "closed_at": "2023-03-07T08:25:01Z",
+      "labels": [
+        {
+          "name": "backlog",
+          "color": "444444"
+        },
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "bounty",
+          "color": "85bb65"
+        },
+        {
+          "name": "$100",
+          "color": "85bb65"
+        },
+        {
+          "name": "design",
+          "color": "0041A3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 10
     }
   ]
 }
