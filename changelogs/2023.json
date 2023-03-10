@@ -3427,6 +3427,38 @@
         }
       ],
       "closed_week": 10
+    },
+    {
+      "id": 1613540236,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6521",
+      "title": "Expense title input hides text when too long",
+      "number": 6521,
+      "closed_at": "2023-03-09T21:29:01Z",
+      "labels": [
+        {
+          "name": "css",
+          "color": "65c438"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 10
     }
   ]
 }
