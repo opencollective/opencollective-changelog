@@ -3460,5 +3460,63 @@
       ],
       "closed_week": 10
     }
+  ],
+  "week-11": [
+    {
+      "id": 1619626287,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6544",
+      "title": "Disable Manual Bank Payment Method when User Select Recurring Contribution",
+      "number": 6544,
+      "closed_at": "2023-03-13T15:58:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1614218920,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6526",
+      "title": "\"Be the first one to contribute\" displayed despite no contributors at all",
+      "number": 6526,
+      "closed_at": "2023-03-13T07:29:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "snitin315",
+          "html_url": "https://github.com/snitin315"
+        }
+      ],
+      "closed_week": 11
+    }
   ]
 }
