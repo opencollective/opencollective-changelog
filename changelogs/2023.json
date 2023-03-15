@@ -3517,6 +3517,113 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 1622939919,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6550",
+      "title": "Template stack Setelah Mengisi Data Apapun Itu,",
+      "number": 6550,
+      "closed_at": "2023-03-14T09:07:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 11
+    },
+    {
+      "id": 1619710825,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6545",
+      "title": "Edit/Create Tier Modal has Broken DropDown Menus when Scrolling",
+      "number": 6545,
+      "closed_at": "2023-03-14T16:42:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1613550459,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6522",
+      "title": "Tag input z-index issue",
+      "number": 6522,
+      "closed_at": "2023-03-14T16:43:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1610553638,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6512",
+      "title": "country list behind add funds modal",
+      "number": 6512,
+      "closed_at": "2023-03-14T16:42:37Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
