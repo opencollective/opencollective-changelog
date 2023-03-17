@@ -3652,6 +3652,181 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 1626408213,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6563",
+      "title": "PayPal Donation Error - Invalid String Length",
+      "number": 6563,
+      "closed_at": "2023-03-16T07:50:20Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1622224459,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6547",
+      "title": "Accountant can't see expense comments",
+      "number": 6547,
+      "closed_at": "2023-03-16T14:38:13Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1617800310,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6538",
+      "title": "Show Projects in Manage Contributions page",
+      "number": 6538,
+      "closed_at": "2023-03-16T08:56:17Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1615918685,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6531",
+      "title": "Error when logout from settings",
+      "number": 6531,
+      "closed_at": "2023-03-16T09:10:49Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 11
+    },
+    {
+      "id": 1435422324,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6102",
+      "title": "Accountant should be able to access attachments",
+      "number": 6102,
+      "closed_at": "2023-03-16T14:38:12Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1325195936,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5803",
+      "title": "Show number of comments on host admin expense view",
+      "number": 5803,
+      "closed_at": "2023-03-16T08:49:07Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "JoyLubega",
+          "html_url": "https://github.com/JoyLubega"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
