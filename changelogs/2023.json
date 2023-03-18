@@ -3827,6 +3827,66 @@
         }
       ],
       "closed_week": 11
+    },
+    {
+      "id": 1628082065,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6569",
+      "title": "Resetting Tier Goal Defaults to Previous Value",
+      "number": 6569,
+      "closed_at": "2023-03-17T13:16:46Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
+    },
+    {
+      "id": 1628046263,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6568",
+      "title": "Updating Custom Tier Amount Gives Error",
+      "number": 6568,
+      "closed_at": "2023-03-17T13:16:26Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 11
     }
   ]
 }
