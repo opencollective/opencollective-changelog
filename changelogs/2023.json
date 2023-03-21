@@ -3888,5 +3888,67 @@
       ],
       "closed_week": 11
     }
+  ],
+  "week-12": [
+    {
+      "id": 1607006851,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6501",
+      "title": "Remove select fiscal host cards from collective Admin section",
+      "number": 6501,
+      "closed_at": "2023-03-20T18:47:00Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "technical-debt",
+          "color": "000000"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 1516931818,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6266",
+      "title": "Automated Monthly Contribution Email Errors",
+      "number": 6266,
+      "closed_at": "2023-03-20T14:03:25Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
+    }
   ]
 }
