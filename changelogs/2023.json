@@ -3949,6 +3949,21 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 1581435732,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6414",
+      "title": "Data truncation warnings & permissions",
+      "number": 6414,
+      "closed_at": "2023-03-21T09:12:50Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 12
     }
   ]
 }
