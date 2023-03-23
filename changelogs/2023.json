@@ -3964,6 +3964,38 @@
       ],
       "assignees": [],
       "closed_week": 12
+    },
+    {
+      "id": 1616761300,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6533",
+      "title": "Improve test performance for `test/server/lib/merge-accounts.test.ts`",
+      "number": 6533,
+      "closed_at": "2023-03-22T09:11:56Z",
+      "labels": [
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "test",
+          "color": "0129c6"
+        },
+        {
+          "name": "developer experience",
+          "color": "f9cd8b"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
