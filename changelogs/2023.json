@@ -3996,6 +3996,98 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 1636693612,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6597",
+      "title": "Regression Caused by Permissions Change - Expenses",
+      "number": 6597,
+      "closed_at": "2023-03-23T17:22:30Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "discussion",
+          "color": "93b50e"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 1631759030,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6581",
+      "title": "PayPal payout error: Cannot read properties of undefined (reading 'senderFees')",
+      "number": 6581,
+      "closed_at": "2023-03-23T08:27:52Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "priority",
+          "color": "63d843"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 1617663874,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6537",
+      "title": "Unverified option has incorrect title",
+      "number": 6537,
+      "closed_at": "2023-03-23T10:01:09Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "NikitaKorevo",
+          "html_url": "https://github.com/NikitaKorevo"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
