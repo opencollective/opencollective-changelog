@@ -4088,6 +4088,90 @@
         }
       ],
       "closed_week": 12
+    },
+    {
+      "id": 1624536484,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6558",
+      "title": "Draft expense not showing GST",
+      "number": 6558,
+      "closed_at": "2023-03-24T15:03:43Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 1618229092,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6540",
+      "title": "New Transaction/Expense Webhook Events for Fiscal Hosts",
+      "number": 6540,
+      "closed_at": "2023-03-24T15:52:16Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 12
+    },
+    {
+      "id": 1618228252,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6539",
+      "title": "New Transaction/Expense Webhook Events for Projects",
+      "number": 6539,
+      "closed_at": "2023-03-24T15:52:17Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 12
     }
   ]
 }
