@@ -4173,5 +4173,35 @@
       ],
       "closed_week": 12
     }
+  ],
+  "week-13": [
+    {
+      "id": 1622218931,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6546",
+      "title": "Add internal date field as column to CSV",
+      "number": 6546,
+      "closed_at": "2023-03-28T14:43:06Z",
+      "labels": [
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "rest",
+          "color": "d5a8ea"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 13
+    }
   ]
 }
