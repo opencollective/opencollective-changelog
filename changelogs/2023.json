@@ -4202,6 +4202,62 @@
         }
       ],
       "closed_week": 13
+    },
+    {
+      "id": 1636875924,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6598",
+      "title": "Min Admin Requirement - Projects, Events",
+      "number": 6598,
+      "closed_at": "2023-03-29T09:26:21Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1595717425,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6463",
+      "title": "Add a 'Contact' button to Projects",
+      "number": 6463,
+      "closed_at": "2023-03-29T09:08:43Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 13
     }
   ]
 }
