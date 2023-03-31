@@ -4258,6 +4258,222 @@
         }
       ],
       "closed_week": 13
+    },
+    {
+      "id": 1646765646,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6616",
+      "title": "Add Funds Button Does Not Appear for New Orgs",
+      "number": 6616,
+      "closed_at": "2023-03-30T18:32:45Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1643518774,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6609",
+      "title": "Host admin: cannot filter contributions by status when there's a search term",
+      "number": 6609,
+      "closed_at": "2023-03-30T19:02:36Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1639914282,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6602",
+      "title": "Contribution page is missing a \"Not found\" view",
+      "number": 6602,
+      "closed_at": "2023-03-30T19:06:18Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1627400601,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6566",
+      "title": "Security checks wrongly added in expense admin tag tooltip",
+      "number": 6566,
+      "closed_at": "2023-03-30T19:03:17Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "kewitz",
+          "html_url": "https://github.com/kewitz"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1532376639,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6311",
+      "title": "Missing `ADDED_FUND` translation on orders page",
+      "number": 6311,
+      "closed_at": "2023-03-30T09:06:59Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        },
+        {
+          "name": "i18n",
+          "color": "138fa5"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "ShreyaPrasad1209",
+          "html_url": "https://github.com/ShreyaPrasad1209"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1483132468,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6224",
+      "title": "Add DRAFT to expense filters",
+      "number": 6224,
+      "closed_at": "2023-03-30T08:02:41Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "bounty candidate",
+          "color": "eaffb2"
+        },
+        {
+          "name": "complexity → minimal",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "NikitaKorevo",
+          "html_url": "https://github.com/NikitaKorevo"
+        }
+      ],
+      "closed_week": 13
+    },
+    {
+      "id": 1269257583,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5651",
+      "title": "Move added funds",
+      "number": 5651,
+      "closed_at": "2023-03-30T21:51:12Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 13
     }
   ]
 }
