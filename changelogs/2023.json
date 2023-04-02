@@ -4474,6 +4474,29 @@
         }
       ],
       "closed_week": 13
+    },
+    {
+      "id": 797694145,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3933",
+      "title": "Problem creating donation",
+      "number": 3933,
+      "closed_at": "2023-04-01T22:49:54Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "complexity → unknown",
+          "color": "f99db1"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 13
     }
   ]
 }
