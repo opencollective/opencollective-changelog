@@ -4498,5 +4498,22 @@
       "assignees": [],
       "closed_week": 13
     }
+  ],
+  "week-14": [
+    {
+      "id": 1651099693,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6629",
+      "title": "[API] Allow donation in arbitrary currency",
+      "number": 6629,
+      "closed_at": "2023-04-03T08:55:34Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
+    }
   ]
 }
