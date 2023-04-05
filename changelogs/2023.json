@@ -4514,6 +4514,94 @@
       ],
       "assignees": [],
       "closed_week": 14
+    },
+    {
+      "id": 1648945373,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6623",
+      "title": "Removing Admins for Events and Projects - Admin Count Incorrect",
+      "number": 6623,
+      "closed_at": "2023-04-04T17:49:47Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1648483525,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6621",
+      "title": "Cannot edit event without loosing previously uploaded images and paragraphs moving around.",
+      "number": 6621,
+      "closed_at": "2023-04-04T15:55:48Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1359223483,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5927",
+      "title": "Add local tax support to \"Add funds\" (VAT, GST)",
+      "number": 5927,
+      "closed_at": "2023-04-04T07:17:37Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "tax",
+          "color": "e86d94"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
     }
   ]
 }
