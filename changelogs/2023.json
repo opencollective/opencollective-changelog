@@ -4602,6 +4602,89 @@
         }
       ],
       "closed_week": 14
+    },
+    {
+      "id": 1649617658,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6626",
+      "title": "Adding New Admins in Onboarding Flow Gives Error",
+      "number": 6626,
+      "closed_at": "2023-04-05T09:00:27Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1533167055,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6317",
+      "title": "Support Spam",
+      "number": 6317,
+      "closed_at": "2023-04-05T09:56:00Z",
+      "labels": [
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "security",
+          "color": "0e8a16"
+        }
+      ],
+      "assignees": [],
+      "closed_week": 14
+    },
+    {
+      "id": 951953001,
+      "html_url": "https://github.com/opencollective/opencollective/issues/4492",
+      "title": "Calculate host fee on pre-tax total",
+      "number": 4492,
+      "closed_at": "2023-04-05T08:31:53Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "tax",
+          "color": "e86d94"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
     }
   ]
 }
