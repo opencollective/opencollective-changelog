@@ -4685,6 +4685,62 @@
         }
       ],
       "closed_week": 14
+    },
+    {
+      "id": 1653771335,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6634",
+      "title": "Recurring expenses: \"Remove receipt\" doesn't remove the right item",
+      "number": 6634,
+      "closed_at": "2023-04-06T07:43:11Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1312112635,
+      "html_url": "https://github.com/opencollective/opencollective/issues/5771",
+      "title": "Root action to change profile type between individual / org",
+      "number": 5771,
+      "closed_at": "2023-04-06T16:26:39Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "SudharakaP",
+          "html_url": "https://github.com/SudharakaP"
+        }
+      ],
+      "closed_week": 14
     }
   ]
 }
