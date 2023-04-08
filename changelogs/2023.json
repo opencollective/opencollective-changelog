@@ -4741,6 +4741,70 @@
         }
       ],
       "closed_week": 14
+    },
+    {
+      "id": 1617069220,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6534",
+      "title": "Contribution flow amount button disappears on mobile",
+      "number": 6534,
+      "closed_at": "2023-04-07T07:02:03Z",
+      "labels": [
+        {
+          "name": "bug",
+          "color": "fc2929"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "NikitaKorevo",
+          "html_url": "https://github.com/NikitaKorevo"
+        }
+      ],
+      "closed_week": 14
+    },
+    {
+      "id": 1614405793,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6528",
+      "title": "Custom application email template for OCF",
+      "number": 6528,
+      "closed_at": "2023-04-07T07:33:36Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "good first issue",
+          "color": "bfd4f2"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "sreenidhithallam",
+          "html_url": "https://github.com/sreenidhithallam"
+        }
+      ],
+      "closed_week": 14
     }
   ]
 }
