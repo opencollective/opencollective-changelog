@@ -4806,5 +4806,131 @@
       ],
       "closed_week": 14
     }
+  ],
+  "week-15": [
+    {
+      "id": 1535068131,
+      "html_url": "https://github.com/opencollective/opencollective/issues/6328",
+      "title": "De-index profiles when not active",
+      "number": 6328,
+      "closed_at": "2023-04-11T07:30:24Z",
+      "labels": [
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "enhancement",
+          "color": "ff6bc1"
+        },
+        {
+          "name": "SEO",
+          "color": "f265d3"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 656302014,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3330",
+      "title": "[Project] Ability for Fiscal Hosts to \"un-host\" Collectives ",
+      "number": 3330,
+      "closed_at": "2023-04-11T08:57:19Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → medium",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "important",
+          "color": "754fdd"
+        },
+        {
+          "name": "hosts",
+          "color": "DAF507"
+        },
+        {
+          "name": "ocf",
+          "color": "952E2D"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        },
+        {
+          "login": "hdiniz",
+          "html_url": "https://github.com/hdiniz"
+        },
+        {
+          "login": "Memo-Es",
+          "html_url": "https://github.com/Memo-Es"
+        },
+        {
+          "login": "shannondwray",
+          "html_url": "https://github.com/shannondwray"
+        }
+      ],
+      "closed_week": 15
+    },
+    {
+      "id": 635337621,
+      "html_url": "https://github.com/opencollective/opencollective/issues/3224",
+      "title": "Add transaction details on expense page",
+      "number": 3224,
+      "closed_at": "2023-04-11T07:28:38Z",
+      "labels": [
+        {
+          "name": "feature",
+          "color": "dbbdf9"
+        },
+        {
+          "name": "complexity → simple",
+          "color": "f99db1"
+        },
+        {
+          "name": "api",
+          "color": "522f99"
+        },
+        {
+          "name": "frontend",
+          "color": "b6adea"
+        },
+        {
+          "name": "stale",
+          "color": "ffffff"
+        }
+      ],
+      "assignees": [
+        {
+          "login": "Betree",
+          "html_url": "https://github.com/Betree"
+        }
+      ],
+      "closed_week": 15
+    }
   ]
 }
